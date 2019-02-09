@@ -1,0 +1,1336 @@
+0.9685984063	neurospora crassa
+0.9684365584	bacillus subtilis
+0.9680501827	staphylococcus aureus
+0.9640535406	endoplasmic reticulum
+0.9636189423	open reading frames
+0.9634231589	caenorhabditis elegans
+0.9601491466	alkaline phosphatase
+0.9597385412	escherichia coli
+0.9592934886	superoxide dismutase
+0.9585141574	leucine zipper
+0.9581512259	open reading frame
+0.9574176148	bone marrow
+0.9563858120	thyroid hormone
+0.9559959126	polymerase chain reaction
+0.9545629181	western blot
+0.9540938610	herpes simplex
+0.9540759707	cyclic amp
+0.9540559673	diabetes mellitus
+0.9532968134	fatty acids
+0.9530879947	saccharomyces cerevisiae
+0.9516459199	base pairs
+0.9516273293	magnetic resonance
+0.9511646693	skeletal muscle
+0.9494327828	schizosaccharomyces pombe
+0.9490008690	epidermal growth factor
+0.9476975077	monoamine oxidase
+0.9466269028	heart failure
+0.9464050771	signal transduction
+0.9462952090	spinal cord
+0.9461572867	breast cancer
+0.9431666795	heat shock
+0.9428666696	myocardial infarction
+0.9428366553	cerebrospinal fluid
+0.9420681876	zinc finger
+0.9419570320	academic press
+0.9412567876	monoclonal antibody
+0.9410683378	drosophila melanogaster
+0.9398346588	vaccinia virus
+0.9395934422	ejection fraction
+0.9367212908	amino acids
+0.9365981121	base pair
+0.9361317405	cell line
+0.9340838978	cyclin d1
+0.9309614166	gel electrophoresis
+0.9292549017	retinoic acid
+0.9290548122	northern blot
+0.9281781760	tata box
+0.9270408621	thymidine kinase
+0.9269573317	lung cancer
+0.9269390859	blood pressure
+0.9267034126	mitogen activated protein kinase
+0.9266622436	acute myocardial infarction
+0.9262678174	smooth muscle
+0.9261051270	sh2 domain
+0.9253644231	rt pcr
+0.9252087320	cardiac output
+0.9247493902	dna polymerase
+0.9242554995	fatty acid
+0.9239092947	cell cycle
+0.9214123205	chloramphenicol acetyltransferase
+0.9211972341	coding region
+0.9208194228	tyrosine kinases
+0.9205971733	steady state
+0.9191403392	factor viii
+0.9189688236	gm csf
+0.9182075483	primer extension
+0.9176198841	amino acid
+0.9173027581	renal failure
+0.9156581145	herpes simplex virus
+0.9144911544	map kinase
+0.9107155153	c jun
+0.9096495440	heart rate
+0.9090666336	rna polymerase
+0.9076924261	wild type
+0.9073969206	budding yeast
+0.9062535103	alternatively spliced
+0.9052510556	c fos
+0.9024519968	body weight
+0.9022520600	antithrombin iii
+0.9016191084	reading frame
+0.9009571915	liquid chromatography
+0.9003527273	signaling pathways
+0.8998699774	left ventricular
+0.8997634597	site directed mutagenesis
+0.8990733139	s1 nuclease
+0.8977715601	tumor suppressor
+0.8972290769	alternative splicing
+0.8968317920	radiation therapy
+0.8954010231	carboxyl terminus
+0.8949828093	vitamin d3
+0.8939559743	electrophoretic mobility shift
+0.8925541539	heavy chain
+0.8898597455	cyclin dependent kinase
+0.8894128533	glutathione s transferase
+0.8893236706	insulin like growth factor
+0.8890431685	ternary complex
+0.8888506970	cdna library
+0.8887065238	tumor necrosis factor
+0.8885549881	il 6
+0.8878127787	fusion protein
+0.8876199729	tumor necrosis factor alpha
+0.8853007519	binding site
+0.8852293980	tnf alpha
+0.8845727284	transcription factor
+0.8835589345	beta galactosidase
+0.8833120890	cooh terminal
+0.8824975173	reporter gene
+0.8823187535	ubiquitously expressed
+0.8817780821	tc 99m
+0.8814755231	ng ml
+0.8810694627	ribosomal protein
+0.8804182905	nuclear extracts
+0.8788798846	cell growth
+0.8779209006	fission yeast
+0.8766796719	plasminogen activator
+0.8756182029	plasma renin activity
+0.8748063263	high performance liquid
+0.8735665575	phorbol ester
+0.8729819278	alpha helical
+0.8727890154	mm hg
+0.8726864516	electrophoretic mobility shift assays
+0.8721886761	human immunodeficiency virus
+0.8702161356	coronary artery
+0.8699178293	gel mobility shift
+0.8689227138	consensus sequence
+0.8667610778	statistically significant
+0.8665463412	extracellular signal regulated kinase
+0.8662847564	family member
+0.8658998461	tyrosine kinase
+0.8651894780	cell lines
+0.8649934956	transmembrane domain
+0.8647774577	long terminal repeat
+0.8638714267	blood flow
+0.8636016034	pg ml
+0.8635074832	nf kappab
+0.8613788902	nh2 terminal
+0.8611455858	epithelial cells
+0.8608719943	tyrosine phosphorylated
+0.8605026956	transgenic mice
+0.8589571859	epstein barr virus
+0.8578909921	double stranded
+0.8575957977	growth hormone
+0.8573949443	single stranded
+0.8559331092	c myc
+0.8551173740	molecular weight
+0.8550251699	calcium antagonist
+0.8541890247	deduced amino acid sequence
+0.8536987263	mg kg
+0.8514203072	transient transfection
+0.8511882095	dna replication
+0.8507558812	dna repair
+0.8485165180	simian virus 40
+0.8482907843	rna polymerase ii
+0.8477903890	amino terminus
+0.8467671037	binding sites
+0.8464813179	nih 3t3 cells
+0.8459741799	src homology
+0.8456297351	luciferase reporter
+0.8452857249	serine threonine
+0.8451900541	cis acting
+0.8449278144	endothelial cells
+0.8446394403	proline rich
+0.8444538529	insulin receptor
+0.8424256576	proto oncogene
+0.8414133284	dependent manner
+0.8414062087	amino terminal
+0.8398441338	micrograms kg
+0.8394189127	coding sequence
+0.8393330355	molecular mass
+0.8386720579	long term
+0.8384846627	hela cells
+0.8378288957	northern blot analysis
+0.8371934263	n terminus
+0.8356915317	dominant negative
+0.8349823675	gtpase activating
+0.8348074396	bcl 2
+0.8322835666	short term
+0.8319959058	sequence analysis
+0.8318407557	tgf beta
+0.8311216455	carboxyl terminal
+0.8309564873	dna binding domain
+0.8307694662	mg m2
+0.8305005057	gene cluster
+0.8301077771	nih 3t3
+0.8298311585	tgf beta1
+0.8285296847	helix loop helix
+0.8283978737	amino acid residues
+0.8274864298	dna binding
+0.8271153501	beta globin
+0.8246220164	cross linking
+0.8227120164	abstract truncated at 250 words
+0.8225181610	double blind
+0.8222531165	nuclear factor
+0.8217590476	reading frames
+0.8210823332	genomic library
+0.8203439070	receptor antagonist
+0.8197006072	risk factors
+0.8189755461	reporter plasmid
+0.8184354337	mitogen activated protein
+0.8184138103	high mobility group
+0.8179884513	ifn gamma
+0.8175259666	temperature sensitive
+0.8157803745	hiv 1
+0.8148934339	gene expression
+0.8142782991	protein kinase
+0.8137256819	transcription factors
+0.8134271876	family members
+0.8133298741	amino acid sequence
+0.8124729937	point mutations
+0.8122189097	untranslated regions
+0.8107829106	responsive element
+0.8092341365	human immunodeficiency virus type 1
+0.8092279942	signaling pathway
+0.8082270782	mg dl
+0.8077062565	nuclear localization
+0.8057274038	active site
+0.8055992414	jun n terminal kinase
+0.8038223735	cdna clones
+0.8027818204	molecular cloning
+0.8016466985	provide evidence
+0.8012788525	cdna clone
+0.7986478822	transcription initiation site
+0.7984090247	gc rich
+0.7979461585	phosphatidylinositol 3 kinase
+0.7976063357	x ray
+0.7957337053	mutational analysis
+0.7956128091	untranslated region
+0.7946075990	carboxy terminal
+0.7944548436	colony stimulating
+0.7941435786	closely related
+0.7933115492	previously reported
+0.7917823921	gene product
+0.7911276091	arterial pressure
+0.7906446869	dnase i footprinting
+0.7887699849	tyrosine phosphorylation
+0.7876819018	atp binding
+0.7875169149	highly conserved
+0.7874396513	flow rate
+0.7858856280	ap 1
+0.7858302634	significantly higher
+0.7856179574	secondary structure
+0.7828082099	type ii
+0.7826945030	start site
+0.7791529360	hepatitis c virus
+0.7791275924	dna fragment
+0.7790975152	dna synthesis
+0.7790350715	guanine nucleotide
+0.7770181478	growth factor
+0.7759063507	genomic clone
+0.7745948948	cell death
+0.7742641171	response element
+0.7730234332	promoter activity
+0.7712912453	gtp binding
+0.7701934640	transcriptional activation
+0.7685158093	immediately upstream
+0.7682641094	binding protein
+0.7664683134	shift assays
+0.7646083865	enzyme activity
+0.7645998249	electrophoretic mobility
+0.7645325841	single copy
+0.7642980732	structural features
+0.7638246227	significant correlation
+0.7629561357	fusion proteins
+0.7626520811	mobility shift
+0.7622843531	genomic dna
+0.7608961073	cell types
+0.7605553379	c terminus
+0.7599208072	alpha subunit
+0.7587294482	growth factors
+0.7560282002	dna sequence
+0.7554953088	transformed cells
+0.7549466930	yeast two hybrid
+0.7543910465	expression vector
+0.7524856389	cytoplasmic domain
+0.7504040989	cell surface
+0.7483459768	hepg2 cells
+0.7467207170	reverse transcription
+0.7466615374	significant difference
+0.7429306273	catalytic domain
+0.7414305028	flanking region
+0.7405752131	binding domain
+0.7367601091	peripheral blood
+0.7341913078	patients receiving
+0.7330075726	nucleotide sequence
+0.7324840761	ligand binding
+0.7290831512	transactivation domain
+0.7277852349	activate transcription
+0.7265381442	cloned and sequenced
+0.7255651252	cell proliferation
+0.7233624008	sequence homology
+0.7219376416	type iii
+0.7210257685	results suggest
+0.7194123480	specific manner
+0.7187294683	regulatory region
+0.7187214125	high dose
+0.7185238007	dna fragments
+0.7183582866	ml min
+0.7178476963	high affinity
+0.7177181696	patients undergoing
+0.7171761306	serum ige
+0.7167524234	genes encoding
+0.7160486360	kinase activity
+0.7160350607	converting enzyme
+0.7145939300	bp upstream
+0.7140965840	dependent protein kinase
+0.7132930577	transcription initiation
+0.7121620430	results demonstrate
+0.7114682931	proximal promoter
+0.7104103440	transient expression
+0.7090223790	mobility shift assays
+0.7073135381	beta adrenergic
+0.7014576183	previous studies
+0.6998509028	transcriptional regulation
+0.6985128238	regulatory elements
+0.6978752345	induced apoptosis
+0.6973377248	immediate early
+0.6963960950	years of age
+0.6942911275	ml kg
+0.6932608853	nuclear receptors
+0.6924709001	response elements
+0.6877797866	tissue specific
+0.6859287782	activated protein kinase
+0.6833964465	exon intron
+0.6824873300	flanking sequence
+0.6820061489	high risk
+0.6751459753	control subjects
+0.6744630716	in situ hybridization
+0.6739084530	sequence similarity
+0.6727668492	dose dependent
+0.6702209378	significantly decreased
+0.6700584829	pre mrna
+0.6681093519	splice site
+0.6659384606	cleavage site
+0.6648313631	regulatory element
+0.6647906076	central nervous system
+0.6639760351	zinc finger protein
+0.6638432908	full length
+0.6635649160	data suggest
+0.6615607079	class ii
+0.6586178574	high level
+0.6579104087	abstract truncated at
+0.6574242305	c ebp
+0.6574148689	rich region
+0.6568444920	high affinity binding
+0.6564039311	hepatitis b virus
+0.6548798280	rat liver
+0.6539028670	significantly lower
+0.6513227939	dna binding activity
+0.6490706026	kda protein
+0.6476589831	protein protein interactions
+0.6473175380	colony stimulating factor
+0.6471702780	initiation factor
+0.6426344483	transcriptional activity
+0.6406032052	transcription start site
+0.6405397006	enhancer binding protein
+0.6402710401	stranded dna
+0.6391473278	per cent
+0.6387418406	nf kappa
+0.6383210554	e box
+0.6381142937	nf kappa b
+0.6351223010	13 acetate
+0.6320037443	sarcoma virus
+0.6297839857	complex formation
+0.6286497886	mean + sd
+0.6279574441	normal subjects
+0.6229918909	tissue specific expression
+0.6221323323	significantly reduced
+0.6213330356	dna binding protein
+0.6202736558	human chromosome
+0.6177529051	deletion analysis
+0.6172998444	et al
+0.6142246639	c terminal
+0.6136660910	yeast saccharomyces cerevisiae
+0.6123572028	n terminal
+0.6115950621	membrane protein
+0.6109259851	negative regulatory
+0.6072061304	genomic structure
+0.6067291855	previously identified
+0.6033854807	chronic hepatitis
+0.6025912850	kg min
+0.6021217321	essential role
+0.6000779584	c myb
+0.5911803999	gel mobility
+0.5892436619	protein kinases
+0.5881756838	initiation sites
+0.5854252872	95 ci
+0.5832361209	heart disease
+0.5777797888	significant differences
+0.5764513111	transfection assays
+0.5750573941	control group
+0.5705496345	important role
+0.5645528790	camp dependent
+0.5615205925	whole body
+0.5568669091	nuclear proteins
+0.5536373836	r = 0
+0.5515700546	enhancer activity
+0.5509539616	extracellular signal regulated
+0.5487532566	directed mutagenesis
+0.5462932490	previously shown
+0.5458846517	human t cell
+0.5436218929	infected cells
+0.5433377589	follow up
+0.5432161354	the present study
+0.5359643220	these findings suggest
+0.5346159865	activation domain
+0.5330436276	no significant differences
+0.5235048893	findings suggest
+0.5226029410	binding proteins
+0.5219621852	cyclin dependent
+0.5185461722	without affecting
+0.5170662007	beta subunit
+0.5136216096	t cell
+0.5130541663	transcription start
+0.5122392897	amino acid protein
+0.5108964281	24 hours
+0.5096826733	highly homologous
+0.5065242133	this paper
+0.5054816670	gene transcription
+0.5011324437	these results suggest
+0.5005839905	necrosis factor alpha
+0.4921998790	binding activity
+0.4911103155	gene encoding
+0.4897032713	analysis showed
+0.4856325135	sp1 binding
+0.4829248289	these data suggest
+0.4806899513	extracellular signal
+0.4801454755	camp responsive
+0.4800676699	+ 0
+0.4770985621	c ebp beta
+0.4764308781	mmol l
+0.4745561214	v src
+0.4742971278	rich sequence
+0.4738170835	specific dna binding
+0.4733379137	site directed
+0.4727157247	a significant increase
+0.4698359565	initiation site
+0.4692605258	increased significantly
+0.4687565337	t antigen
+0.4662792784	polymerase chain
+0.4651136654	nf y
+0.4634991424	cell specific
+0.4579940878	ap 2
+0.4559296205	year old
+0.4558541003	dna binding proteins
+0.4539953949	mrna expression
+0.4531275215	c terminal region
+0.4513812245	did not change
+0.4500844438	cdna sequence
+0.4491499637	rna binding
+0.4487323086	ca2 +
+0.4458728152	gene products
+0.4430369435	regulatory protein
+0.4429647800	3t3 cells
+0.4419360355	amphotericin b
+0.4395923517	nervous system
+0.4376440897	kappa b
+0.4370775448	kinase domain
+0.4362293598	long terminal
+0.4361123985	plasma levels
+0.4343130777	protein complexes
+0.4337371449	high degree of
+0.4277022474	cell type
+0.4253068511	specific dna
+0.4227339467	patients received
+0.4225140651	amino acid sequences
+0.4223020866	cdna encoding
+0.4212174020	protein kinase c
+0.4212076352	degrees c
+0.4190634091	gene encodes
+0.4125663411	g csf
+0.4060000601	patients with chronic
+0.4055095328	greater than
+0.4026774221	tata less
+0.4023790979	dnase i
+0.4017157204	blot analysis
+0.4014044059	divided into
+0.3995324798	= 0
+0.3964526186	immunodeficiency virus
+0.3956360197	analysis revealed
+0.3938698411	mitogen activated
+0.3932680363	binding motif
+0.3925909800	the other hand
+0.3921291540	dna sequences
+0.3914867712	to explore
+0.3902006400	p = 0
+0.3818843089	did not differ
+0.3804245825	taken together
+0.3791099185	p less than 0
+0.3771625451	did not affect
+0.3748005953	hepatitis b
+0.3736631733	an open reading frame
+0.3732821807	structural gene
+0.3650494321	basal promoter
+0.3622798745	these results demonstrate
+0.3615941870	plasma concentrations
+0.3604078703	irf 1
+0.3604043695	in vivo
+0.3602926766	nuclear protein
+0.3587771989	class i
+0.3523907044	in vitro
+0.3519343106	1 and 2
+0.3507431728	x 10
+0.3498248103	virus type
+0.3491725618	binding specificity
+0.3482688061	greater than or equal to
+0.3478779015	high mobility
+0.3453798683	high levels
+0.3447317480	recombinant human
+0.3446102759	to assess
+0.3429743311	promoter region
+0.3394729025	highly homologous to
+0.3390342763	to evaluate
+0.3388850987	to determine
+0.3355717893	very similar
+0.3350477309	sequence specific
+0.3323392747	24 h
+0.3305905959	s syndrome
+0.3299797183	in mammalian cells
+0.3281671697	10 mg kg
+0.3246667893	to receive
+0.3228178166	il 1
+0.3171165264	gene family
+0.3169637352	p 0
+0.3158899350	plasma renin
+0.3152863596	this study
+0.3152725573	binding domains
+0.3109346151	30 min
+0.3104871594	to examine
+0.3104610963	correlation between
+0.3049172061	previously shown to
+0.3045464642	not affected
+0.3044812334	chain reaction
+0.2982514359	introduced into
+0.2969749142	report here
+0.2953316279	no significant
+0.2908538896	do not
+0.2904045479	s disease
+0.2884974325	depends on
+0.2877861600	protein interactions
+0.2873713820	interleukin 1
+0.2872643060	to analyze
+0.2805556771	high levels of
+0.2798277938	n =
+0.2777012069	very low
+0.2773099244	depending on
+0.2766610414	rather than
+0.2748295723	gene promoter
+0.2743054938	enhancer binding
+0.2738275056	raf 1
+0.2733540174	binding region
+0.2728662834	growth factor receptor
+0.2723001417	site specific
+0.2716477000	a cdna encoding
+0.2705352141	responsible for
+0.2700997006	accompanied by
+0.2698420728	receptor alpha
+0.2677028289	results indicate
+0.2676379475	the entire
+0.2644166300	min 1
+0.2630157371	mg kg i
+0.2609490552	required for
+0.2598082270	a single
+0.2596515121	kinase activation
+0.2539462315	necrosis factor
+0.2509261746	the wild type
+0.2489114266	protein tyrosine
+0.2480141426	tended to
+0.2479221619	an unusual
+0.2471183788	virus type 1
+0.2455265551	flanking region of
+0.2443651053	5 mg kg
+0.2441308896	in vitro transcription
+0.2437988185	ets 1
+0.2415866231	these results
+0.2411297210	ranging from
+0.2405071917	believed to
+0.2401896066	does not
+0.2399270806	data indicate
+0.2388944237	50 mg
+0.2377370611	binding sites for
+0.2357199247	s phase
+0.2351325590	based on
+0.2348393300	amino acid sequences of
+0.2344218675	in addition
+0.2343278736	to investigate
+0.2336431085	protein levels
+0.2328151595	the carboxyl terminal
+0.2326265497	as follows
+0.2324830286	micrograms l
+0.2313866125	transcriptional regulation of
+0.2306133067	more effective
+0.2294993531	at least
+0.2293680449	these findings
+0.2285621916	nuclear extracts from
+0.2282387056	cyclin e
+0.2276951219	with respect to
+0.2274392457	molecular cloning of
+0.2246594127	in vitro and in vivo
+0.2243582459	cell carcinoma
+0.2243417682	protein sequence
+0.2235747171	20 mg
+0.2221596810	renin activity
+0.2221283924	6 kb
+0.2214830516	led to
+0.2203528684	determine whether
+0.2199762019	specific expression
+0.2185986509	this report
+0.2178000533	mutational analysis of
+0.2173083867	derived from
+0.2159227376	encoded by
+0.2153985955	patients with acute
+0.2143384570	thought to
+0.2133944221	did not
+0.2122248790	dependent activation of
+0.2119238291	plasma concentrations of
+0.2104976056	subjected to
+0.2094638542	unable to
+0.2068345248	effect on
+0.2060508889	a dominant negative
+0.2055699481	previously described
+0.2043387489	t cells
+0.2004162296	act as
+0.2001634993	binding site for
+0.1973303788	leading to
+0.1959497820	involved in
+0.1951444720	as well as
+0.1949394823	followed by
+0.1946080230	10 fold
+0.1932290430	an important
+0.1926871777	type i
+0.1915009497	these data
+0.1910009980	consistent with
+0.1902699273	the first exon
+0.1897963615	failed to
+0.1891064514	interact with
+0.1890724224	this region
+0.1882260141	contribute to
+0.1873835534	p =
+0.1869710726	compared with
+0.1857571713	differs from
+0.1854819132	majority of
+0.1851787840	the authors
+0.1851724906	patients with
+0.1825887083	at position
+0.1821556251	referred to
+0.1813798304	transfected into
+0.1811876176	resulted in
+0.1803797962	such as
+0.1793631024	an essential
+0.1791550231	contributes to
+0.1789400978	interacts with
+0.1787064336	phosphatidylinositol 3
+0.1786292780	6 months
+0.1785520968	in conjunction with
+0.1773862788	located between
+0.1765809831	b cell
+0.1765718706	to identify
+0.1758320166	acts as
+0.1753866848	in order to
+0.1745738745	differences between
+0.1745161868	related protein
+0.1741085577	tyrosine phosphorylation of
+0.1727259315	according to
+0.1720984078	hepatitis c
+0.1719254288	the transcription start site
+0.1716455497	able to
+0.1715172705	essential for
+0.1697318077	hours after
+0.1694425617	due to
+0.1693685428	interaction between
+0.1688439446	dependent kinase
+0.1680082090	the cell cycle
+0.1654878428	correlates with
+0.1622519881	association between
+0.1619211499	in contrast
+0.1615583142	before and after
+0.1602335225	less than
+0.1602168328	located within
+0.1596845731	alternative splicing of
+0.1585585417	two hybrid
+0.1579384449	in relation to
+0.1578051563	hybrid system
+0.1575581711	to determine whether
+0.1565998668	these results indicate
+0.1561594856	+ sd
+0.1544607654	the promoter of
+0.1544537988	the amino terminal
+0.1535200707	correlated with
+0.1534259809	compared to
+0.1532774871	analysis indicates
+0.1519775625	cell receptor
+0.1515674321	the frequency of
+0.1514814325	sequence analysis of
+0.1508849129	protein complex
+0.1507790359	associated with
+0.1505674321	the control of
+0.1504607654	the study of
+0.1498906019	a variety of
+0.1497507542	to compare
+0.1496284201	conserved among
+0.1496068261	by means of
+0.1495674321	a group of
+0.1494607654	the transcription of
+0.1491064288	relationship between
+0.1488563723	appears to
+0.1485674321	the ratio of
+0.1479137710	both groups
+0.1475674321	the influence of
+0.1475674321	the binding of
+0.1474607654	a family of
+0.1473030460	in combination with
+0.1465674321	the function of
+0.1465674321	the addition of
+0.1456942648	human gene
+0.1455674321	the interaction of
+0.1454964858	appear to
+0.1453533764	an additional
+0.1451725226	nucleotide sequence of
+0.1450012154	the human immunodeficiency virus
+0.1445745977	ability to
+0.1445674321	the mechanism of
+0.1445674321	a protein of
+0.1442765548	higher than
+0.1435241219	the control group
+0.1425674321	the time of
+0.1421991298	an important role
+0.1409376868	molecular mass of
+0.1399784138	leads to
+0.1398290586	the presence of
+0.1392763960	finger protein
+0.1389589396	kg 1
+0.1382738850	respond to
+0.1376653816	3 months
+0.1375001382	resulting from
+0.1373547276	interactions between
+0.1370167258	beta 2
+0.1365715753	but not
+0.1350072414	seems to
+0.1350016911	capable of
+0.1347149485	open reading frame of
+0.1346136220	the dna binding domain
+0.1333625088	alpha gene
+0.1330845162	corresponds to
+0.1319270724	shown to
+0.1316279470	one patient
+0.1312681879	the dna binding
+0.1309447558	protein binding
+0.1305599815	mammalian cells
+0.1288390760	the promoter region
+0.1287692526	activating protein
+0.1281093928	associate with
+0.1280467709	characterization of
+0.1276707970	cell nuclear
+0.1269540043	dna protein
+0.1264883135	the beta subunit
+0.1259664861	the same
+0.1255068376	ranged from
+0.1248896602	amino acid sequence of
+0.1241310188	participate in
+0.1222779761	dependent activation
+0.1221844951	alpha 1
+0.1216737203	first time
+0.1215847376	k +
+0.1214016020	affinity binding
+0.1211043498	a novel
+0.1208229690	an apparent
+0.1208190976	blocked by
+0.1207662846	prior to
+0.1202290411	5 kb
+0.1198247012	no effect on
+0.1188859610	caused by
+0.1188538210	terminal region
+0.1186833840	no effect
+0.1171197266	in situ
+0.1166891025	more than
+0.1162280453	transcriptional activation of
+0.1158920643	composed of
+0.1157384908	s transferase
+0.1155091731	kg day
+0.1152932133	subset of
+0.1152324313	to achieve
+0.1147792672	terminal region of
+0.1141620139	days after
+0.1134073766	the gene encoding
+0.1133490625	significantly higher in
+0.1131778138	complex containing
+0.1131690576	similar to
+0.1131555990	consisted of
+0.1130274390	+ 8
+0.1126945840	protein protein
+0.1121767895	b cells
+0.1110155362	element binding
+0.1110144121	the c myc
+0.1110144121	the c fos
+0.1096262319	in terms of
+0.1094387734	amino acids of
+0.1094132462	the transcription start
+0.1091302101	factor receptor
+0.1091225054	these data indicate
+0.1070662690	show here
+0.1066006528	consists of
+0.1063257887	the full length
+0.1061836014	a series of
+0.1059076414	gene expression in
+0.1049990276	induced by
+0.1040179803	promoter activity in
+0.1034188838	the nucleotide sequence
+0.1031473338	10 mg
+0.1027547794	all patients
+0.1021985594	separated by
+0.1021560538	two distinct
+0.1020683263	isolated from
+0.1016075861	5 mg
+0.1014045823	type 1
+0.1013035017	g protein
+0.1008941808	driven by
+0.0997158690	the transcription factor
+0.0982158734	the human
+0.0980349323	than or equal to
+0.0979231636	an important role in
+0.0979134400	months after
+0.0966370595	amounts of
+0.0963354583	dna binding domain of
+0.0962711614	recognized by
+0.0961491499	the cytoplasm
+0.0957872899	plasmid containing
+0.0955973214	a putative
+0.0955344780	domain containing
+0.0953343832	important role in
+0.0949730627	regulated kinase
+0.0934816988	also observed
+0.0923194398	regulated by
+0.0915511180	+ 6
+0.0914454578	effects on
+0.0912222115	a total of
+0.0910237512	+ 4
+0.0910084442	the dna binding domain of
+0.0898481940	p less than
+0.0896481366	first exon
+0.0896199597	basis for
+0.0894180676	homology to
+0.0893955903	each other
+0.0889474083	agreement with
+0.0880198452	100 g
+0.0877604791	3 kinase
+0.0871412006	sufficient for
+0.0871103089	the final
+0.0868887828	insulin like
+0.0866464175	identical to
+0.0865950591	coding for
+0.0862126760	analysis of
+0.0857460610	except for
+0.0857367130	a heterologous
+0.0852547598	characterized by
+0.0852219938	related to
+0.0848684649	dependent on
+0.0842353916	transcriptional activity of
+0.0838659175	mediated by
+0.0837739920	necessary for
+0.0837166571	the rat
+0.0836621977	exon 1
+0.0832720493	members of
+0.0821421738	homologous to
+0.0818714248	treated with
+0.0812122260	these studies
+0.0801270474	patients without
+0.0799075624	results show
+0.0794442992	binding domain of
+0.0792168099	group b
+0.0791690803	together with
+0.0791245799	account for
+0.0787625899	two groups
+0.0783611728	role in
+0.0778328664	specific expression of
+0.0771820110	the possibility
+0.0764510034	r =
+0.0761099651	g proteins
+0.0760794219	the context of
+0.0749583110	expression of
+0.0743310180	bind to
+0.0739752897	type b
+0.0733831643	an alternative
+0.0722024001	overexpression of
+0.0716766260	portion of
+0.0715654947	the aim of
+0.0715654947	a result of
+0.0714766657	copies of
+0.0710525318	the nucleus
+0.0705853778	sufficient to
+0.0705778176	three different
+0.0704162423	found to
+0.0703915676	obtained from
+0.0695465536	the occurrence of
+0.0692666777	a significant
+0.0684403262	binding to
+0.0679322012	glutathione s
+0.0675242611	this effect
+0.0672779826	factor 1
+0.0670689321	extracts from
+0.0668218928	this interaction
+0.0665620656	modulation of
+0.0661705777	a major
+0.0656597214	loss of
+0.0653465069	important for
+0.0653363097	alpha 2
+0.0653264400	the majority of
+0.0651949807	identified as
+0.0649619980	the major
+0.0649455939	susceptibility to
+0.0648662753	not only
+0.0648421598	assays using
+0.0643532922	to establish
+0.0642253430	consisting of
+0.0637629485	to define
+0.0636582109	to characterize
+0.0635145333	contains three
+0.0634540023	determined by
+0.0633550657	to isolate
+0.0632304249	interaction with
+0.0630659023	inhibited by
+0.0624785191	only one
+0.0622936351	a common
+0.0621946589	these genes
+0.0616980651	on chromosome
+0.0616284779	resulting in
+0.0615842187	appeared to
+0.0612343365	timing of
+0.0612216059	relative to
+0.0610496034	an increase in
+0.0609271751	to generate
+0.0602944776	activation of
+0.0602530657	a simple
+0.0601458680	the absence of
+0.0598504571	to produce
+0.0589685939	performed on
+0.0585205713	critical for
+0.0581640918	beta 1
+0.0579790301	the basis of
+0.0578715941	a unique
+0.0574449700	but also
+0.0563896063	the mouse
+0.0559556101	a key
+0.0558524637	evidence for
+0.0557858276	the pathogenesis of
+0.0552883854	fused to
+0.0552802384	understanding of
+0.0549981491	all three
+0.0549339710	measured at
+0.0548222404	protein 2
+0.0545074765	homology with
+0.0544691929	h after
+0.0543934976	+ 3
+0.0542502646	located at
+0.0541788253	exposed to
+0.0540717949	in summary
+0.0535206424	approximately 1
+0.0533605166	to promote
+0.0530320162	difficult to
+0.0529288394	expressed in
+0.0527075278	a potent
+0.0526282557	assessed by
+0.0525869417	a small
+0.0521088260	inactivation of
+0.0520240294	used as
+0.0519482157	similarity to
+0.0517186369	an early
+0.0516738005	5 micrograms
+0.0515058617	two regions
+0.0511030880	downstream from
+0.0506666936	protein 1
+0.0504368179	a prospective
+0.0503431117	implicated in
+0.0500537015	a combination of
+0.0500281676	as determined by
+0.0494346486	distinct from
+0.0493025438	inhibition of
+0.0492622572	studies using
+0.0488563655	h +
+0.0481176186	at least two
+0.0479745475	the existence of
+0.0478786003	the ability of
+0.0477771452	reduction in
+0.0474161946	availability of
+0.0472410538	children with
+0.0469366331	not significantly
+0.0469304540	effect of
+0.0468420263	after treatment
+0.0465352209	activated by
+0.0460739146	in response to
+0.0458568043	a large
+0.0456691987	variety of
+0.0456217966	a critical
+0.0454781096	nature of
+0.0454261784	a patient with
+0.0454195692	produced by
+0.0454194232	in contrast to
+0.0447036369	regulation of
+0.0445312158	lead to
+0.0444344988	these cells
+0.0443784150	corresponding to
+0.0440146748	day 1
+0.0437769784	a number of
+0.0437537394	measurement of
+0.0437345436	method for
+0.0434327483	estimation of
+0.0434210261	6 h
+0.0433460946	likely to
+0.0432820023	this element
+0.0432245432	in addition to
+0.0430270215	contains two
+0.0428724885	studies on
+0.0428649326	treatment with
+0.0425177752	interacting with
+0.0424537394	the presence
+0.0422496089	a new
+0.0415999528	controlled by
+0.0415763292	enhancement of
+0.0414527800	elimination of
+0.0414511469	two different
+0.0414428928	proportion of
+0.0414351000	present in
+0.0412487757	but did
+0.0411004529	transcription from
+0.0405179902	kinetics of
+0.0401011211	member of
+0.0396638949	defined by
+0.0396224161	role of
+0.0395781360	affected by
+0.0392748257	proposed to
+0.0392567698	effects of
+0.0390439357	generated by
+0.0389888662	decrease in
+0.0389634889	comparison of
+0.0388439928	used to
+0.0387495279	introduction of
+0.0385897552	to induce
+0.0383024835	the intensity of
+0.0381263343	result from
+0.0375860499	region of
+0.0374506083	the effect of
+0.0374177301	bound to
+0.0373986501	increase in
+0.0373783043	identified by
+0.0369525205	known to
+0.0369449283	a role for
+0.0368152216	obtained by
+0.0367776843	exposure to
+0.0365911834	infected with
+0.0365327795	predictors of
+0.0364001678	differences in
+0.0359245798	administration of
+0.0359217267	an increase
+0.0358564301	presence of
+0.0357103318	identification of
+0.0356600795	role for
+0.0356578208	found between
+0.0354274835	the magnitude of
+0.0353046573	response to
+0.0353038375	severity of
+0.0351358168	a set of
+0.0351157320	changes in
+0.0349820900	evaluation of
+0.0347783413	determination of
+0.0347203697	action of
+0.0346886781	approach to
+0.0346236713	change in
+0.0345063637	identity with
+0.0344677865	the first
+0.0344446560	the development of
+0.0342779893	the role of
+0.0340891308	downstream of
+0.0339438477	purified from
+0.0335749375	as compared to
+0.0333175778	an open
+0.0332067527	the use of
+0.0331423818	to detect
+0.0331091210	accumulation of
+0.0330647406	forms of
+0.0329984194	the diagnosis of
+0.0329984194	the level of
+0.0329508956	induction of
+0.0329110580	these sequences
+0.0328658621	+ 1
+0.0328442340	designed to
+0.0326487873	subgroup of
+0.0326462298	linked to
+0.0325555417	characteristic of
+0.0324722768	to regulate
+0.0324040216	a strong
+0.0323994549	disruption of
+0.0321356927	the relationship between
+0.0320878200	expressed at
+0.0320294389	part of
+0.0320168391	as well
+0.0319684752	binds to
+0.0314837354	organization of
+0.0314689488	none of
+0.0314097267	confirmed by
+0.0313360403	conservation of
+0.0312702407	regulator of
+0.0312044284	transfected with
+0.0311897288	3 days
+0.0310940779	significance of
+0.0310400861	the effects of
+0.0309731467	levels of
+0.0307858904	the importance of
+0.0307346701	found in
+0.0307185847	this gene
+0.0305657729	restricted to
+0.0305657729	rise to
+0.0303657898	degree of
+0.0303095435	these proteins
+0.0303054161	the expression of
+0.0301131199	lack of
+0.0300097629	detected in
+0.0298474380	a marked
+0.0297854350	coupled to
+0.0297808731	removal of
+0.0296668833	assessment of
+0.0296293175	a high
+0.0295963772	number of
+0.0295045687	injection of
+0.0292212455	the treatment of
+0.0291705482	a second
+0.0291412339	homolog of
+0.0290479184	along with
+0.0290281455	duration of
+0.0288092423	observed in
+0.0286461867	amplification of
+0.0285601051	but did not
+0.0285322454	localization of
+0.0283401417	the results
+0.0283197516	the carboxyl
+0.0282064888	end of
+0.0281573629	difference in
+0.0280143581	a decrease
+0.0279463337	on day
+0.0279207362	measured by
+0.0276136771	adjacent to
+0.0275860541	amount of
+0.0275591856	activation by
+0.0273348632	induction by
+0.0272826101	percentage of
+0.0272429902	prevention of
+0.0270325110	mapped to
+0.0269557351	the literature
+0.0269356132	step in
+0.0268441318	women with
+0.0264153616	data on
+0.0263881321	history of
+0.0263720031	suppression of
+0.0263534621	sensitive to
+0.0262552243	association with
+0.0262414494	a measure
+0.0258548794	elevation of
+0.0257451030	combined with
+0.0257128195	activity in
+0.0256617471	termination of
+0.0250155744	mechanism by
+0.0249832574	amplitude of
+0.0249356132	identity to
+0.0247975446	shown by
+0.0245461529	activity of
+0.0239967469	the occurrence
+0.0239818697	pattern of
+0.0237230787	absence of
+0.0235798809	the pathogenesis
+0.0235658341	a role in
+0.0235142931	studied in
+0.0234675184	the latter
+0.0234078737	the incidence of
+0.0232030961	the aim
+0.0231529909	a consensus
+0.0230983601	course of
+0.0230213917	means of
+0.0228457229	to inhibit
+0.0228291691	comparison with
+0.0227377971	the regulation of
+0.0226536264	the results of
+0.0226453045	application of
+0.0226122859	phosphorylation of
+0.0224218600	demonstrated by
+0.0223087491	the formation of
+0.0221962531	involvement of
+0.0220034449	detection of
+0.0218929876	form of
+0.0217377971	the activity of
+0.0216341639	prevalence of
+0.0215742943	to mediate
+0.0214445065	technique for
+0.0214344323	a patient
+0.0213015550	also found
+0.0212999454	human t
+0.0212067134	function as
+0.0211144523	series of
+0.0209700739	a case of
+0.0209522705	to activate
+0.0208200478	repression of
+0.0206121015	to interact with
+0.0204247337	rate of
+0.0203792555	in comparison with
+0.0203478136	in association with
+0.0203316570	truncated at
+0.0203194083	isolation of
+0.0202944304	set of
+0.0202421327	the production of
+0.0202189575	equal to
+0.0201165972	= 1
+0.0200472758	but not with
+0.0199193034	subunit of
+0.0198728517	a member of
+0.0198359905	a decrease in
+0.0197792669	used for
+0.0196741433	use of
+0.0196253087	but not in
+0.0192764950	upstream from
+0.0191717170	the number of
+0.0187699501	different from
+0.0186986950	values for
+0.0186427723	extent of
+0.0185003472	value of
+0.0184265294	examination of
+0.0183214978	the onset of
+0.0182449497	to encode
+0.0182290634	the transcriptional activity of
+0.0182263934	maintenance of
+0.0181172490	mean +
+0.0180828049	the prevalence of
+0.0180377612	expressed from
+0.0178190888	ability of
+0.0176852171	generation of
+0.0176745095	importance of
+0.0176584952	a component of
+0.0174993613	interactions with
+0.0173872934	treatment of
+0.0173515423	b virus
+0.0173133235	respect to
+0.0173122565	efficacy of
+0.0172852171	homologue of
+0.0172222811	insertion of
+0.0170598228	domain of
+0.0170561735	model for
+0.0169857517	to play
+0.0169569801	responsive to
+0.0169323262	the range of
+0.0168898224	a region of
+0.0168859040	located in
+0.0167656596	the identification of
+0.0167060083	as well as in
+0.0166859996	resistance to
+0.0166690880	profile of
+0.0166415461	the course of
+0.0166159421	the end of
+0.0166077968	performed in
+0.0164705185	a case
+0.0164627941	incidence of
+0.0164481139	developed for
+0.0164468658	improvement in
+0.0163955172	terminus of
+0.0163122565	evaluated in
+0.0163036351	up to
+0.0162452108	basis of
+0.0161079242	studied by
+0.0160921034	test for
+0.0160898224	the evaluation of
+0.0160360809	a comparison of
+0.0160360809	a dose of
+0.0159552303	sensitivity to
+0.0159323262	the amount of
+0.0159062716	distribution of
+0.0158898224	the activation of
+0.0158898224	the induction of
+0.0157670428	dose of
+0.0157420891	and then
+0.0156639942	obtained with
+0.0156624440	management of
+0.0154654601	a member
+0.0154629949	mechanism for
+0.0154135634	the administration of
+0.0153817423	isolated by
+0.0153770842	onset of
+0.0152485879	the absence
+0.0152027476	the combination of
+0.0151714976	the management of
+0.0151169929	pathogenesis of
+0.0150564891	the application of
+0.0150360809	the efficacy of
+0.0150048309	the isolation of
+0.0150048309	the involvement of
+0.0150048309	the distribution of
+0.0149639146	observed for
+0.0148898224	the ability to
+0.0148898224	the levels of
+0.0148694143	the rate of
+0.0147826087	the determination of
+0.0147785417	required to
+0.0147656596	the sequence of
+0.0147419929	terms of
+0.0146463150	measure of
+0.0146407681	expressed by
+0.0145871932	increased by
+0.0145607140	component of
+0.0144949907	existence of
+0.0144935176	range of
+0.0144069931	ends of
+0.0143932133	predicted to
+0.0142930873	case of
+0.0142671860	to interact
+0.0141164328	occurred in
+0.0141150369	diagnosis of
+0.0140900342	reported to
+0.0140730851	investigated in
+0.0140564891	the degree of
+0.0140564891	the detection of
+0.0138898224	the structure of
+0.0138190867	increased from
+0.0137581219	occurrence of
+0.0137581219	aim of
+0.0136491404	higher in
+0.0135941477	formation of
+0.0134383346	to bind
+0.0134069931	occur in
+0.0133289786	possible to
+0.0133190867	patient with
+0.0130671623	lower in
+0.0130340324	result in
+0.0130338290	production of
+0.0130011775	magnitude of
+0.0129033452	seen in
+0.0126204635	structure of
+0.0125268417	useful in
+0.0123668403	level of
+0.0123622617	development of
+0.0122920031	necessary to
+0.0121290467	combination of
+0.0109180629	contrast to

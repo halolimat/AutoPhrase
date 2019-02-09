@@ -1,0 +1,513 @@
+0.9622281740	hemolytic anemia
+0.9607812304	calcium chloride
+0.9602478094	visual field
+0.9585169880	folic acid
+0.9583700431	uric acid
+0.9571628031	myocardial infarction
+0.9478224545	diabetic nephropathy
+0.9469818422	status epilepticus
+0.9463432118	spinal cord
+0.9431204429	breast cancer
+0.9415796273	neuroleptic malignant syndrome
+0.9415332759	oxidative stress
+0.9326109017	heart failure
+0.9284477039	rheumatoid arthritis
+0.9283333680	nephrotic syndrome
+0.9238407429	qt interval
+0.9210413626	renal failure
+0.9207073537	acute liver failure
+0.9194264960	blood pressure
+0.9169773162	bone marrow
+0.9154217551	heart rate
+0.9124112447	confidence interval
+0.9117849768	acute renal failure
+0.9058013270	ng ml
+0.9030163080	mm hg
+0.9001810738	nitric oxide
+0.8879338666	vascular resistance
+0.8866044336	cardiac arrest
+0.8852330618	liver failure
+0.8846498032	hemorrhagic cystitis
+0.8792568623	coronary artery disease
+0.8740380324	renal function
+0.8726253995	puromycin aminonucleoside
+0.8718692253	coronary artery
+0.8698152369	receptor antagonist
+0.8693924658	glyceryl trinitrate
+0.8396099681	mg m2
+0.8385780743	blood flow
+0.8368659013	optic neuropathy
+0.8328324513	combination therapy
+0.8269794401	left ventricular
+0.8240498954	case report
+0.8191274285	micrograms kg
+0.8167486572	life threatening
+0.8148543638	adverse effects
+0.8045034821	growth factor
+0.7996385706	passive avoidance
+0.7981472963	wistar rats
+0.7915585794	high doses
+0.7902213124	heart disease
+0.7851137801	sprague dawley
+0.7742029323	clinical trial
+0.7716308185	myocardial ischemia
+0.7634125125	double blind
+0.7611075852	muscle rigidity
+0.7427517830	body weight
+0.7427151346	serotonin reuptake
+0.7414510585	placebo controlled
+0.7401142060	adenovirus disease
+0.7384243834	long term
+0.7345679014	l dopa
+0.7332456396	mg per deciliter
+0.7238978271	statistically significant
+0.7213855465	intravenous ribavirin
+0.7208146267	short term
+0.7145307360	torsade de pointes
+0.7133901144	serum creatinine
+0.7127484425	severe adenovirus
+0.7084523996	risk factors
+0.7058112346	arterial pressure
+0.7022057673	data suggest
+0.7005927485	increased risk
+0.6928597353	adverse events
+0.6811935942	significant increase
+0.6770863079	sprague dawley rats
+0.6746701507	neuroleptic induced
+0.6646017667	significant differences
+0.6605119159	prospective study
+0.6597280594	adverse effect
+0.6583245424	microg kg
+0.6545929869	cb 3717
+0.6520527082	microg 0.5 microl
+0.6430286339	receptor agonist
+0.6382222854	high dose
+0.6342922290	case reports
+0.6166567078	findings suggest
+0.6161340069	treated animals
+0.6148779126	mg kg i.v
+0.6125415295	efficacy and safety
+0.6111759003	mg kg
+0.6109465183	controlled trial
+0.5975713156	significantly lower
+0.5907519547	male rats
+0.5833257238	oral administration
+0.5812670348	mg kg i.p
+0.5770218068	dose dependent
+0.5582280212	nervous system
+0.5527014228	treated rats
+0.5377473677	randomly assigned to
+0.5151987899	group ii
+0.5049032757	vitamin c
+0.4990902524	d penicillamine
+0.4977554547	hepatitis b
+0.4875166463	patients undergoing
+0.4859196940	95 confidence interval
+0.4854355022	significantly reduced
+0.4761799011	5 fu
+0.4697778696	levodopa induced
+0.4648909461	follow up
+0.4628659692	lithium therapy
+0.4537743738	95 ci
+0.4483443457	de pointes
+0.4476462754	results suggest
+0.3956116240	side effects
+0.3802454983	95 confidence
+0.3758349854	twice daily
+0.3718941720	acute liver
+0.3668987871	well tolerated
+0.3645354825	5 ht
+0.3570479375	the present study
+0.3448214331	24 hour
+0.3410705401	greater than
+0.3372520255	a significant decrease
+0.3242385010	significantly increased
+0.3225811312	side effect
+0.3182868480	relationship between
+0.3104487850	patient developed
+0.3073145952	p 0.05
+0.3007660910	year old woman
+0.2897946909	0.5 microl
+0.2889992671	these results suggest
+0.2855045891	48 h
+0.2829598971	year old
+0.2807846937	old woman
+0.2774481275	n =
+0.2766754242	200 mg
+0.2744752780	single dose
+0.2742971311	widely used
+0.2674413576	elderly patients
+0.2638070307	s disease
+0.2600993327	p 0.001
+0.2574854179	responsible for
+0.2532283851	x 10
+0.2524241163	p 0.01
+0.2519755304	as well as
+0.2475821272	year old man
+0.2472820160	induced convulsions
+0.2467386900	mg m
+0.2389045974	kg i.v
+0.2354356887	the placebo group
+0.2345314507	the most common
+0.2337495237	regulation of
+0.2309202693	min before
+0.2269294008	100 mg
+0.2266973362	did not
+0.2226241661	80 mg
+0.2199364576	differences between
+0.2159152066	0.5 mg
+0.2154326523	7 days
+0.2153925832	association between
+0.2146975834	does not
+0.2141602134	able to
+0.2129575574	compared with
+0.2122611245	on pod
+0.2122604791	old man
+0.2113126304	patients receiving
+0.2109747518	assigned to
+0.2102347368	p =
+0.2079565466	haloperidol induced
+0.2078519909	heparin induced
+0.2073530147	24 h
+0.2066409684	an important
+0.2056017216	at least
+0.2026354998	in order to
+0.2018942044	a single dose
+0.2012964966	p less than
+0.2006434920	these findings
+0.1972290370	acute renal
+0.1944350968	14 days
+0.1939419543	characterized by
+0.1928609497	results indicate
+0.1914310852	induced hypotension
+0.1888303926	treated patients
+0.1874837692	present study
+0.1815078324	according to
+0.1805356443	mg day
+0.1798398572	based on
+0.1783594264	drug induced
+0.1783147988	the presence of
+0.1767711389	due to
+0.1736398317	time course
+0.1723909001	a case report
+0.1708877287	to assess
+0.1692758529	such as
+0.1689464008	the presence
+0.1676339653	control group
+0.1675453258	mean arterial
+0.1675143883	no evidence
+0.1674774864	30 min
+0.1665358375	to evaluate
+0.1654407934	accompanied by
+0.1638752168	patients treated
+0.1611312738	doxorubicin induced
+0.1552073448	consistent with
+0.1543315206	both groups
+0.1538560623	associated with
+0.1537625569	less than 0.05
+0.1498645917	patients developed
+0.1495596470	to determine
+0.1487396664	group b
+0.1471574446	6 weeks
+0.1458878828	failed to
+0.1453950162	to treat
+0.1449010174	pretreated with
+0.1436557762	the occurrence of
+0.1435781465	in combination with
+0.1432575008	caused by
+0.1416347083	placebo group
+0.1404098972	no significant
+0.1385874001	the aim of
+0.1385527177	a dose dependent
+0.1378839075	two groups
+0.1376548657	the control group
+0.1347142713	higher than
+0.1322266170	immediately after
+0.1309721690	led to
+0.1308041624	an average
+0.1261448533	induced catalepsy
+0.1240811084	per day
+0.1236188909	in patients receiving
+0.1227882824	to investigate
+0.1202808122	treated with
+0.1189485414	patients treated with
+0.1177520342	initiation of
+0.1171463567	10 mg kg
+0.1158048115	number of
+0.1151812993	this study
+0.1136315421	mg per
+0.1135550961	50 mg kg
+0.1094420275	50 mg
+0.1077617327	appears to
+0.1072212120	the long term
+0.1067693195	1 mg kg
+0.1031035293	less than
+0.1022912074	seems to
+0.1011983050	in humans
+0.0999748019	the same
+0.0983935145	reversal of
+0.0977763294	20 mg
+0.0974503871	induced by
+0.0939015333	both drugs
+0.0921170400	these data
+0.0883289456	followed by
+0.0881993761	but not
+0.0854851173	single dose of
+0.0853591341	the striatum
+0.0846087509	no effect on
+0.0839276784	5 mg
+0.0832296764	5 mg kg
+0.0787775103	these results
+0.0783184080	resulted in
+0.0778301384	a case of
+0.0757971210	patients with
+0.0727850254	one patient
+0.0727414872	in patients with
+0.0707872813	the development of
+0.0699301384	a patient with
+0.0693367687	before and after
+0.0691360955	a novel
+0.0673419232	two cases of
+0.0664122953	administration of
+0.0658645987	t +
+0.0656605581	this patient
+0.0633630749	the effect of
+0.0630461707	all patients
+0.0630301384	the treatment of
+0.0625083298	correlated with
+0.0620464391	compared to
+0.0618190273	the incidence of
+0.0607297416	the effects of
+0.0602330101	more than
+0.0596830866	produced by
+0.0590301384	the use of
+0.0576903028	effects of
+0.0563679239	doses of
+0.0554617284	the role of
+0.0553885597	an increase in
+0.0553434246	treatment with
+0.0551681734	mediated by
+0.0542835981	the patient
+0.0535446327	10 mg
+0.0535029957	two cases
+0.0517305625	effect of
+0.0507113943	in rats
+0.0497950617	the efficacy and
+0.0496395061	the number of
+0.0496061728	the absence of
+0.0489639132	to receive
+0.0485793921	secondary to
+0.0484617284	a history of
+0.0481966405	a total of
+0.0473094990	increase in
+0.0472980619	the procedure
+0.0464276251	an effective
+0.0463688742	related to
+0.0444073548	the risk of
+0.0441105439	implicated in
+0.0437878697	effect on
+0.0436901779	dose of
+0.0419427428	an increase
+0.0413690455	the literature
+0.0407950617	the onset of
+0.0407251865	the administration of
+0.0404617284	the results of
+0.0394617284	the duration of
+0.0387585198	of treatment with
+0.0374986214	the last
+0.0369711033	at doses
+0.0369586776	association with
+0.0368251865	of patients with
+0.0362623658	assessed by
+0.0362150790	women on
+0.0357143415	presented with
+0.0354580350	response to
+0.0351717305	days after
+0.0349371696	the study
+0.0343885381	a phase
+0.0343171186	neurons in
+0.0339410780	decrease in
+0.0337366633	the brain
+0.0331924887	the rat
+0.0331826418	no effect
+0.0327366633	the development
+0.0322189483	these patients
+0.0311608030	30 mg
+0.0310353330	the current
+0.0309895682	at risk
+0.0307626276	children with
+0.0307366633	a case
+0.0307159751	not significantly
+0.0304388914	this case
+0.0300371696	in mice
+0.0299245605	action of
+0.0295840411	change in
+0.0293937768	or more
+0.0292520920	aware of
+0.0291636910	cells in
+0.0291636910	days of
+0.0289875057	effects on
+0.0288728633	prior to
+0.0287699966	the number
+0.0286511116	rise in
+0.0285941358	a single
+0.0284878063	absence of
+0.0283045120	the drug
+0.0281327891	discontinuation of
+0.0281203271	combined with
+0.0280103506	inhibition of
+0.0277971219	cases of
+0.0275811414	risk for
+0.0275617904	five patients
+0.0275410780	injection of
+0.0272808320	degree of
+0.0272746338	the first
+0.0271366633	the control
+0.0271366633	the present
+0.0267966092	pretreatment with
+0.0267680780	h after
+0.0267254656	increased from
+0.0260947855	severity of
+0.0259427428	four patients
+0.0259276905	course of
+0.0257742524	the hypothesis
+0.0257498464	history of
+0.0256818732	three patients
+0.0249589821	an acute
+0.0248967494	treatment for
+0.0248633792	involved in
+0.0245320309	improvement in
+0.0242795204	the combined
+0.0242795204	the effect
+0.0242275596	reduction in
+0.0240742524	a prospective
+0.0237185997	case of
+0.0235636910	activity in
+0.0233746338	changes in
+0.0230276686	the aim
+0.0230137718	exposure to
+0.0228369086	prevention of
+0.0226971219	observed in
+0.0223245605	onset of
+0.0223073215	evaluation of
+0.0220337251	in patients
+0.0218485399	2 mg
+0.0217204252	development of
+0.0214959480	this drug
+0.0213795204	in animals
+0.0213795204	the results
+0.0213795204	the kidney
+0.0212189483	3 patients
+0.0212102338	1 mg
+0.0209358929	incidence of
+0.0208125066	levels of
+0.0208054696	increases in
+0.0207737781	loss of
+0.0204078939	activation of
+0.0202786032	failure in
+0.0202736241	two patients
+0.0200678257	model of
+0.0199129833	woman with
+0.0198882739	duration of
+0.0197876209	frequency of
+0.0197015738	a significant
+0.0195364220	management of
+0.0188615262	treatment of
+0.0186936775	patient with
+0.0186376209	assessment of
+0.0186376209	alterations in
+0.0185320309	involvement of
+0.0183795204	in women
+0.0183786032	results of
+0.0183786032	studies of
+0.0181394728	activity of
+0.0180510890	evidence of
+0.0179328079	patients on
+0.0179328079	rats with
+0.0177885381	a history
+0.0177876209	models of
+0.0176542876	diagnosis of
+0.0173795204	the duration
+0.0173786032	weeks of
+0.0173073215	expression of
+0.0172948595	similar to
+0.0172876209	differences in
+0.0171394728	effective in
+0.0170276686	in vivo
+0.0170132739	reduction of
+0.0168767514	occurrence of
+0.0168091576	use of
+0.0167876209	injections of
+0.0166936775	administered to
+0.0164800495	a specific
+0.0163795204	a patient
+0.0163795204	the potential
+0.0163786032	months of
+0.0163786032	function in
+0.0163786032	report of
+0.0163073215	role of
+0.0163073215	role in
+0.0162823299	reported to
+0.0161394728	trial of
+0.0161394728	mechanism of
+0.0161394728	combination of
+0.0161394728	expression in
+0.0160276686	the protective
+0.0160276686	a selective
+0.0158540081	a new
+0.0157936775	women with
+0.0157936775	mice with
+0.0157936775	therapy for
+0.0157936775	therapy with
+0.0155461871	the incidence
+0.0155000766	a double
+0.0153795204	a group
+0.0153795204	in children
+0.0153795204	the combination
+0.0153073215	induction of
+0.0153073215	rate of
+0.0153073215	occurred in
+0.0153073215	risk of
+0.0151394728	concentration of
+0.0151394728	review of
+0.0151394728	end of
+0.0151394728	infusion of
+0.0151394728	efficacy of
+0.0151394728	type of
+0.0151394728	concentrations of
+0.0151394728	level of
+0.0151394728	studied in
+0.0151394728	present in
+0.0151394728	toxicity of
+0.0150276686	a total
+0.0147652881	the right
+0.0147392070	the occurrence
+0.0143795204	a low
+0.0143795204	the risk
+0.0143795204	the mechanism
+0.0143786032	increase of
+0.0143786032	administered in
+0.0141394728	symptoms of
+0.0141394728	mechanisms of
+0.0141394728	analysis of
+0.0141394728	reported in
+0.0140267514	combination with
+0.0140267514	aim of
+0.0139705561	the time
+0.0130910589	to control
+0.0128926094	found to
+0.0123812619	found in
+0.0123729089	used for
+0.0117247607	used to
+0.0117187042	seen in
+0.0117187042	day for
+0.0117187042	up to
+0.0117187042	the second
+0.0115282280	a possible
+0.0112384048	cause of
+0.0112384048	the other
+0.0110705561	time of
+0.0110619342	the mean
+0.0100705561	used in
+0.0100705561	the most
+0.0100705561	the possible

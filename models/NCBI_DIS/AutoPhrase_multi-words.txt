@@ -1,0 +1,704 @@
+0.9640140672	phenylalanine hydroxylase
+0.9627206007	familial mediterranean fever
+0.9625674249	friedreich ataxia
+0.9617136027	familial adenomatous polyposis
+0.9615216647	hearing loss
+0.9610983595	southern blot
+0.9610387242	animal model
+0.9608293407	hemolytic anemia
+0.9597939476	amino acid
+0.9573583159	reading frame
+0.9567352230	mental retardation
+0.9566726407	adenomatous polyposis coli
+0.9563402246	color vision
+0.9562227644	ionizing radiation
+0.9558868475	linkage disequilibrium
+0.9558570681	amino acids
+0.9554603409	prostate cancer
+0.9550102412	ankylosing spondylitis
+0.9538693918	messenger rna
+0.9529013526	von willebrand disease
+0.9522267381	polymerase chain reaction
+0.9504620641	duchenne muscular dystrophy
+0.9500122998	tumor suppressor
+0.9495192931	von willebrand factor
+0.9479870230	ashkenazi jewish
+0.9471060751	prenatal diagnosis
+0.9464154357	myotonic dystrophy
+0.9445018955	metachromatic leukodystrophy
+0.9443481950	beta catenin
+0.9424126844	ataxia telangiectasia
+0.9386396755	zinc finger
+0.9360027624	rt pcr
+0.9358705440	renal cell carcinoma
+0.9335165475	base pair
+0.9330813107	gel electrophoresis
+0.9315973576	wilson disease
+0.9294071422	huntington disease
+0.9285224371	confidence interval
+0.9190482175	muscular dystrophy
+0.9189703917	lod score
+0.9179090517	autosomal dominant
+0.9125755018	wild type
+0.9121562911	kniest dysplasia
+0.9096606958	tumour suppressor
+0.9049198227	skeletal muscle
+0.9049008979	ovarian cancer
+0.9021148375	breast cancer
+0.9012010471	autosomal recessive
+0.8974046735	becker muscular dystrophy
+0.8972761374	cerebrotendinous xanthomatosis
+0.8968233088	glucose 6 phosphate dehydrogenase
+0.8955276083	cell line
+0.8941988913	wilms tumor
+0.8923831887	van der woude syndrome
+0.8892891100	beta oxidation
+0.8883924627	pendred syndrome
+0.8819765458	fatty acids
+0.8781585586	stop codon
+0.8780750893	diastrophic dysplasia
+0.8745409446	emery dreifuss muscular dystrophy
+0.8741771831	missense mutations
+0.8741454964	mg dl
+0.8659292635	colorectal cancer
+0.8644064542	norrie disease
+0.8634593581	point mutations
+0.8598438021	tightly linked
+0.8572928543	somatic cell hybrids
+0.8564988549	peripheral blood
+0.8553800218	germ line
+0.8497534980	missense mutation
+0.8470578902	cholesteryl ester transfer protein
+0.8454883456	genetic counseling
+0.8450072155	gastric cancer
+0.8403717591	cell lines
+0.8371681331	founder effect
+0.8367156850	machado joseph disease
+0.8360031760	point mutation
+0.8328690677	skin fibroblasts
+0.8322539848	15q11 q13
+0.8288906670	von hippel lindau
+0.8273103735	dna damage
+0.8271748357	coding region
+0.8230505011	denys drash syndrome
+0.8222534576	pelizaeus merzbacher disease
+0.8170244034	genetic disorder
+0.8101820606	lesch nyhan
+0.8017038489	dna sequencing
+0.7946348061	lod scores
+0.7935732720	wiskott aldrich syndrome
+0.7934357224	direct sequencing
+0.7912351709	somatic cell
+0.7903935673	ovarian cancers
+0.7890901296	pax3 fkhr
+0.7868368447	protein kinase
+0.7848392907	cholesteryl ester
+0.7834927792	trinucleotide repeat
+0.7819633266	prader willi syndrome
+0.7814269432	tay sachs
+0.7768944650	transgenic mice
+0.7704857696	genomic dna
+0.7691402499	genetic analysis
+0.7672421981	donor splice site
+0.7656548301	premature stop codon
+0.7638601806	vwf ag
+0.7613759445	tumor suppressor gene
+0.7573572684	prader willi
+0.7519235816	single strand conformation polymorphism
+0.7511004276	carrier status
+0.7492502396	growth factor
+0.7445896022	alpha subunit
+0.7444574901	dna sequence
+0.7436496694	tay sachs disease
+0.7424646078	adult onset
+0.7412341938	splice donor site
+0.7410850041	closely linked
+0.7396614839	sequence analysis
+0.7303687571	polymorphism analysis
+0.7279839116	untranslated region
+0.7231551344	cag repeat
+0.7213876843	linkage analysis
+0.7133931720	breast ovarian cancer
+0.7127309727	analysis revealed
+0.7112374804	family members
+0.7045724518	proteolipid protein
+0.7027507535	previously reported
+0.6997012138	pelizaeus merzbacher
+0.6949116889	restriction fragment length
+0.6869825524	splice site
+0.6837622195	recessive disorder
+0.6833584354	high density
+0.6832273560	previously identified
+0.6791964959	results suggest
+0.6761883027	clinical manifestations
+0.6750803743	nonsense mutation
+0.6735826617	severe phenotype
+0.6673468239	affected individuals
+0.6640196781	coding sequence
+0.6624048414	type ii
+0.6595071986	c2 deficiency
+0.6593960513	mutant mice
+0.6585738260	fap patients
+0.6554877406	cetp deficiency
+0.6536852080	late onset
+0.6502558888	close linkage
+0.6485621264	dna analysis
+0.6472220448	gene expression
+0.6447765596	dna markers
+0.6446271450	clinical features
+0.6422546883	linked recessive
+0.6370925812	unrelated families
+0.6360646104	component of complement
+0.6317201648	general population
+0.6278692586	breast ovarian
+0.6277310529	protein product
+0.6257623775	japanese and caucasian
+0.6256323195	single strand conformation
+0.6243361309	enzyme activity
+0.6226941138	breast and ovarian cancer
+0.6205490606	splice donor
+0.6171745481	molecular basis
+0.6158159397	germline mutations
+0.6126862832	c3 deficiency
+0.6124100899	dna binding
+0.6116192052	g6pd mediterranean
+0.6111896643	hdl cholesterol
+0.6101452399	molecular analysis
+0.6092010761	becker muscular
+0.6076463068	g6pd deficiency
+0.6055594280	mutation causing
+0.6040100777	single strand
+0.6034626565	renal cell
+0.6025678680	bp deletion
+0.6021535737	nonsense mutations
+0.5996485366	candidate gene
+0.5976125884	g6pd variants
+0.5974340893	dm kinase
+0.5956581822	c9 deficiency
+0.5948508332	binding domain
+0.5917221330	breast and ovarian
+0.5879689302	highly conserved
+0.5845278242	very long chain fatty acids
+0.5844468205	genotype phenotype
+0.5839826616	molecular genetic
+0.5828974141	amino acid substitution
+0.5825264951	genetic heterogeneity
+0.5823846880	gene product
+0.5803145986	mouse model
+0.5802952949	mutant alleles
+0.5777827549	cancer susceptibility
+0.5736999470	ctg repeat
+0.5728389540	phenotypic expression
+0.5718812373	base pair deletion
+0.5710264599	mutant allele
+0.5707048875	japanese patients
+0.5700844138	unrelated patients
+0.5690937673	restriction fragment
+0.5626270125	allele specific
+0.5599226277	gene encoding
+0.5592465024	central nervous system
+0.5566326153	reported previously
+0.5563909250	data suggest
+0.5556581939	single base
+0.5508692336	splice site mutation
+0.5497738448	dystrophin gene
+0.5489870153	fragile x syndrome
+0.5487775385	repeat expansion
+0.5477542679	premature stop
+0.5465893794	germ line mutations
+0.5460138037	family history
+0.5453207957	maximum lod
+0.5451606141	early onset breast
+0.5426464847	early onset
+0.5344127792	high frequency
+0.5328052883	loss of heterozygosity
+0.5312460867	somatic mutations
+0.5271203821	affected males
+0.5259701307	susceptibility gene
+0.5236199731	adenomatous polyposis
+0.5232923689	polyposis coli
+0.5171074486	mouse chromosome
+0.5151129675	autosomal recessive disorder
+0.5145388346	long chain fatty acids
+0.5122975940	lesch nyhan syndrome
+0.5120634379	donor splice
+0.5101248992	long chain
+0.5098769297	age at onset
+0.5037144766	very long chain acyl
+0.4989296484	long arm of
+0.4963434386	human chromosome
+0.4890014664	provide evidence
+0.4864910562	theta = 0
+0.4856457237	brca1 mutations
+0.4794943121	findings suggest
+0.4790780280	hydroxylase gene
+0.4762462093	ataxin 3
+0.4753118714	rb1 gene
+0.4723731349	in situ hybridization
+0.4706439401	disease locus
+0.4674846394	apc mutations
+0.4652512864	hprt gene
+0.4575183091	donor site
+0.4573929072	recessive disorder characterized by
+0.4322334667	cathepsin c
+0.4132368488	pah gene
+0.4128748062	et al
+0.4102493706	nervous system
+0.4033177576	the present study
+0.3972171442	glucose 6 phosphate
+0.3969446833	de novo
+0.3905653406	disease gene
+0.3871795243	the polymerase chain
+0.3865527086	increased risk
+0.3846898600	the c282y mutation
+0.3833446699	the long arm
+0.3787731934	the hexa gene
+0.3779323424	the wiskott aldrich
+0.3773666550	the pds gene
+0.3744148507	arm of chromosome
+0.3605271876	determine whether
+0.3489959836	very long chain
+0.3463253509	3 utr
+0.3351829200	the entire coding
+0.3290417057	apc gene
+0.3158384245	year old
+0.3156059262	x linked
+0.3111723265	plp gene
+0.3078164371	very long chain fatty
+0.3075751365	an autosomal recessive
+0.2950577258	these results suggest
+0.2913471406	mutations in brca1
+0.2888346235	the mjd1 gene
+0.2777499920	pax6 gene
+0.2760017735	vhl gene
+0.2751227446	5 phosphatase
+0.2748991444	non jewish
+0.2739502930	heterogeneity of g6pd
+0.2711712781	fragile x
+0.2526813870	accounted for
+0.2515552799	exon 11
+0.2509419161	chromosome 15
+0.2480365850	chromosome 14
+0.2477561190	x linked adrenoleukodystrophy
+0.2474502534	x linked recessive
+0.2430945431	exon 7
+0.2421694154	germ line mutations in
+0.2417752150	disorder caused by
+0.2388926182	closely linked to
+0.2388608284	a highly conserved
+0.2369987094	disorder characterized by
+0.2367753128	exon 8
+0.2350549964	intron 9
+0.2307245608	exon 6
+0.2282116399	exon 9
+0.2276308678	failed to
+0.2260332154	caused by
+0.2238324430	t transition
+0.2234857204	responsible for
+0.2232345714	exon 3
+0.2228561569	gene mutations
+0.2227375934	na +
+0.2225469701	increased risk of
+0.2193705899	lead to
+0.2189128546	leads to
+0.2167560632	a single base
+0.2164320315	at least
+0.2137145697	an autosomal dominant
+0.2127926188	to date
+0.2121548553	do not
+0.2112797276	x chromosome
+0.2111913189	does not
+0.2108409972	lod score of
+0.2107956436	exon 5
+0.2088544659	consistent with
+0.2079377901	family history of
+0.2054219933	chromosome 5
+0.2045674468	z =
+0.2029330791	caused by mutations
+0.2012373365	leading to
+0.1997360269	the wiskott aldrich syndrome
+0.1991517229	portion of
+0.1986561414	the adenomatous polyposis coli
+0.1969288825	the lesch nyhan syndrome
+0.1963802344	as well as
+0.1963261631	coding region of
+0.1950291901	did not
+0.1931344745	dmd gene
+0.1909246967	the polymerase chain reaction
+0.1897333423	molecular basis of
+0.1887960260	subset of
+0.1829501861	sequence analysis of
+0.1825781783	p 0
+0.1807689381	the world
+0.1804689381	the seventh
+0.1757979496	n terminal
+0.1753352254	germline mutations in
+0.1742094844	the size of
+0.1741552304	point mutations in
+0.1739670552	p =
+0.1734672993	x ald
+0.1733286087	the ndp gene
+0.1722975347	the results of
+0.1701655253	cancer families
+0.1686582035	previously described
+0.1672115265	the proteolipid protein
+0.1668375861	arm of
+0.1666554537	the entire
+0.1666076124	or ovarian cancer
+0.1663717536	brca1 gene
+0.1652320282	in order to
+0.1642922165	majority of
+0.1628672404	hdl c
+0.1610910816	the apc gene
+0.1608316494	a nonsense mutation
+0.1602460163	ndp gene
+0.1592975347	the result of
+0.1591097952	the age of
+0.1587864168	variety of
+0.1580290260	the mjd1
+0.1568792330	followed by
+0.1562975347	the pathogenesis of
+0.1555456860	account for
+0.1553149749	a deficiency of
+0.1539126719	a subset
+0.1538962815	c terminal
+0.1527650785	the ald gene
+0.1519583562	presence of
+0.1517235863	protein s
+0.1513018412	the phenylalanine hydroxylase
+0.1501937627	a panel of
+0.1495475552	molecular analysis of
+0.1484447837	the hd gene
+0.1443476853	based on
+0.1442335379	these findings
+0.1407580872	gene responsible for
+0.1406938740	the majority
+0.1406929879	the wild type
+0.1396014394	the brca1 gene
+0.1393585489	the atm gene
+0.1363948306	= 0
+0.1360244733	no evidence
+0.1333964952	at theta = 0
+0.1330408434	a missense mutation
+0.1316636871	kinase gene
+0.1312742053	correlation between
+0.1312545405	direct sequencing of
+0.1307915467	the pax6 gene
+0.1296047543	site mutation
+0.1294764862	1 phosphate
+0.1293476956	due to
+0.1292461229	characterized by
+0.1288525768	hd gene
+0.1280956360	the ctg repeat
+0.1280936252	atm gene
+0.1279275186	associated with
+0.1270807927	protein gene
+0.1270505055	the presence
+0.1266806947	the most common
+0.1263782660	g6pd deficiency in
+0.1261040467	the plp gene
+0.1258743993	the vhl gene
+0.1255699592	compatible with
+0.1242631156	at nt
+0.1240190393	the dmd gene
+0.1237473427	most likely
+0.1206552079	new variants
+0.1204670611	effect on
+0.1202058047	ald gene
+0.1200796386	more severe
+0.1199529155	the pah gene
+0.1192031816	less than
+0.1187820717	at risk
+0.1183934923	results indicate
+0.1165691264	of glucose 6 phosphate dehydrogenase
+0.1152339936	report here
+0.1145351670	the prader willi
+0.1124189554	these data
+0.1115036131	linkage between
+0.1085231322	theta =
+0.1077432913	n =
+0.1059645043	in vitro
+0.1053355027	to determine
+0.1020948314	6 phosphate
+0.1014234162	this study
+0.1006003731	on chromosome
+0.0997614683	appears to
+0.0995200820	these results
+0.0993154332	missense mutation in
+0.0963837702	an inherited
+0.0955426388	two point
+0.0943176568	to investigate
+0.0939809202	transition at
+0.0938256363	resulting in
+0.0935500112	correlated with
+0.0930613912	at nucleotide
+0.0925266570	derived from
+0.0922810027	one allele
+0.0921258042	+ 0
+0.0917918228	one family
+0.0910681204	patients with
+0.0909803041	confirmed by
+0.0908059870	evidence for
+0.0890672975	resulting from
+0.0887135051	encoded by
+0.0863185035	obtained from
+0.0857229325	report on
+0.0856947218	to screen
+0.0840697380	implications for
+0.0836816480	an autosomal
+0.0825951942	more than
+0.0824074508	led to
+0.0820273331	the same
+0.0810408449	at codon
+0.0808267700	absence of
+0.0806322072	in addition
+0.0805137689	an expanded
+0.0802019399	the molecular basis
+0.0801640869	an x linked
+0.0800951886	at position
+0.0785576356	a single
+0.0769071401	c t
+0.0768281800	contribute to
+0.0767885973	this family
+0.0767210390	characterization of
+0.0753056894	fibroblasts from
+0.0751918292	this disorder
+0.0741425804	homozygous for
+0.0737484733	the central nervous system
+0.0729526460	this report
+0.0721352636	detected by
+0.0717679970	all patients
+0.0709938059	caused by mutations in
+0.0700691022	to identify
+0.0693597140	such as
+0.0690628504	in situ
+0.0685080926	mutations in
+0.0680559754	families with
+0.0676163075	model for
+0.0674217148	an early
+0.0671616668	at age
+0.0667535256	this mutation
+0.0667276083	novel mutations
+0.0666097888	result from
+0.0664889031	this population
+0.0662113612	most common
+0.0661407841	close to
+0.0659961033	compared with
+0.0657227731	maps to
+0.0655468971	identification of
+0.0653585236	heterozygous for
+0.0653079749	association with
+0.0643489421	role for
+0.0642046702	age at
+0.0640590657	cells from
+0.0636983382	individuals with
+0.0634744431	identified as
+0.0633429109	basis for
+0.0629376353	these families
+0.0618730108	results from
+0.0592129186	compared to
+0.0587020194	a large
+0.0578110610	estimated to
+0.0578093617	to detect
+0.0576563114	mechanism for
+0.0569874366	mapped to
+0.0566743968	resulted in
+0.0565634699	this region
+0.0559294929	not only
+0.0546718959	boy with
+0.0537470979	localized to
+0.0535827627	a common
+0.0535684823	affected with
+0.0534337175	combination of
+0.0526573357	shown to
+0.0525402928	in vivo
+0.0522131434	the x chromosome
+0.0517584505	proportion of
+0.0515141961	response to
+0.0513374196	number of
+0.0508663201	this patient
+0.0508663201	different mutations
+0.0508029581	the presence of
+0.0497697484	all three
+0.0496880671	a high
+0.0496440005	loss of
+0.0494951133	found to
+0.0492733672	isolated from
+0.0484363944	a complex
+0.0484292026	a maximum
+0.0481594401	but not
+0.0480969365	identical to
+0.0475607840	a total of
+0.0474415962	region on
+0.0470859226	a small
+0.0466239671	susceptibility to
+0.0465019392	role in
+0.0460901373	linked to
+0.0460604916	similar to
+0.0453376732	at theta
+0.0446095197	role of
+0.0445577846	a rare
+0.0443542211	identified by
+0.0443272993	a child
+0.0443127797	distal to
+0.0439957735	a frameshift
+0.0432650641	analysis of
+0.0432509443	in contrast
+0.0431879565	result in
+0.0431494571	in man
+0.0428605547	as well
+0.0428175299	rate of
+0.0427795727	regulation of
+0.0425606869	the basis of
+0.0425460053	a strong
+0.0424667339	isolation of
+0.0424046210	evaluation of
+0.0423333647	form of
+0.0418681108	patients from
+0.0416886003	at least one
+0.0416202906	a significant
+0.0415443263	dna from
+0.0409428849	involved in
+0.0408192154	assignment of
+0.0407858501	related to
+0.0406597040	expression of
+0.0400172374	mutation in
+0.0399735961	proximal to
+0.0398564886	locus on
+0.0393500912	only one
+0.0393401876	or more
+0.0390256512	affected by
+0.0389626864	a premature
+0.0387316658	ratio of
+0.0385477146	appear to
+0.0384903353	existence of
+0.0383970505	signs of
+0.0383245188	means of
+0.0381163617	predicted to
+0.0377624604	detected in
+0.0373619720	localization of
+0.0370567170	the possibility
+0.0365970505	series of
+0.0364938278	linkage to
+0.0364173230	history of
+0.0362103883	development of
+0.0360971854	a major
+0.0359067007	a t
+0.0356901218	the central
+0.0355903796	mutation at
+0.0355216874	likely to
+0.0354189640	cases with
+0.0353557786	a patient with
+0.0353076960	heterogeneity in
+0.0350823014	deleted in
+0.0350729578	expressed in
+0.0347657353	a variety of
+0.0346381832	patient with
+0.0345745976	observed in
+0.0344776661	a transition
+0.0339114572	a candidate
+0.0338588969	understanding of
+0.0338578637	located in
+0.0338258178	increase in
+0.0336708729	examination of
+0.0331997142	subjects with
+0.0327913381	position of
+0.0326022201	in frame
+0.0324852253	detection of
+0.0322064966	together with
+0.0315757569	part of
+0.0314570689	present in
+0.0314570689	levels of
+0.0312910566	identified in
+0.0312605623	occurred in
+0.0308610820	map of
+0.0301234629	case of
+0.0300539147	the proband
+0.0297118829	end of
+0.0294307351	family with
+0.0293966707	in association with
+0.0293902835	occurrence of
+0.0293710297	the gene responsible for
+0.0293243627	association of
+0.0293171806	two missense
+0.0292635919	score of
+0.0292449257	the gene for
+0.0290361697	lack of
+0.0289460543	the occurrence of
+0.0289437216	features of
+0.0287107728	spectrum of
+0.0284779768	level of
+0.0284491499	a transition at
+0.0283920671	defect in
+0.0283239282	prevalence of
+0.0282367851	risk of
+0.0281213579	basis of
+0.0281088969	characteristic of
+0.0281088969	comparison of
+0.0280119161	found in
+0.0279594583	group of
+0.0278673968	the diagnosis of
+0.0277791651	mutated in
+0.0276349222	region of
+0.0273767121	component of
+0.0270110297	the molecular basis of
+0.0268943798	pattern of
+0.0267435492	expansion of
+0.0266768167	a region of
+0.0266054952	heterogeneity of
+0.0265482963	the expression of
+0.0264433491	diagnosis of
+0.0263588969	half of
+0.0263331340	reported in
+0.0263030093	in contrast to
+0.0259007333	mapping of
+0.0258933644	effects of
+0.0258179292	a g to
+0.0258120953	the majority of
+0.0256982283	a g
+0.0255102817	a novel
+0.0254433491	frequency of
+0.0252612755	in addition to
+0.0251761580	effect of
+0.0248714128	forms of
+0.0246914028	used to
+0.0242829063	homologue of
+0.0242243627	treatment of
+0.0241976500	the number of
+0.0240604340	the absence of
+0.0239560469	location of
+0.0238413089	the role of
+0.0237656010	product of
+0.0231957245	deficient in
+0.0229756673	the loss of
+0.0227819916	a family with
+0.0227048014	occur in
+0.0225893802	accumulation of
+0.0225893802	incidence of
+0.0225687045	a mutation in
+0.0225514304	the development of
+0.0223999880	example of
+0.0220808422	the identification of
+0.0220316879	formation of
+0.0219323014	amplification of
+0.0219173999	analyses of
+0.0215437536	gene on
+0.0214343078	severity of
+0.0213113378	at onset
+0.0211984281	known to
+0.0210808422	the frequency of
+0.0206356967	types of
+0.0199565300	inactivation of
+0.0198989369	a new
+0.0196172164	a nonsense
+0.0195947220	structure of
+0.0195472487	the first
+0.0192568372	seen in
+0.0187748440	the most
+0.0183634634	cause of
+0.0177049771	use of
+0.0176407648	transition in
+0.0169438207	an x
+0.0166796517	described in
+0.0165827096	g to
+0.0153820194	in most

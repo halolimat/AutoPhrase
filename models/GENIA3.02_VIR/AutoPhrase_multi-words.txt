@@ -1,0 +1,2957 @@
+0.9699118982	rheumatoid arthritis
+0.9687432642	systemic lupus erythematosus
+0.9666061002	retinoic acid
+0.9644266381	germinal center
+0.9634749158	dissociation constant
+0.9634294698	cyclic amp
+0.9623532170	base pair
+0.9622120353	respiratory burst
+0.9616681526	amino acids
+0.9616042986	heat shock
+0.9612211796	flow cytometry
+0.9606789115	breast cancer
+0.9604020444	base pairs
+0.9593472233	nitric oxide
+0.9593337026	squirrel monkey
+0.9583165431	open reading frame
+0.9583046075	zinc finger
+0.9566448935	gel electrophoresis
+0.9564351901	western blotting
+0.9562230420	reverse transcriptase
+0.9559762540	major depressive disorder
+0.9544949408	bone marrow
+0.9543371080	western blot
+0.9532530973	pertussis toxin
+0.9519201578	alternative splicing
+0.9494890878	anorexia nervosa
+0.9471628764	tumor necrosis factor
+0.9465239049	acute lymphoblastic leukemia
+0.9461141326	rna polymerase ii
+0.9460708251	leucine zipper
+0.9446609406	pyrrolidine dithiocarbamate
+0.9443720154	steady state
+0.9439569161	chloramphenicol acetyltransferase
+0.9416239285	gel retardation
+0.9413506629	prostaglandin e2
+0.9409537686	amino acid
+0.9407594314	il 6
+0.9406276872	severe combined immunodeficiency
+0.9403087661	basic helix loop helix
+0.9389828092	low density lipoprotein
+0.9384296807	il 2
+0.9382636377	il 10
+0.9379348350	granulocyte macrophage colony stimulating factor
+0.9376551196	mhc class ii
+0.9367599211	lymph nodes
+0.9363876831	reticulocyte lysate
+0.9363486407	human immunodeficiency virus
+0.9357423827	acute promyelocytic leukemia
+0.9352679943	il 4
+0.9349106644	leukotriene b4
+0.9345408739	thyroid hormone
+0.9342587459	cell death
+0.9341811629	okadaic acid
+0.9339205118	oxidative stress
+0.9337899244	tumor necrosis factor alpha
+0.9333158175	mononuclear leukocytes
+0.9329670347	tyrosine kinase
+0.9326137698	academic press
+0.9316624478	tata box
+0.9312524265	tnf alpha
+0.9306549257	platelet activating factor
+0.9291187851	signal transduction
+0.9289115356	interferon gamma
+0.9287645255	natural killer
+0.9278379329	alternatively spliced
+0.9269851134	flow cytometric
+0.9266974254	polymerase chain reaction
+0.9262276810	social support
+0.9261937132	phorbol ester
+0.9256097841	bronchial asthma
+0.9255740050	gm csf
+0.9252465423	tyrosine kinases
+0.9244804212	vcam 1
+0.9237982567	acute myeloid leukemia
+0.9226677244	programmed cell death
+0.9220680690	sodium salicylate
+0.9210432373	antigen presenting cells
+0.9208783836	proto oncogenes
+0.9207209001	major histocompatibility complex
+0.9205217677	glucocorticoid receptor
+0.9187221838	cell cycle
+0.9185694344	phorbol esters
+0.9183440187	tyrosine phosphorylation
+0.9183299400	rt pcr
+0.9174162521	reactive oxygen species
+0.9164652749	chromatin structure
+0.9156889668	monoclonal antibodies
+0.9155763130	site directed mutagenesis
+0.9152947534	half life
+0.9148860541	cell line
+0.9141708849	monoclonal antibody
+0.9127243904	hela cells
+0.9125503277	interleukin 2
+0.9117458649	molecular mass
+0.9113211000	phorbol myristate acetate
+0.9103650304	hmg box
+0.9095922106	lytic cycle
+0.9085249355	transgenic mice
+0.9081891755	double stranded
+0.9081458895	long terminal repeat
+0.9079739813	granulocyte colony stimulating factor
+0.9062283175	pml raralpha
+0.9053800909	mononuclear phagocytes
+0.9052401918	hla dr
+0.9045239486	hiv infection
+0.9043989320	wild type
+0.9043152975	ng ml
+0.9042468453	signaling pathways
+0.9038826501	locus control region
+0.9035871879	adhesion molecules
+0.9029394935	bcl 2
+0.9024343366	epstein barr virus
+0.9005729055	transcription factor
+0.9000123137	1,25 dihydroxyvitamin d3
+0.8997017073	il 12
+0.8994248847	long term
+0.8987859682	northern blot
+0.8983256474	cross linking
+0.8982824118	serine threonine
+0.8980997644	electrophoretic mobility shift assays
+0.8977925588	endothelial cells
+0.8966122168	ifn gamma
+0.8954124947	helix loop helix
+0.8953772565	calcium ionophore
+0.8952325212	icam 1
+0.8941166543	g0 g1
+0.8939652859	binding site
+0.8938289311	hla dq
+0.8936703084	c jun
+0.8931785777	alveolar macrophages
+0.8916807879	northern blot analysis
+0.8913665101	hiv 1
+0.8908683521	x2 box
+0.8896935059	oxidant stress
+0.8895763666	bcl xl
+0.8894074879	c fos
+0.8892501450	redox status
+0.8891649840	messenger rna
+0.8886810989	immune response
+0.8885346125	il 8
+0.8884572781	reactive oxygen
+0.8873978996	e2a hlf
+0.8869838917	nuclear factor kappab
+0.8865615122	vitamin d3
+0.8861048891	class ii
+0.8857457934	glucocorticoid receptors
+0.8856137716	g1 phase
+0.8850017670	family members
+0.8849187608	progenitor cells
+0.8846970119	cord blood
+0.8839662209	erba tr
+0.8830105317	latently infected
+0.8818245914	pregnant women
+0.8811588169	chronic hepatitis
+0.8807763808	growth factor
+0.8798309620	mitogen activated protein kinase
+0.8794075651	aml1 eto
+0.8789463344	reverse transcriptase polymerase chain reaction
+0.8788958682	mn sod
+0.8788418919	transiently transfected
+0.8787901230	freshly isolated
+0.8785752606	binding sites
+0.8775182532	light chain
+0.8771614504	nf kappab
+0.8771402641	nuclear extracts
+0.8767538588	cell lines
+0.8766012003	transcription factors
+0.8756768681	fusion protein
+0.8750652806	rbp jkappa
+0.8742578974	plasma cortisol
+0.8736052434	mrna levels
+0.8717643797	peripheral blood
+0.8713940466	reporter gene
+0.8713129212	fc gamma
+0.8713018866	molecular weight
+0.8711717529	inflammatory mediators
+0.8707295601	immune responses
+0.8691178600	interleukin 6
+0.8685642638	estrogen receptor
+0.8683007373	promyelocytic leukemia
+0.8681203115	signaling pathway
+0.8680978069	cell surface
+0.8670992656	peroxisome proliferator
+0.8666713136	epithelial cells
+0.8666579974	dendritic cells
+0.8659382669	stably transfected
+0.8649643442	amino terminal
+0.8642133785	dose dependently
+0.8641388679	hla dra
+0.8633470448	dna binding
+0.8631917705	bat box
+0.8628550876	sh2 domain
+0.8619175232	electrophoretic mobility shift assay
+0.8614749433	proline rich
+0.8607514228	carboxy terminal
+0.8604464817	oct 2a
+0.8603078757	gel shift
+0.8597970616	pebp2 cbf
+0.8595994961	point mutations
+0.8588407774	adhesion molecule
+0.8582278844	responsive element
+0.8581873735	cell growth
+0.8572359070	anti inflammatory
+0.8567032594	epstein barr
+0.8561206082	proto oncogene
+0.8557678986	gel mobility shift assays
+0.8556550557	trans activator
+0.8552612541	gelatinase granules
+0.8552136480	cis acting
+0.8551136824	cell types
+0.8551112516	u937 cells
+0.8545096472	reading frame
+0.8534043424	statistically significant
+0.8533475316	map kinase
+0.8529332384	dna binding domain
+0.8528301085	interleukin 1beta
+0.8520381774	growth factors
+0.8515538678	type ii
+0.8511414384	nk cells
+0.8506033679	reporter construct
+0.8501554767	carboxyl terminal
+0.8501289929	reporter constructs
+0.8486769613	interleukin 4
+0.8482007956	monocytic differentiation
+0.8479949793	ccaat box
+0.8478544785	tyrosine phosphorylated
+0.8477694486	creb atf
+0.8476304279	erythroid progenitors
+0.8472132409	acute leukemia
+0.8470013142	class switching
+0.8469042032	bcl 6
+0.8457940886	control subjects
+0.8447365799	peripheral blood mononuclear cells
+0.8444883865	chronic lymphocytic leukemia
+0.8429806842	immunoglobulin heavy chain
+0.8426351324	transcriptional regulation
+0.8418254501	progesterone receptor
+0.8407471094	ig heavy chain
+0.8406927200	gamma globin
+0.8392315454	cytokine production
+0.8384998177	cell proliferation
+0.8366701642	ifn alpha
+0.8364721992	transient transfection
+0.8362782608	il 13
+0.8358790300	zap 70
+0.8355940002	erythroid differentiation
+0.8352703526	transforming growth factor beta
+0.8348640610	k562 cells
+0.8343054170	heavy chain
+0.8338246220	expression vector
+0.8338101352	gene product
+0.8323430548	il 1beta
+0.8317097769	stem cell
+0.8310842338	chronically infected
+0.8307295514	tissue factor
+0.8303233078	cdna library
+0.8296453832	ap 1
+0.8291562688	tcf 1
+0.8290835857	human umbilical vein endothelial cells
+0.8272904985	human immunodeficiency virus type 1
+0.8271625194	germ line
+0.8259572224	binding affinity
+0.8250959206	reporter plasmid
+0.8247715207	response element
+0.8243923880	nuclear translocation
+0.8243090163	electrophoretic mobility shift
+0.8231257475	response elements
+0.8227834184	extracellular signal regulated
+0.8225499978	steroid hormones
+0.8216674320	janus kinase
+0.8208072179	intercellular adhesion molecule 1
+0.8205224304	aitl gc
+0.8204173440	gene expression
+0.8182501341	hl60 cells
+0.8179737440	inflammatory response
+0.8171980530	closely related
+0.8167167793	pml rar alpha
+0.8166331957	myeloid leukemia
+0.8161704382	anti cd3
+0.8157393108	tyrosine phosphatase
+0.8145528334	transcriptionally active
+0.8143401194	nf kappa b1
+0.8143366517	nf atp
+0.8131785887	dihydroxyvitamin d3
+0.8130706335	human t cell leukemia virus type
+0.8130294997	point mutation
+0.8128399697	nuclear factor
+0.8123051959	western blot analysis
+0.8120432341	luciferase reporter
+0.8119854593	p50 p65
+0.8119039491	tumor suppressor
+0.8117493458	p50 homodimers
+0.8084433485	viral replication
+0.8069839870	nuclear factors
+0.8069663480	mono mac 6
+0.8069106811	beta galactosidase
+0.8060887316	fetal liver
+0.8058692203	electrophoretic mobility
+0.8042593408	abstract truncated at 250 words
+0.8039228449	receptor antagonist
+0.8037793629	inflammatory cytokines
+0.8034002272	egr 1
+0.8033539472	pou domain
+0.8027906873	plzf rar alpha
+0.8022438443	nuclear localization
+0.8011670549	healthy controls
+0.8004558459	transient expression
+0.7999283157	mineralocorticoid receptor
+0.7995149257	clinical significance
+0.7995051018	jak kinases
+0.7987362738	peripheral blood lymphocytes
+0.7978521913	slp 76
+0.7974876532	dominant negative
+0.7968792278	nf il6
+0.7968662447	cell survival
+0.7951570321	cell cycle progression
+0.7949651211	plasma membrane
+0.7946959022	serum response factor
+0.7941801766	fas ligand
+0.7928871218	natural killer cells
+0.7924591793	mrna accumulation
+0.7916795459	hiv replication
+0.7912908380	tgf beta
+0.7908038659	nf e2
+0.7904813347	mobility shift assays
+0.7890945800	dra promoter
+0.7890238987	phosphatidylinositol 3 kinase
+0.7883144248	regulatory element
+0.7877786427	type ii ebs
+0.7868846773	il 2r alpha
+0.7867081555	protein synthesis
+0.7866794367	phorbol 12 myristate 13 acetate
+0.7859185381	mrna stability
+0.7849704288	dna damage
+0.7843975711	transcriptional activity
+0.7841778834	ccaat enhancer binding protein
+0.7839756638	il 2r
+0.7839304276	lymphocyte proliferation
+0.7828793115	monocytic cell adhesion
+0.7827933471	rar alpha
+0.7821145236	enhancer element
+0.7820411746	ru 486
+0.7819960651	protein dna interactions
+0.7803478050	pi 3 kinase
+0.7800466288	acute promyelocytic
+0.7776555383	cell type specific
+0.7776201592	macrophage colony stimulating factor
+0.7758811283	adult t cell leukemia
+0.7757742879	ikb alpha
+0.7757170756	octamer binding
+0.7755615997	infected individuals
+0.7748561153	camp dependent protein kinase
+0.7748451458	constitutively active
+0.7744095811	htlv 1
+0.7741617036	hl 60
+0.7740147049	hematopoietic progenitors
+0.7738783165	nuclear matrix
+0.7733596513	transcriptional activation
+0.7730447634	anti cd28
+0.7722371196	negative regulation
+0.7717598238	ikappab alpha
+0.7716413184	stat proteins
+0.7706901358	leukemic cells
+0.7706140541	regulatory elements
+0.7705485449	monocyte differentiation
+0.7698507295	lymphoid cells
+0.7696983216	ebna 2
+0.7691813693	cell differentiation
+0.7680012890	monocyte derived macrophages
+0.7674235851	tyrosine kinase activity
+0.7673303613	peripheral blood monocytes
+0.7665901835	trans acting
+0.7659440553	2d3 receptor rna
+0.7655424004	phorbol myristate
+0.7650810223	promoter activity
+0.7639646533	family member
+0.7625890977	il 7r
+0.7623013105	monocyte adhesion
+0.7621260772	hiv infected
+0.7617867739	provide evidence
+0.7614016773	protein kinase
+0.7612756148	endothelial cell
+0.7611976235	dna replication
+0.7609694490	receptor superfamily
+0.7606893897	supershift assays
+0.7600887463	signaling molecules
+0.7600655592	pkc zeta
+0.7596200261	nf kb
+0.7596132295	virus replication
+0.7593403187	nf at1
+0.7568525451	nk cell
+0.7561712114	monocytic cell line
+0.7556395126	bacterial lipopolysaccharide
+0.7555346040	cell adhesion
+0.7551029461	x inactivation
+0.7547370231	peroxisome proliferator activated receptor
+0.7544969386	stat1 alpha
+0.7544645877	functional role
+0.7542913369	natural killer cell
+0.7538467102	dna binding activity
+0.7538465166	il 7
+0.7538028034	il 1r
+0.7533010031	signaling events
+0.7531008044	high level
+0.7527253985	dependent manner
+0.7521165932	gata 1
+0.7512244677	bp upstream
+0.7511614935	epithelial cell
+0.7510170292	il 1ra
+0.7508052266	ngfi b nur77
+0.7507460717	induced apoptosis
+0.7503161972	granulocytic differentiation
+0.7493692423	signal transducing
+0.7493621989	nuclear import
+0.7489498402	high affinity
+0.7488051636	hiv 1 replication
+0.7484213840	il 5
+0.7483150855	gamma interferon
+0.7476255841	interferon alpha
+0.7474982704	cd95 ligand
+0.7472902547	cell membrane
+0.7462383902	htlv ii
+0.7455897070	th1 and th2
+0.7450238809	results suggest
+0.7449976945	gamma chain
+0.7448335520	hiv ltr
+0.7443675286	ige synthesis
+0.7441022570	transcription initiation
+0.7440751008	interleukin 10
+0.7440088593	transcription start site
+0.7439520668	reporter gene constructs
+0.7438370024	oct 1 and oct
+0.7433388287	copyright 1998
+0.7429034970	negative regulator
+0.7420125049	ut 7
+0.7415931960	terminal differentiation
+0.7412906351	signal transduction pathways
+0.7405880249	mobility shift assay
+0.7402127404	gel shift assays
+0.7400436895	transcriptional regulator
+0.7398433892	hla class ii
+0.7397219958	transcription initiation site
+0.7394694905	retinoic acid receptor alpha
+0.7392204512	extracellular domain
+0.7386660841	latent membrane protein
+0.7380087477	blood mononuclear cells
+0.7375799717	hypersensitive site
+0.7375011709	hhv 6
+0.7369193321	ap 2
+0.7356810549	human t cell lymphotropic virus type
+0.7352990475	analysis revealed
+0.7350806935	il 4r
+0.7342679051	nf atc
+0.7340298226	protein tyrosine kinases
+0.7337943011	cdna clone
+0.7329529208	lymphoblastoid cell lines
+0.7328138538	host cell
+0.7319927680	alpha chain
+0.7302045027	expression vectors
+0.7298588788	consensus sequence
+0.7296362616	cell lysates
+0.7293942792	glucocorticoid resistance
+0.7291415721	genes encoding
+0.7291037362	transcriptional regulators
+0.7288392640	peripheral blood mononuclear
+0.7286187631	recent studies
+0.7283314816	reverse transcription
+0.7282971604	monocyte macrophage
+0.7280178323	hiv long terminal repeat
+0.7277215964	amino acid sequence
+0.7274471845	m csf
+0.7272189157	thp 1
+0.7260725817	leukemia cells
+0.7257934597	infected cells
+0.7254570542	nuclear factor of activated t cells
+0.7251920411	vascular cell adhesion molecule
+0.7251746620	cell population
+0.7237554105	inflammatory diseases
+0.7233003496	glial cells
+0.7230308384	cbf beta
+0.7228060778	hiv tf1
+0.7222868082	nuclear extract
+0.7205402321	transforming growth factor
+0.7202453298	dna binding activities
+0.7201075085	gene products
+0.7195946924	gamma delta
+0.7188174538	erythroid and megakaryocytic
+0.7185476971	ifn mcp
+0.7179721487	mcp 1
+0.7178918709	kappa b alpha mad 3
+0.7178191462	previously shown
+0.7175826298	gene regulation
+0.7172630916	tissue specific
+0.7171516543	age related
+0.7166949333	deletion mutants
+0.7166521238	blood monocytes
+0.7165457999	v abl
+0.7160607538	colony stimulating factor
+0.7158052085	mediated apoptosis
+0.7157718275	gc box
+0.7148254144	t cell
+0.7146395064	cis acting elements
+0.7143843682	healthy subjects
+0.7142397361	phosphatase calcineurin
+0.7142122425	calmodulin dependent
+0.7141513482	leukemia cell line
+0.7141383036	target genes
+0.7140826633	directed transcription
+0.7140384952	anti igm
+0.7139289934	chronic inflammation
+0.7134457481	binding activities
+0.7133081104	dna fragment
+0.7130767551	acute lymphoblastic
+0.7125267664	lymphoid tissues
+0.7120040133	stem cells
+0.7118895602	leukemia virus
+0.7117484185	class ii major histocompatibility complex
+0.7112404009	erythroid specific
+0.7108874542	androgen receptor gene
+0.7104526393	deficient mice
+0.7103322226	stat1 and stat3
+0.7097211676	mrna level
+0.7096032285	sequence analysis
+0.7084838069	regulatory region
+0.7082581576	cell type
+0.7080707609	vascular cell adhesion molecule 1
+0.7075857527	activation domain
+0.7075561139	jurkat cells
+0.7066694679	data suggest
+0.7065926416	cell populations
+0.7061850747	activate transcription
+0.7060444832	beta chain
+0.7054886104	transcriptional activator
+0.7047982573	oct 2
+0.7046755184	elf 1
+0.7046650682	all trans retinoic acid
+0.7045671799	cortisol concentrations
+0.7035782086	class ii molecules
+0.7031740341	trans activation
+0.7028970656	octamer motif
+0.7025660532	cd40 ligation
+0.7019879237	type ii receptors
+0.7018937542	start site
+0.7009767209	c myc
+0.7002377768	transcriptional repressor
+0.7001639232	hematopoietic progenitor cells
+0.6990163125	myeloid cell lines
+0.6985877915	human neutrophils
+0.6985549987	thyroid hormone receptor
+0.6976647606	signal transducers and activators of transcription
+0.6962382657	jak stat
+0.6959134577	previous studies
+0.6953741648	cytokine genes
+0.6953115748	enhancer activity
+0.6950018060	irf 1
+0.6949411574	major histocompatibility complex class ii
+0.6948268909	expression pattern
+0.6946508882	growth inhibition
+0.6942777800	functional analysis
+0.6938312985	tcr delta
+0.6934170166	proliferator activated receptor
+0.6933943260	camp levels
+0.6930039635	breast cancer patients
+0.6928442771	late gene expression
+0.6926164731	signal transducer and activator of transcription
+0.6920093240	c rel
+0.6913785365	th2 clones
+0.6912717882	spi 1
+0.6907427933	negative regulatory element
+0.6904893219	activated platelets
+0.6900603794	cell culture
+0.6898354731	glucocorticoid therapy
+0.6895645653	macrophage differentiation
+0.6893268682	lower affinity
+0.6892370731	corticosteroid receptors
+0.6890803859	positive and negative
+0.6890759150	il 9
+0.6880422520	25 dihydroxyvitamin d3
+0.6879610470	basal transcription
+0.6876161272	antigen receptor
+0.6874469869	reverse transcription polymerase chain
+0.6873644027	il 10r
+0.6868867774	human peripheral
+0.6863652857	human herpesvirus 6
+0.6862086379	family proteins
+0.6859380901	3h dexamethasone
+0.6854143339	full length
+0.6852109299	fos and jun
+0.6848980083	g csf
+0.6846680093	analysis showed
+0.6838711875	biological effects
+0.6838330387	signal transduction pathway
+0.6835725489	mrna expression
+0.6826263987	responsive elements
+0.6825311532	binding capacity
+0.6818531740	transcriptional regulatory
+0.6817622895	globin genes
+0.6814932413	il 1 beta
+0.6814274765	monocyte macrophage lineage
+0.6810855747	major histocompatibility
+0.6808093789	gel mobility shift
+0.6807376276	octamer site
+0.6806168362	jun and fos
+0.6800388917	il 1ri
+0.6798354831	mip 1 alpha
+0.6798275418	interleukin 8
+0.6791825436	rxr alpha
+0.6791475059	combined immunodeficiency
+0.6789516544	lmp 1
+0.6788283654	highly conserved
+0.6788231289	heat shock protein
+0.6787018649	progesterone receptors
+0.6785257643	complex formation
+0.6773209851	beta globin locus
+0.6769309389	necrosis factor alpha
+0.6767088741	blast cells
+0.6766378987	rap1 protein
+0.6765229123	anti cd2
+0.6761045924	family of transcription factors
+0.6760545300	mono mac
+0.6754932406	e selectin
+0.6748160016	constitutively expressed
+0.6740916587	l selectin
+0.6740423947	human peripheral blood monocytes
+0.6734882786	kda protein
+0.6731625630	fusion proteins
+0.6730994868	lef 1
+0.6730457636	dna sequence
+0.6728319215	p50 and p65
+0.6727658548	receptor alpha chain
+0.6727487083	1,25 dihydroxyvitamin
+0.6723053064	epsilon transcription
+0.6723021559	inflammatory responses
+0.6720265357	signaling cascade
+0.6713998995	gata 3
+0.6713559924	dependent and independent
+0.6707519293	ml 9
+0.6706428546	proinflammatory cytokines
+0.6700667912	proliferative response
+0.6698316066	class ii major histocompatibility
+0.6695569219	ca2 + ionophore
+0.6687042863	binding activity
+0.6684643980	9 cis ra
+0.6684405039	& gt
+0.6683265175	vein endothelial cells
+0.6680328042	variety of cell types
+0.6673396797	monocytic cells
+0.6661551297	inhibitory effects
+0.6659644542	leukocyte adhesion
+0.6655886003	alpha and beta
+0.6654697717	lymphoid cell lines
+0.6643469864	central nervous system
+0.6632675827	tcr alpha enhancer
+0.6630532891	markedly reduced
+0.6629406791	n terminal
+0.6627582170	tal 1
+0.6619808471	il 1alpha
+0.6619093940	octamer sequence
+0.6619045418	tumor necrosis factor receptor
+0.6616747336	protein tyrosine kinase
+0.6614295830	human and mouse
+0.6612737405	cell lineages
+0.6612358105	x chromosome inactivation
+0.6612259075	protein protein interactions
+0.6611547608	cat activity
+0.6604705549	latent membrane protein 1
+0.6600034813	binding motif
+0.6599107990	nf kappa b
+0.6597546841	transactivation domain
+0.6594197369	positive regulatory element
+0.6592294342	anti cd3 mab
+0.6587436393	peripheral blood leukocytes
+0.6585600351	interferon regulatory factor
+0.6584525118	phorbol 12 myristate
+0.6581406337	mrna and protein
+0.6579358731	interleukin 2 receptor alpha chain
+0.6567915363	gata site
+0.6563006020	androgen receptor
+0.6551393952	normal human monocytes
+0.6551229998	anti cd28 mab
+0.6550940947	cell clones
+0.6548853157	camp response element
+0.6539644389	signal transducer
+0.6538325780	alpha globin
+0.6538241466	u 937
+0.6528140444	low level
+0.6518732726	human monocytes
+0.6512562422	cis elements
+0.6510906136	binding proteins
+0.6503155083	kinase activity
+0.6499867179	retinoic acid receptors
+0.6494537909	cortisol levels
+0.6487420202	murine and human
+0.6485439342	cytokine receptors
+0.6474655349	ifn beta
+0.6474336093	activator protein 1
+0.6474011768	beta globin
+0.6464177580	p selectin
+0.6457584184	cell surface receptors
+0.6455206011	inhibitory effect
+0.6447976114	mobility shift
+0.6447019634	binding motifs
+0.6445711228	nuclear proteins
+0.6444253205	anti cd40
+0.6439476818	constitutive and inducible
+0.6428769910	interleukin 1 beta
+0.6425312475	vitamin d receptor
+0.6417759686	globin gene
+0.6414635277	all trans ra
+0.6410658539	monocytes and macrophages
+0.6410370569	nf kappa b and ap 1
+0.6410303358	c myb
+0.6409537435	negative regulatory
+0.6408714929	immediate early
+0.6408330535	cytoplasmic domain
+0.6401087868	pml rar
+0.6395468108	trans activating
+0.6389559716	significantly decreased
+0.6388816495	core promoter
+0.6381361974	cell lymphomas
+0.6378882560	surface molecule
+0.6367693222	costimulatory signals
+0.6365845180	c fos and c jun
+0.6352817234	transient transfection assays
+0.6348285169	12 o tetradecanoylphorbol 13 acetate
+0.6347595719	mononuclear cells
+0.6345282281	transcriptional activities
+0.6340159429	erythroid cells
+0.6336986152	induce apoptosis
+0.6322121584	see comments
+0.6318623792	monocytes macrophages
+0.6318387682	flanking region
+0.6312336233	mitogenic stimulation
+0.6310275320	et al
+0.6308062787	interleukin 3
+0.6304671383	cellular proliferation
+0.6301120060	de novo
+0.6296677255	in situ hybridization
+0.6290814596	binding assay
+0.6290269487	mhc class
+0.6290175059	human t cell leukemia virus
+0.6289617757	rich region
+0.6285294478	receptor characteristics
+0.6282813100	myristate acetate
+0.6281820763	published erratum appears in
+0.6277472459	binding characteristics
+0.6276330009	minimal promoter
+0.6274853269	viral latency
+0.6269314347	c ebp
+0.6264101028	steroid resistant
+0.6262552937	enhancer elements
+0.6261900113	myeloid differentiation
+0.6256815185	c terminus
+0.6241090869	proliferation and differentiation
+0.6239189970	mnda mrna
+0.6234280314	lymphoblastoid cells
+0.6229563058	gel shift analysis
+0.6228002118	c ebp epsilon
+0.6224507106	significantly higher
+0.6221251483	u ml
+0.6219383120	growth and differentiation
+0.6212679550	nb4 cells
+0.6203720097	treated cells
+0.6200800930	gene transcription
+0.6197780788	lymphocyte development
+0.6191729808	x linked
+0.6189245034	interleukin 12
+0.6183016628	cytokine receptor
+0.6177790748	mechanisms underlying
+0.6174713470	mean + sem
+0.6173816716	binding protein
+0.6168963548	molecular events
+0.6161141777	cell extracts
+0.6160116641	nuclear factor of activated
+0.6154574278	transcriptional control
+0.6154430979	ex vivo
+0.6152358209	el 4
+0.6145680501	cell cultures
+0.6123241179	human monocytic cell line
+0.6119591579	nf at
+0.6113750705	& amp
+0.6110114581	igh enhancer
+0.6105628462	hiv 1 ltr
+0.6101535472	n acetyl
+0.6097222301	significantly enhanced
+0.6096895713	nuclear factor kappa b
+0.6094134364	human monocytic cells
+0.6090974589	intracellular signaling
+0.6089361555	il 3
+0.6088150228	class ii genes
+0.6087896382	cell lineage
+0.6086609884	tcr cd3
+0.6085280020	monocytes and t cells
+0.6083456575	binding domain
+0.6082659111	control group
+0.6077172774	hematopoietic cells
+0.6076196399	t cells
+0.6075950607	monocyte to macrophage
+0.6064478025	regulatory sequences
+0.6063320803	granulocyte macrophage
+0.6059265574	transcriptional factors
+0.6054421475	cytotoxic t lymphocyte
+0.6041894468	htlv i
+0.6041403944	surface expression
+0.6023587319	ets related
+0.6023380919	human peripheral blood lymphocytes
+0.6023277921	lps stimulation
+0.6020763335	chronic myelogenous
+0.6018051049	tnf alpha release
+0.6016303947	bone marrow cells
+0.6012527414	gene rearrangement
+0.6011179830	galectin 3
+0.6004848512	proximal promoter
+0.6001759135	c terminal
+0.5996918612	serum free
+0.5996271388	signal transducers
+0.5994179622	il 1
+0.5993407131	initiation site
+0.5991823503	p & lt
+0.5990609422	cell development
+0.5982174063	findings suggest
+0.5974188979	significantly increased
+0.5953860298	myeloid leukemic
+0.5953209637	nk activity
+0.5950221783	down regulated
+0.5942129795	c rel p65 heterodimers
+0.5939416717	30 min
+0.5932841221	transduction pathways
+0.5931896122	lps induced
+0.5923905539	expression patterns
+0.5917770761	second messenger
+0.5917542643	intracellular calcium
+0.5914874837	cat reporter
+0.5912346939	mediated transactivation
+0.5911479969	stat3 and stat5
+0.5904806213	il 2 and il 12
+0.5904600889	results demonstrate
+0.5903552859	virus infection
+0.5895015920	dose dependent
+0.5888433781	protein phosphatase
+0.5885011603	dominant negative mutant
+0.5873751217	basal level
+0.5873109010	otf 2
+0.5868868140	il 4 and il 13
+0.5866958980	induced erythroid differentiation
+0.5850423196	human umbilical
+0.5842797054	interferon regulatory factor 1
+0.5842710940	promoter region
+0.5839989781	cyclosporin a and fk506
+0.5836350145	mediated transcription
+0.5834385110	human peripheral blood mononuclear cells
+0.5831582198	activation signals
+0.5814996202	ligand binding
+0.5810754056	nf kappab activation
+0.5810456718	lesser extent
+0.5802773919	significantly inhibited
+0.5800996233	mad 3
+0.5798679089	protein kinase c
+0.5797181341	ebv infection
+0.5786577887	t lymphocytes
+0.5786123172	i kappa b alpha
+0.5781125765	jurkat t cells
+0.5772010884	peripheral blood t cells
+0.5764325670	c jun and c fos
+0.5755804982	transfection assays
+0.5747455211	sp1 binding sites
+0.5746152316	specifically bound
+0.5725296897	promoter constructs
+0.5723009127	p65 heterodimers
+0.5718335254	hiv 1 long terminal repeat
+0.5708763047	nf y
+0.5692542402	vitamin d
+0.5692202077	major histocompatibility complex class
+0.5692106471	active form
+0.5679305539	t pll
+0.5679110706	dependent transcription
+0.5676799404	cell specific
+0.5676063242	nf kappa
+0.5666039641	dna binding protein
+0.5665644581	peripheral blood t lymphocytes
+0.5662720680	t helper
+0.5659573239	retinoic acid receptor
+0.5651420040	lymphocyte activation
+0.5641145064	gene therapy
+0.5639509524	cell subsets
+0.5638952953	early stage
+0.5632654501	15 lipoxygenase
+0.5631233798	fmol 10
+0.5626521526	response element binding protein
+0.5624250466	e box
+0.5614537710	studies suggest
+0.5614529232	hiv enhancer
+0.5609204043	csa sensitive
+0.5607482870	nmol l
+0.5603657225	sites cell
+0.5599330318	cd4 + t cells
+0.5592377033	regulatory mechanisms
+0.5581617538	transcription factor family
+0.5580908463	bfu e
+0.5577955240	essential role
+0.5574969909	significantly lower
+0.5565462018	proximal region
+0.5559139149	shift assay
+0.5556917505	in vitro
+0.5551233117	specific inhibitor
+0.5547834981	cellular factors
+0.5544442690	recently identified
+0.5531348581	previously demonstrated
+0.5530981785	nuclear receptor
+0.5527014892	cell free
+0.5521480237	previously identified
+0.5519647309	dra gene
+0.5518280798	cytokine gene expression
+0.5514830548	rel family
+0.5514686112	without affecting
+0.5513821410	binding factor
+0.5508875932	cytoplasmic inhibitor
+0.5507731184	regulation of gene expression
+0.5495492940	required for optimal
+0.5492970896	nuclear run
+0.5487795995	& lt
+0.5485245668	intracellular domain
+0.5481192391	necrosis factor
+0.5480623720	human t cell lymphotropic virus
+0.5477075063	retinoid x receptor
+0.5474728938	alpha subunit
+0.5465210943	present evidence
+0.5464485146	induced differentiation
+0.5464297141	c ebpbeta
+0.5463065484	specific manner
+0.5446280720	binding complexes
+0.5439858083	th1 cells
+0.5433671439	transfection experiments
+0.5426820997	nuclear antigen 2
+0.5419832449	mol l
+0.5412310534	2d3 receptor
+0.5406332515	dna binding proteins
+0.5389373872	2d3 receptors
+0.5379395965	lymphoid specific
+0.5376651696	p50 subunit
+0.5364317127	terminal domain
+0.5355055699	anti ig
+0.5343684755	promonocytic cells
+0.5339079935	cell adhesion molecule
+0.5333713265	nf kappa b rel
+0.5333150622	tax expressing
+0.5332865753	activation in human
+0.5331643765	beta globin promoter
+0.5319621186	signal transduction events
+0.5318798395	human t cell line
+0.5309556708	class ii transactivator
+0.5308672285	peroxisome proliferator activated
+0.5296224770	myeloid cell
+0.5287956602	b cell specific
+0.5276444781	normal subjects
+0.5275618711	lymphoblastic leukemia
+0.5271417517	raf 1
+0.5269854501	u1 cells
+0.5267709752	dna binding complexes
+0.5263197479	up regulated
+0.5242067630	stage specific
+0.5241802962	role in regulating
+0.5236613013	strongly suggest
+0.5229297180	nfat activation
+0.5222351246	protein of human
+0.5219518258	a dose dependent manner
+0.5217837827	positive regulatory
+0.5205001012	markedly increased
+0.5200367973	ability to induce
+0.5200269363	spi b
+0.5198706159	human chromosome
+0.5192101301	calcium dependent
+0.5190291928	cd40 signaling
+0.5188636665	in vivo
+0.5182904486	kappa b
+0.5181197780	13 acetate
+0.5179676971	human mononuclear leukocytes
+0.5169713321	significantly reduced
+0.5168590446	kappa b binding activity
+0.5157475251	cells from apoptosis
+0.5134160906	activated lymphocytes
+0.5133209666	dna sequences
+0.5128169340	lps stimulated
+0.5121530879	cd3 complex
+0.5113557807	tax protein
+0.5111745252	abstract truncated at
+0.5101657237	ebv infected
+0.5097764034	hmg i
+0.5091447150	tcr mediated
+0.5086887855	tcr beta
+0.5084149892	actinomycin d
+0.5076461761	the other hand
+0.5069885994	cell hybrids
+0.5062871495	mechanism of action
+0.5058904327	ca2 +
+0.5056310927	studies demonstrate
+0.5055288537	21 bp
+0.5052634652	gm csf promoter
+0.5049285393	human peripheral blood
+0.5041284634	enhancer region
+0.5040363488	data demonstrate
+0.5019961306	surface receptors
+0.4998376029	hl 60 cells
+0.4991931543	chronic lymphocytic
+0.4989655957	cellular genes
+0.4982194053	cellular responses
+0.4981984022	mhc class ii genes
+0.4975139588	immunoglobulin genes
+0.4970681005	oca b
+0.4969220382	thp 1 cells
+0.4962323636	sequence specific
+0.4960059355	tcr alpha
+0.4956881145	dependent pathways
+0.4952117056	oct 1
+0.4939476735	ic50 =
+0.4931070278	cellular activation
+0.4928414524	rel proteins
+0.4912881382	cell activation
+0.4900331136	beta globin gene
+0.4894582645	phosphorylation and activation
+0.4893223760	constitutive expression
+0.4890271242	receptor complex
+0.4889589409	b cells
+0.4874161207	th2 cells
+0.4868299971	shift assays
+0.4859324995	interleukin 1
+0.4857353067	these results suggest
+0.4857197122	lineage specific
+0.4854148918	t cell lines
+0.4846356897	nf kappa b activation
+0.4845826134	ebv transformed
+0.4839673762	critical role
+0.4829109450	hormone receptor
+0.4822642473	nuclear run on
+0.4821568840	il 2 production
+0.4813031370	tat protein
+0.4803189145	human leukemic
+0.4800323757	human t lymphocytes
+0.4796094304	rapidly induced
+0.4794724099	kappab binding activity
+0.4790312574	human lymphocytes
+0.4790246273	mitogen activated protein
+0.4786645228	protein complexes
+0.4782233615	immunoglobulin heavy
+0.4781402594	these data suggest
+0.4771714315	cultured human
+0.4769154137	viral transcription
+0.4764624285	x box
+0.4755401613	cd4 promoter
+0.4753057897	mediated signal transduction
+0.4742582153	hiv transcription
+0.4734743410	leukemic cell
+0.4725370136	t lymphocyte
+0.4717151223	s phase
+0.4715466591	gene encodes
+0.4713935201	taken together
+0.4710855416	this study
+0.4706733901	kappa b site
+0.4702507806	activator protein
+0.4689472753	b cell
+0.4681630361	pax 5
+0.4676259362	c ebp beta
+0.4670526902	peripheral t lymphocytes
+0.4666681772	insight into
+0.4658908812	ifn gamma production
+0.4656173728	antigen specific
+0.4648731396	a significant decrease
+0.4647022510	tnf alpha mrna
+0.4643643107	induced proliferation
+0.4643381017	myeloid cells
+0.4639003598	ap 1 binding activity
+0.4638122370	cells expressing
+0.4633791103	molecular mechanism
+0.4620177732	ets transcription factor
+0.4617537223	x chromosome
+0.4616200365	high levels
+0.4612981983	anti cd3 induced
+0.4608857319	gene promoter
+0.4607361197	human tissues
+0.4597835891	tnf alpha production
+0.4596506581	acting elements
+0.4586265171	binding studies
+0.4586161074	leukemia virus type 1
+0.4579049507	ifn gamma induced
+0.4568584139	kappab dependent
+0.4568096372	protein levels
+0.4559245444	hematopoietic progenitor
+0.4558976588	normal human t cells
+0.4555529097	membrane protein
+0.4554810526	thp 1 monocytic
+0.4545381583	transcriptional factor
+0.4541672531	gene encoding
+0.4541078298	memory t cells
+0.4535580451	the present study
+0.4531618338	human immunodeficiency virus 1
+0.4518977405	gr mrna
+0.4515763768	globin gene expression
+0.4513862867	lymphocytic leukemia
+0.4506447459	analysis demonstrated
+0.4506191656	tumor cells
+0.4499612663	scl protein
+0.4499268336	long terminal
+0.4499120056	mechanisms involved
+0.4491474445	stat protein
+0.4487695218	human myeloid
+0.4486184188	dependent protein kinase
+0.4486079364	nfat complex
+0.4484499504	greater than
+0.4479600940	s lymphoma
+0.4467206372	in vitro and in vivo
+0.4466114517	t cell leukemia virus type
+0.4459122817	these observations suggest
+0.4458998533	required for
+0.4457869657	class ii expression
+0.4456657748	nef protein
+0.4447193101	+ sem
+0.4443953694	studies showed
+0.4443915848	cytokine expression
+0.4443086210	human b cell line
+0.4436086842	chi b
+0.4431129794	human peripheral blood mononuclear
+0.4424712740	nf kappab binding activity
+0.4422932359	viral dna
+0.4420000272	dnase i
+0.4401934955	the molecular basis
+0.4397532368	human endothelial cells
+0.4394339539	promoter element
+0.4375833369	protein kinases
+0.4373696485	response genes
+0.4371403723	time course
+0.4353865881	a major role
+0.4353701826	hiv 2
+0.4346839114	did not affect
+0.4345935923	blood leukocytes
+0.4340357953	cell specific genes
+0.4336394281	c ebp epsilon mrna
+0.4333969986	these findings suggest
+0.4309477169	binding factors
+0.4302084603	lymphotropic virus
+0.4299434194	4 and il 13
+0.4293696724	low density
+0.4292876132	in addition
+0.4291000874	very low
+0.4286310966	lymphoblastoid cell
+0.4282033991	induced tyrosine phosphorylation
+0.4281892768	pre b cell
+0.4277460604	human ciita
+0.4273557388	acute myeloid
+0.4268373577	transformed cells
+0.4255772783	plasma cells
+0.4252381673	b cell development
+0.4245165894	promoter elements
+0.4229548375	intact cells
+0.4218610719	protein expression
+0.4216868210	mrna induction
+0.4214875396	nuclear protein
+0.4209314510	responsible for
+0.4198949059	class ii gene
+0.4196494703	t and b lymphocytes
+0.4186552047	activated t cells
+0.4183376370	cytokine induced
+0.4181860972	cultured cells
+0.4181789201	lipopolysaccharide induced
+0.4171686418	promoter regions
+0.4168832562	ebv positive
+0.4164917265	promoter proximal
+0.4162529053	protein level
+0.4161856417	il 15
+0.4153420689	human jurkat t cells
+0.4134427295	pma induced
+0.4126813968	kinase inhibitor
+0.4124583819	directed against
+0.4123087422	human immunodeficiency
+0.4113577788	lmp1 expression
+0.4106891006	a wide range
+0.4105371890	nf kappab rel
+0.4099782956	constitutive nuclear
+0.4099244453	class ii antigens
+0.4094315538	granzyme b
+0.4089187956	t cell activation
+0.4084939650	a heterologous promoter
+0.4067470379	a lesser extent
+0.4064548477	key role
+0.4055185611	p less than
+0.4053301685	oxygen species
+0.4045169665	gene induction
+0.4031762868	colony stimulating
+0.4025747518	50 kda
+0.4014721992	capable of binding
+0.4009575640	human primary
+0.4005719240	il 2 secretion
+0.4003048035	globin locus
+0.4002214106	human immunodeficiency virus type
+0.3996108869	transfected cells
+0.3966925834	an important role
+0.3955032824	these results
+0.3941188453	cd34 +
+0.3932057391	gene activation
+0.3926740726	gene family
+0.3926318934	glucocorticoid binding
+0.3925617885	retinoid x
+0.3918628387	the transcription factor nuclear factor
+0.3918100062	in human mononuclear
+0.3917296661	does not
+0.3912795884	as well as
+0.3912736262	did not
+0.3908831399	induces tyrosine phosphorylation
+0.3908567642	infection of human
+0.3908445829	transcription factor ap 1
+0.3904079184	the number of glucocorticoid receptors
+0.3901566866	b lymphocytes
+0.3900290704	gm csf gene
+0.3894421709	hiv promoter
+0.3890435144	normal human
+0.3886293191	leading to
+0.3878850072	cd40 mediated
+0.3873115943	b cell lines
+0.3869439232	resulted in
+0.3867900663	ets family
+0.3866794862	transcriptional induction
+0.3866364745	leads to
+0.3866004165	positive cells
+0.3864371759	killer cells
+0.3863896528	s disease
+0.3859241927	severe combined
+0.3857844263	assays showed
+0.3854486154	cd4 gene
+0.3854348653	specific binding
+0.3850996893	nf kappa b binding activity
+0.3839397769	referred to as
+0.3823303241	these findings
+0.3823173434	insights into
+0.3818202337	i kappa b gamma
+0.3811829822	globin promoter
+0.3808034205	fold increase
+0.3796111448	nf kappab dependent
+0.3794810456	in turn
+0.3791108022	using electrophoretic mobility shift assays
+0.3787839906	extracellular signal
+0.3785588020	nfat family
+0.3783820924	x 10
+0.3780762400	terminal kinase
+0.3780631252	il 2 gene transcription
+0.3780409879	peripheral t cells
+0.3777784124	new insights into
+0.3774284562	consistent with
+0.3772855808	specific gene expression
+0.3770301564	lymphocyte specific
+0.3761902912	blot analysis
+0.3756423154	degrees c
+0.3753457303	in situ
+0.3753293034	the fact
+0.3752750221	human beta globin
+0.3751112691	resting cells
+0.3737942827	72 h
+0.3737594731	specific genes
+0.3734403909	cll cells
+0.3731749664	data provide
+0.3729304984	regulatory proteins
+0.3728339564	hepatitis b
+0.3726712168	t cell line
+0.3722036461	normal erythroid
+0.3721962317	cell adhesion molecule 1
+0.3708511867	this paper
+0.3707354107	binding specificity
+0.3705992195	cis ra
+0.3702065649	tnf alpha promoter
+0.3696549033	serum response
+0.3695989116	pro b
+0.3694804166	molecular mechanisms
+0.3693473177	target cells
+0.3692444914	jun proteins
+0.3692242894	contribute to
+0.3677430782	anti tnf alpha
+0.3671356612	the entire
+0.3670107018	nf kappab dna binding
+0.3669372566	nf kappab activity
+0.3666628825	cell line u937
+0.3665707191	protein complex
+0.3662138446	activation dependent
+0.3661735374	t cell antigen receptor
+0.3657500461	10 microm
+0.3655157164	important role
+0.3649102328	in summary
+0.3648648468	lead to
+0.3646189784	the transcription start
+0.3645699899	cd8 + t cells
+0.3645457372	receptor family
+0.3644948326	naive t cells
+0.3643949448	s syndrome
+0.3637424689	activating transcription
+0.3626241453	involved in
+0.3620733581	hiv expression
+0.3620109598	hiv 1 tat
+0.3617010028	human t cell leukemia
+0.3613342562	24 h
+0.3607839475	blood lymphocytes
+0.3588254283	induction of apoptosis
+0.3586696032	hiv 1 infection
+0.3585370572	depending on
+0.3580929581	monocyte derived
+0.3576017075	transduction pathway
+0.3570440437	inflammatory cytokine
+0.3569240245	but not
+0.3565972961	in order to
+0.3565109192	interleukin 2 receptor alpha
+0.3552596896	cd8 + t
+0.3551664542	concentration dependent
+0.3545313771	human monocyte
+0.3544361892	p =
+0.3539326701	activates transcription
+0.3537395936	blood cells
+0.3536135138	these results demonstrate
+0.3533846137	in fact
+0.3529184393	in contrast
+0.3526590927	b cll
+0.3522506380	n =
+0.3520999696	correlation between
+0.3519361361	to examine
+0.3516373786	htlv i tax
+0.3501603014	failed to
+0.3497600085	present study
+0.3484595745	link between
+0.3472778591	activation of nf kappab
+0.3468596979	specific transcription factors
+0.3459048803	cancer patients
+0.3458254030	myb expression
+0.3454616023	accompanied by
+0.3450116565	hiv 1 long terminal
+0.3446114989	before and after
+0.3441427855	able to
+0.3436265762	capable of
+0.3436053665	il 2 gene expression
+0.3434367700	differentiate into
+0.3433684257	a variety of
+0.3432330112	down regulation
+0.3431645857	killer cell
+0.3430402157	members of
+0.3424080798	these observations
+0.3424029939	to determine whether
+0.3420721507	to investigate
+0.3420261714	erythroid cell
+0.3415835785	tax mediated
+0.3413883592	results support
+0.3412138318	human breast
+0.3406505574	lps induction
+0.3404630579	transcriptional level
+0.3401460566	expressing cells
+0.3398677176	the molecular mechanisms
+0.3397664992	nk and t
+0.3386696959	high levels of
+0.3384241509	nuclear antigen
+0.3382629744	an essential role
+0.3381208761	at least
+0.3378379020	transcriptional start
+0.3377582163	this review
+0.3374348119	m tat
+0.3363893547	ectopic expression of
+0.3345136677	shift analysis
+0.3341187710	dependent enhancer
+0.3335987214	aspects of
+0.3334894549	interaction between
+0.3334278265	tcf 1 alpha
+0.3331317801	induced tyrosine phosphorylation of
+0.3329801891	activated t lymphocytes
+0.3327829299	whole cell
+0.3325106062	t cell proliferation
+0.3321714402	the promoter of
+0.3320938399	element located
+0.3314441393	protein interactions
+0.3310924335	inhibition of
+0.3309267442	a wide variety of
+0.3301089402	the study of
+0.3300334953	kappa 3
+0.3293051193	such as
+0.3290951710	differentiation of human
+0.3289066411	essential for
+0.3282551530	hla class
+0.3269745967	human b lymphocytes
+0.3265555635	kappab site
+0.3264247258	previously described
+0.3262480521	other cell types
+0.3261089402	the promoters of
+0.3257734645	unable to
+0.3257631106	gamma production
+0.3255020694	these data demonstrate
+0.3252784629	do not
+0.3251314299	no effect
+0.3244364188	chain gene
+0.3240289340	correlates with
+0.3234081674	protein dna
+0.3234072874	b lymphocyte
+0.3231170172	purified human
+0.3229649340	human herpesvirus
+0.3228257605	these data
+0.3225859661	regulatory factor
+0.3225025521	b cell maturation
+0.3223890595	account for
+0.3218432329	correlated with
+0.3218008321	the response of
+0.3214988756	of nf kappab in
+0.3214971945	cd4 +
+0.3207337220	tf gene
+0.3202206820	infected with hiv
+0.3199883395	the respiratory
+0.3186943299	kappa b enhancer
+0.3185407521	results provide
+0.3180897995	site directed
+0.3173210572	effect on
+0.3164532566	differential expression
+0.3162392942	derived from
+0.3160008321	the proliferation of
+0.3154356464	human monocytic
+0.3151532295	gene expression in human
+0.3147315632	run on
+0.3146472536	interleukin 5
+0.3145636321	tnf mrna
+0.3144775160	ets 1
+0.3140300578	immediate early genes
+0.3138675279	low levels
+0.3135434040	mediated signaling
+0.3129789800	pre b cells
+0.3126768021	camp dependent
+0.3125675926	no difference
+0.3121738626	relationship between
+0.3112308406	contributes to
+0.3108564235	fas mediated
+0.3107475288	in conjunction with
+0.3104311947	led to
+0.3102899963	prepared from
+0.3099623026	binding elements
+0.3096420590	the transcriptional level
+0.3095486432	9 cis
+0.3093319796	rather than
+0.3087215883	human cd34
+0.3085272867	a panel of
+0.3081556801	known about
+0.3080780798	at least in part
+0.3077312456	data indicate
+0.3077165456	t lymphocyte activation
+0.3070093580	cyclosporin a
+0.3069580296	normal cells
+0.3067269915	enhancer binding protein
+0.3065824443	depends on
+0.3062296811	hormone binding
+0.3059441845	thought to
+0.3057248694	higher than
+0.3054594628	attributed to
+0.3046027458	to evaluate
+0.3043354872	gata 2
+0.3039078113	no significant
+0.3038243107	due to
+0.3028394683	human b cells
+0.3023780586	binding domains
+0.3019620145	serve as
+0.3019609734	cd4 t cells
+0.3016552786	12 o
+0.3011065277	10 fold
+0.3004276065	the presence of
+0.3002921016	substitute for
+0.2993086685	inhibition of nf kappab
+0.2986749415	fail to
+0.2982382490	low levels of
+0.2979623328	cd28 response
+0.2979613083	in combination with
+0.2976126942	human peripheral blood t
+0.2974860652	receptor alpha
+0.2971644529	did not alter
+0.2971404339	regulatory factor 1
+0.2967177147	interactions between
+0.2963369330	nf kappab binding
+0.2961250367	n terminal domain
+0.2956057652	specific transcription factor
+0.2951988970	per cell
+0.2947486952	1 obf
+0.2947417059	adhesion molecule 1
+0.2943171058	related protein
+0.2941979090	10 nm
+0.2936025488	to analyze
+0.2930486086	t cell leukemia virus type 1
+0.2927841966	terminal region of
+0.2919864990	upon stimulation
+0.2916579674	i kappa b
+0.2915193156	effects on
+0.2913208120	the percentage
+0.2911404724	potential role of
+0.2906907129	fails to
+0.2902817464	t helper cell
+0.2900422138	the class ii transactivator
+0.2898843075	t cell receptor
+0.2898086721	a wide
+0.2893208120	the majority
+0.2891843396	cd4 + t
+0.2891550088	lower than
+0.2880849324	human t cells
+0.2875777392	lymphoma cells
+0.2873100307	mediated inhibition
+0.2870655665	prevalence of
+0.2870654886	mediated signal
+0.2870105037	nuclear extracts from
+0.2867825082	human leukemia
+0.2866023229	in concert
+0.2865503637	virus type
+0.2858493709	as evidenced by
+0.2854320822	the nucleus
+0.2853710586	negative mutant
+0.2851316309	the growth of
+0.2849610668	control region
+0.2849427653	study demonstrates
+0.2846081770	inhibition of nf kappa b activation
+0.2843690772	nf kappa b p65
+0.2843172100	of t cells with
+0.2841991091	belonging to
+0.2837776824	the transcription start site
+0.2835055877	receptor function
+0.2831144628	results indicate
+0.2829105935	primary human
+0.2828579750	the surface of
+0.2827819648	with respect to
+0.2821772848	immediate early gene
+0.2821335617	transformed t cells
+0.2817107657	an important
+0.2815639449	cooperation between
+0.2814333091	bcl 6 protein
+0.2810957473	by electrophoretic mobility shift assay
+0.2809851529	stimulated cells
+0.2807794842	kappa b sequence
+0.2794087109	kappa b sites
+0.2784456216	expression of mhc class ii
+0.2783604287	binding complex
+0.2782660910	appears to
+0.2782073508	b cell differentiation
+0.2780653751	control cells
+0.2780102368	expression level
+0.2779026721	patients with
+0.2776965591	to determine
+0.2767540544	differs from
+0.2756524142	jun b
+0.2754646709	nf kappa b binding sites
+0.2749742163	ability to
+0.2747511389	derived macrophages
+0.2743006688	t cell clones
+0.2739970936	these results indicate
+0.2734123893	human nk
+0.2707373007	requirements for
+0.2702728833	early b cell
+0.2698669802	alpha beta
+0.2693599819	located within
+0.2693417926	nf kappa b translocation
+0.2689752337	a critical role
+0.2683546008	cell specific transcription factor
+0.2683525037	nfat 1
+0.2681645695	compared with
+0.2675014297	associated with
+0.2671604477	activated protein kinase
+0.2669151481	portion of
+0.2669061130	dependent reporter
+0.2667172327	alpha 4
+0.2663519425	located between
+0.2645319967	difference between
+0.2643683584	mediated activation
+0.2639931787	glucocorticoid induced
+0.2636531935	in concert with
+0.2635831520	human interleukin
+0.2635336719	cell mediated
+0.2625082762	all cases
+0.2622626615	molecular basis for
+0.2621327370	genes expressed
+0.2617767038	cell derived
+0.2616201018	these results provide
+0.2608318069	tissue specific expression of
+0.2603831013	nf kappa b dependent
+0.2600288007	the ability of
+0.2596754078	induction of
+0.2595697092	shown to
+0.2595481536	implications for
+0.2594128052	participates in
+0.2593426303	patients with chronic
+0.2592940641	adult t cells
+0.2589970008	activator of transcription
+0.2587415742	tumor cell
+0.2586311023	dose dependent manner
+0.2583550023	based on
+0.2576966574	fos mrna
+0.2569628877	in human mononuclear leukocytes
+0.2566403961	transcription factor nf kappab
+0.2556366911	one or more
+0.2549581902	associates with
+0.2542647731	this report
+0.2536760720	cd4 + t cell
+0.2534029645	ap 1 transcription factor
+0.2527486445	critical for
+0.2521475582	a dominant negative
+0.2516513976	ligand induced
+0.2514101730	differences between
+0.2509964204	stably transfected with
+0.2509471726	this hypothesis
+0.2501239777	better understanding
+0.2497140461	observations suggest
+0.2496042263	sufficient to
+0.2494952088	human il 4 promoter
+0.2493629202	mitogen activated
+0.2487601349	nf kappa b complex
+0.2485813155	stimulated t cells
+0.2485514298	binding sites for
+0.2478622273	interacts with
+0.2476797151	seem to
+0.2473549418	modulation of
+0.2470362913	with phorbol esters
+0.2467604886	tyrosine phosphorylation of
+0.2466748554	to identify
+0.2459544999	viral gene
+0.2456576258	interfere with
+0.2455652830	both in vitro and in
+0.2452072779	h 7
+0.2449741476	mononuclear cell
+0.2449485056	according to
+0.2442832458	sufficient for
+0.2442471419	specific enhancer
+0.2437224661	b cell line
+0.2432643224	investigated whether
+0.2432545688	e2f 1
+0.2429072937	interact with
+0.2427735819	both cell types
+0.2425546890	c fos c jun
+0.2424539316	protein tyrosine
+0.2422531213	nf kappa b induction
+0.2422330196	inducible transcription
+0.2421454621	focused on
+0.2420129530	expression of
+0.2417407665	serves as
+0.2406868872	t cell clone
+0.2401659243	the same
+0.2398153159	antibodies against
+0.2392510366	during t cell activation
+0.2384957239	majority of
+0.2365554574	this phenomenon
+0.2364808504	located at
+0.2358631488	early genes
+0.2356595736	the immunoglobulin heavy chain
+0.2354648269	pre b
+0.2353660531	human jurkat
+0.2352210583	latent membrane
+0.2351199305	tnf gene
+0.2348572406	up regulation
+0.2345816057	in primary human
+0.2334390735	fold increase in
+0.2328237853	lymphocytes from patients
+0.2322827670	cd8 +
+0.2319910693	interleukin 2 gene
+0.2317804671	type 1
+0.2312254212	nf kappa b activity
+0.2309845963	promoter enhancer
+0.2308716246	nuclear translocation of
+0.2308562582	time dependent
+0.2303951092	act as
+0.2297808541	gamma activated
+0.2296555946	normal t cells
+0.2288628249	report here
+0.2283657612	expression in human
+0.2281047591	tissue specific expression
+0.2278500096	percentage of
+0.2277871282	depend on
+0.2275339779	il 1 receptor
+0.2274575617	activation of
+0.2270211112	activation of pkc
+0.2264472319	basis for
+0.2259969685	model system
+0.2253939999	ap 1 site
+0.2251559567	cell maturation
+0.2246531459	correlate with
+0.2246323540	up regulation of
+0.2241997024	jurkat t
+0.2237923422	in human monocytes
+0.2236637975	isolated from
+0.2236033643	believed to
+0.2235937833	t cell development
+0.2228417160	molecular mechanisms of
+0.2227563865	inducible gene
+0.2223720149	the long terminal repeat
+0.2221221261	il 2 promoter
+0.2219392488	composed of
+0.2216372972	specific dna binding
+0.2214371099	consists of
+0.2206144660	expression in b cells
+0.2204397227	infected t cells
+0.2198934471	mediated through
+0.2195491643	acts as
+0.2191786088	the transcription factor nf kappab
+0.2190414353	nervous system
+0.2188219472	designed to
+0.2186359325	incubated with
+0.2185547819	interfering with
+0.2184460972	b cll cells
+0.2183255270	ap 1 activity
+0.2179729422	bcl 2 expression
+0.2178813692	participate in
+0.2157602064	6 h
+0.2154486146	explained by
+0.2152163694	indistinguishable from
+0.2149538865	immune system
+0.2144875598	ap 1 sites
+0.2144417384	a novel
+0.2141634796	as judged by
+0.2137551790	2 receptor alpha chain
+0.2134936599	these findings indicate
+0.2131056777	less than
+0.2125959616	characterization of
+0.2125476962	member of
+0.2122506884	fused to
+0.2121766687	irf 1 gene
+0.2120827646	regardless of
+0.2119063344	flanking region of
+0.2114493168	the hypothesis
+0.2113684107	u 937 cells
+0.2113584003	with or without
+0.2109750202	cells express
+0.2109712008	assays demonstrated
+0.2104644532	interleukin 2 promoter
+0.2090390633	alpha expression
+0.2085431007	human endothelial
+0.2084239428	anti tnf
+0.2078380676	nf kappa b binding
+0.2075265518	protein binding
+0.2074458188	requirement for
+0.2067235622	interleukin 2 receptor
+0.2059623339	influenced by
+0.2053331859	evidenced by
+0.2052554310	receptor binding
+0.2052017704	tnf alpha gene
+0.2050588560	human b cell
+0.2050247018	expression of c fos
+0.2048620692	in jurkat cells
+0.2047903067	inhibitory effect of
+0.2046734026	copies of
+0.2043698340	phorbol 13
+0.2036892053	after stimulation
+0.2029663640	kappa b like
+0.2027489874	addition of
+0.2009192900	respond to
+0.2008724280	activation of t lymphocytes
+0.2008384608	down regulation of
+0.2006410028	receptor mrna
+0.2004522335	referred to
+0.1996776919	by inhibiting
+0.1990286421	the context of
+0.1987274044	role for
+0.1986524090	removal of
+0.1984437553	center b cells
+0.1976912440	did not induce
+0.1970533919	il 2 receptor
+0.1969946204	at position
+0.1965520350	nf kappa b transcription factor
+0.1964270479	these data indicate
+0.1963706564	sets of
+0.1959508607	a single
+0.1958799978	no effect on
+0.1956608156	the electrophoretic mobility shift assay
+0.1948877866	transcription factors involved in
+0.1948793416	existence of
+0.1948657436	respect to
+0.1947459456	activation of nuclear factor kappa b
+0.1942502115	transfected into
+0.1941068274	promoter reporter
+0.1936315266	consisting of
+0.1930310224	not sufficient
+0.1930255050	dna binding activity of
+0.1929836776	transcription factor nf kappa b
+0.1929179045	t cell responses
+0.1926882470	overexpression of
+0.1921733962	necessary for
+0.1921405072	exposure to
+0.1919911032	to understand
+0.1912665165	followed by
+0.1910983854	jurkat cell
+0.1909883686	proportion of
+0.1909492941	this region
+0.1901853773	dependent on
+0.1899844016	beta 2
+0.1899727660	3 o
+0.1899022161	transcription of genes
+0.1892471965	to differentiate
+0.1890528732	activation of protein kinase c
+0.1882737762	the cell cycle
+0.1875311547	obtained from
+0.1870612094	the ets family
+0.1869192872	pretreatment with
+0.1866927159	kappa b rel
+0.1864362935	nf kappa b family
+0.1864338239	the cytoplasm
+0.1864231796	kinase activation
+0.1859020163	activity in human
+0.1857194277	the gene encoding
+0.1854559707	a myb
+0.1854084769	constitutive nf kappa b
+0.1849151713	transcriptional activation of
+0.1847418103	mode of
+0.1844463649	the human immunodeficiency virus
+0.1843949361	apoptosis induced by
+0.1841106564	downregulation of
+0.1840112576	a key role in
+0.1839663138	responded to
+0.1838402649	a transcriptional activator
+0.1835574888	gamma c
+0.1834376452	human blood
+0.1834325448	this effect
+0.1830778709	from young
+0.1827222948	controlled by
+0.1826024752	the t cell antigen receptor
+0.1824649783	to detect
+0.1823434605	subunit of nf kappa b
+0.1822197601	the immune response
+0.1821982712	most likely
+0.1813852444	the human il 4 promoter
+0.1813822762	induced phosphorylation
+0.1810262884	attributable to
+0.1809085865	gene expression in
+0.1808947118	absence of
+0.1808562524	these studies
+0.1807972059	in freshly isolated
+0.1805944143	dependent upon
+0.1804334297	activated transcription
+0.1797693920	factor kappa
+0.1796958081	studies indicate
+0.1795135424	also observed
+0.1794878827	cytoplasmic domain of
+0.1792329665	in chronically infected
+0.1792088730	pi 3
+0.1791015750	hiv 1 expression
+0.1784836467	these drugs
+0.1779963730	the il 2 promoter
+0.1778992729	variety of
+0.1776168718	ii molecules
+0.1767262540	on chromosome
+0.1766978508	hiv 1 transcription
+0.1766662218	loss of
+0.1765713023	cell specific expression of
+0.1764483663	the mitogen activated protein kinase
+0.1759003797	nuclear localization of
+0.1755460621	specific dna
+0.1754280371	beta 1
+0.1751562538	a dna binding protein
+0.1750553666	kappa b binding
+0.1745105087	mediated by
+0.1735554808	a consequence
+0.1733352268	t antigen
+0.1724600079	cell function
+0.1724113553	stages of
+0.1719631078	the transcription factor nf
+0.1716447104	regulators of
+0.1716182177	to isolate
+0.1715787420	inducible expression
+0.1704284720	activation of t cells
+0.1701504682	findings indicate
+0.1699927583	activating factor
+0.1694910177	central role in
+0.1691081529	the il 4 gene
+0.1681798348	a potent
+0.1681191912	as shown by
+0.1676738684	an important role in
+0.1675483611	two distinct
+0.1673431876	binds to
+0.1671718108	regulation of
+0.1671091999	coding for
+0.1669961475	transcriptional regulation of
+0.1669953758	factor family
+0.1669932952	nf kappa b dna binding
+0.1667581679	sensitivity to
+0.1667041724	two major
+0.1664199692	binding to
+0.1661935175	ap 1 binding
+0.1661300746	nf kappa b p50
+0.1659242109	in monocytic cells
+0.1658210329	regulated by
+0.1657465571	surface expression of
+0.1653210915	to induce
+0.1652652997	increased levels of
+0.1652017213	factor nf
+0.1651780140	constructs containing
+0.1651510764	amounts of
+0.1645457672	induced by
+0.1639531109	a monoclonal antibody
+0.1633726982	ca2 + i
+0.1631590646	an essential
+0.1627310930	linked to
+0.1620905391	expression in t cells
+0.1620718377	suppression of
+0.1617775192	more than
+0.1616968187	specific nuclear
+0.1615562464	coexpression of
+0.1615118018	membrane protein 1
+0.1613524134	activation of protein kinase
+0.1613317834	and flow cytometry
+0.1611466546	bind to
+0.1610487023	phosphatidylinositol 3
+0.1606233061	receptor expression
+0.1604360015	appear to
+0.1600847272	kappab activation
+0.1596393676	b cell activation
+0.1595371444	appeared to
+0.1589180447	these cells
+0.1588502778	specific transcription
+0.1587988183	receptors in lymphocytes
+0.1585531186	evidence for
+0.1585253472	for example
+0.1584752059	to test
+0.1583600358	cells transfected with
+0.1582165291	in response to
+0.1580659699	a wide range of
+0.1578330250	by phorbol esters
+0.1576514653	distinct from
+0.1573020525	constitutive expression of
+0.1571069635	transcription factor binding
+0.1565967019	to elucidate
+0.1565832663	the molecular mechanism
+0.1565256867	dna interactions
+0.1564265531	the human
+0.1559204983	none of
+0.1559056222	il 6 promoter
+0.1558592373	human il
+0.1557828466	induced activation of
+0.1557282435	il 4 promoter
+0.1554793044	3 fold
+0.1553946570	c fos mrna
+0.1550191168	in jurkat t cells
+0.1547614624	increased expression of
+0.1543113672	not affected by
+0.1542110021	translocation of nf kappa b
+0.1540382443	family of transcription
+0.1538518524	a better understanding of
+0.1537862949	in t cells
+0.1536002813	differential expression of
+0.1531587005	type i
+0.1530049451	t cell specific
+0.1527814406	to define
+0.1524092944	heterologous promoter
+0.1522773259	signal transducer and
+0.1519830016	nf at binding
+0.1519776784	by tumor necrosis factor
+0.1517018566	an inhibitor of
+0.1516645664	the p sequence
+0.1516336477	the transcription factor
+0.1515385362	with anti cd3
+0.1513482064	ap 1 and nf kappa b
+0.1510477579	an additional
+0.1510039725	kappa b transcription factor
+0.1506734272	construct containing
+0.1506018137	these agents
+0.1504395653	il 6 mrna
+0.1503787163	activation of nf kappa b
+0.1495693023	susceptible to
+0.1490581789	all three
+0.1487285629	a critical
+0.1487128259	this process
+0.1486189150	csf receptor
+0.1485574274	min after
+0.1482850643	analysis of
+0.1478684522	expression levels
+0.1474935788	exposed to
+0.1474793306	binding site for
+0.1466480504	genes involved in
+0.1466293475	for studying
+0.1465536815	cross linking of
+0.1459117977	involvement of
+0.1451757573	human cd4 +
+0.1450078924	interaction with
+0.1433533167	increased expression
+0.1430262953	a dose dependent
+0.1429936131	response element binding
+0.1429543148	a key
+0.1428155599	a central role in
+0.1427000641	gamma 1
+0.1426339391	role in
+0.1421899604	nuclear transcription
+0.1420277115	3 h
+0.1416343207	human jurkat t
+0.1412498475	this finding
+0.1410148950	regulator of
+0.1409683471	th cells
+0.1409469848	constitutive activation of
+0.1402871970	1 alpha
+0.1399147627	c jun mrna
+0.1394738644	the il 2 gene
+0.1391820794	activity in t cells
+0.1387142824	the aim of
+0.1385578871	the absence of
+0.1381963191	results indicated
+0.1381840933	receptor beta
+0.1375488371	reduction of
+0.1367935221	the hypothalamic
+0.1367751019	activated receptor
+0.1364221246	dna binding activity in
+0.1363254550	cytokine gene
+0.1361376055	amino acids of
+0.1361022496	activation of ap 1
+0.1359626147	several transcription factors
+0.1356793175	binding domain of
+0.1353220660	t cell stimulation
+0.1351827098	blocked by
+0.1349940228	a tissue specific
+0.1345983228	mediated induction of
+0.1345509044	inducible expression of
+0.1343887364	mechanisms involved in
+0.1342932663	stimulation of
+0.1339775313	important for
+0.1339694649	cells infected with
+0.1339148214	as determined by
+0.1330519403	in breast cancer
+0.1328969920	c rel p65
+0.1328562321	a t cell specific
+0.1327828414	present in
+0.1327585882	b cell specific transcription
+0.1323118658	the basis of
+0.1322377390	in human monocytic cells
+0.1321683462	to generate
+0.1320943497	transcriptional activation by
+0.1320227850	implicated in
+0.1319896187	hiv replication in
+0.1316624265	the zinc finger
+0.1314073712	early gene
+0.1314043774	levels of
+0.1311830333	lps induction of
+0.1311077648	transcriptional control of
+0.1308946857	nuclear expression of
+0.1308572259	glucocorticoid receptors in
+0.1307521167	the role of
+0.1304399030	effects of
+0.1303220818	receptor gene
+0.1302367283	type 2
+0.1302289342	to activate
+0.1299915446	other transcription factors
+0.1299829341	results show
+0.1296987792	the wild type
+0.1296818507	dna protein
+0.1290348263	a significant
+0.1289946247	these genes
+0.1289099966	upregulation of
+0.1286426405	identification of
+0.1285485734	enhancement of
+0.1283030859	encoded by
+0.1278661184	t cell leukemia
+0.1277913807	phosphorylation of
+0.1277308150	c fos expression
+0.1274624889	inhibited by
+0.1273569352	to produce
+0.1272064040	extracts from
+0.1271236345	increase in
+0.1270843635	a good
+0.1269126160	a major
+0.1266747709	the existence of
+0.1265569134	gene expression during
+0.1263308616	evaluation of
+0.1261589228	the immunoglobulin heavy
+0.1259008310	b subunit
+0.1254335514	differences in
+0.1253575779	mediated activation of
+0.1252820520	protein 1
+0.1247085204	known to
+0.1241278649	seems to
+0.1240714323	receptor mediated
+0.1237935803	constitutively expressed in
+0.1237485966	a series of
+0.1235946933	a subset of
+0.1235047631	treated with
+0.1228691737	promoter activity in
+0.1227592112	a reporter gene
+0.1223637995	also inhibited
+0.1222208308	the pathogenesis of
+0.1220958098	role of
+0.1218289757	reduction in
+0.1214895063	the jak stat
+0.1213475272	detected in
+0.1211514227	human cd4
+0.1209116385	human t cell
+0.1208829948	homologous to
+0.1207538208	the il 2r alpha
+0.1203139246	the expression of
+0.1199634273	to activate transcription
+0.1193915185	form of
+0.1193333287	augmentation of
+0.1192900937	in vitro transcription
+0.1191243704	as measured by
+0.1184587241	the mitogen activated protein
+0.1181766544	protein kinase a
+0.1180461116	stat pathway
+0.1178081347	recognized by
+0.1177953281	at least two
+0.1175787610	in myeloid cells
+0.1173892438	the tumor necrosis factor
+0.1170414557	triggered by
+0.1170025262	expressed in
+0.1169976343	in t lymphocytes
+0.1168684803	characterized by
+0.1168163780	nf kappab activation in
+0.1165156373	expression in monocytes
+0.1164522816	binding activity of
+0.1160135596	an alternative
+0.1160044915	specific protein
+0.1159672286	modulated by
+0.1159630681	dependent activation of
+0.1157757655	these transcription factors
+0.1157316940	response to
+0.1153438825	cell adhesion to
+0.1152233592	g protein
+0.1144705930	not detected
+0.1142322827	proteins involved in
+0.1141991617	incubation with
+0.1140869888	cell receptors
+0.1138617241	like factor
+0.1136946701	and e selectin
+0.1136054690	feature of
+0.1135105215	unaffected by
+0.1134731117	nf kappa b dna
+0.1134341248	cells stimulated with
+0.1133640819	at positions
+0.1132663186	induced expression of
+0.1129483199	gene transcription in
+0.1126633236	the human immunodeficiency virus type 1
+0.1126417291	gata binding
+0.1126289346	kappab binding
+0.1126193094	transactivated by
+0.1121095594	3 kinase
+0.1119901889	inhibitor of nf kappa b
+0.1116891909	similar to
+0.1115026984	the retinoic acid receptor
+0.1113715056	specific expression of
+0.1112738507	a number of
+0.1111046760	c jun expression
+0.1110416879	a member of
+0.1107769291	an active
+0.1104547924	during monocyte
+0.1103286079	t cell specific transcription
+0.1102706746	nuclear extracts of
+0.1102565340	these motifs
+0.1101246483	the interleukin 2 receptor alpha
+0.1100992192	the estrogen receptor
+0.1097167296	growth and differentiation of
+0.1095676385	an increase in
+0.1095527242	this interaction
+0.1094044183	to characterize
+0.1093291868	women with
+0.1090596058	the carboxyl
+0.1088667507	of cathepsin
+0.1084731845	t cell differentiation
+0.1084041383	produced by
+0.1082709677	the glucocorticoid receptor
+0.1079309362	effect of
+0.1078804263	the human immunodeficiency virus type
+0.1078513337	promoter activation
+0.1077433323	transcription from
+0.1075332979	association with
+0.1073935209	treatment with
+0.1073889172	an intact
+0.1072435273	all trans
+0.1070441802	jun expression
+0.1069473864	an immediate early
+0.1068877786	similarity to
+0.1065418352	induced tyrosine
+0.1063894325	cells treated with
+0.1062477726	functions as
+0.1062430039	not only
+0.1062008725	gene expression by
+0.1060562243	show here
+0.1055992225	stimulation of human
+0.1054570291	this element
+0.1054042310	to study
+0.1050232900	transcriptional activity of
+0.1049539661	compared to
+0.1047308028	t leukemia
+0.1040631526	these factors
+0.1039138694	in human t cells
+0.1038672884	forms of
+0.1035224078	an inducible
+0.1031070202	interference with
+0.1030899687	as judged
+0.1029780401	domain containing
+0.1022472814	activity of nf kappa b
+0.1015883563	the androgen receptor
+0.1014118534	mononuclear cells from
+0.1011285354	part of
+0.1009342785	p sequence
+0.1009052971	this transcription factor
+0.1006191851	at least one
+0.1002957704	these conditions
+0.1001719359	an activator
+0.0999298565	nf kappa b activation by
+0.0998803048	lymphocytes from
+0.0998463115	homolog of
+0.0996852377	for aldosterone
+0.0993265515	these proteins
+0.0991879852	target for
+0.0991376524	factor binding
+0.0991253315	il 2 mrna
+0.0990302463	at concentrations
+0.0990253485	stimulated with
+0.0989060492	the lymphoid specific
+0.0985275123	a common
+0.0980123007	assessed by
+0.0980021167	the level of
+0.0979898805	the possibility
+0.0976219887	these events
+0.0974473626	dependent activation
+0.0973544650	studies using
+0.0971261832	the dna binding domain
+0.0971216832	cells but not in
+0.0964832557	by means of
+0.0962920293	t cell response
+0.0962620989	expression in
+0.0960481424	elevation of
+0.0960454468	a strong
+0.0951294180	a combination of
+0.0950446545	bound to
+0.0946031198	related to
+0.0946023423	responsiveness to
+0.0945068516	assembly of
+0.0944074225	amount of
+0.0942587480	gene activity
+0.0941878514	the major
+0.0937887352	in response to lps
+0.0933592890	assays using
+0.0933513505	localized to
+0.0933498587	determine whether
+0.0932360333	inactivation of
+0.0926916487	by increasing
+0.0926012214	transcriptional activator of
+0.0924025023	disruption of
+0.0922620117	cd3 +
+0.0920422392	identified as
+0.0919922146	consequence of
+0.0918043462	dependent transcriptional
+0.0917463707	not significantly
+0.0916129635	this inhibition
+0.0914920944	other cytokines
+0.0913257745	the immune system
+0.0912204283	independently of
+0.0911050834	mean +
+0.0908235266	factor 1
+0.0906529875	alpha gene
+0.0905936100	induced t cell
+0.0905832033	resulting in
+0.0905140349	and jund
+0.0904687095	i tax
+0.0904345593	not affected
+0.0903131749	protein protein
+0.0900445267	an inhibitory
+0.0900387050	t lymphoid
+0.0899479778	caused by
+0.0899155141	h after
+0.0898833683	a result of
+0.0895253184	induce expression of
+0.0894083398	these effects
+0.0892210969	kappa b complex
+0.0891686896	this site
+0.0891499794	understanding of
+0.0891434080	treatment of
+0.0889314449	identical to
+0.0886929533	susceptibility to
+0.0885433698	to proliferate
+0.0881883631	the regulation of
+0.0880657185	the transcription factor nf kappa b
+0.0880099885	the granulocyte macrophage
+0.0879604498	this cell line
+0.0876663802	several genes
+0.0874586834	the main
+0.0874385648	targets for
+0.0874330193	deletion of
+0.0874134731	by blocking
+0.0873997715	combinations of
+0.0872843285	nuclear nf kappa b
+0.0870486605	signaling through
+0.0860964616	results from
+0.0858869624	a human b
+0.0854602226	kinase c
+0.0852837242	sites within
+0.0852618946	a unique
+0.0852211615	a large
+0.0851960747	transcription of
+0.0851388407	the t cell receptor
+0.0850784288	transfected with
+0.0849642526	number of
+0.0849037142	these cytokines
+0.0847540331	found to
+0.0847240335	phosphorylated on
+0.0841963267	degradation of
+0.0837372533	jurkat t cell
+0.0834117990	the effect of
+0.0833517165	actions of
+0.0832433890	infected with
+0.0831427538	important role in
+0.0831020874	a heterologous
+0.0827356717	expressed at
+0.0827178134	restricted to
+0.0826963595	the human interleukin
+0.0824983640	driven by
+0.0824544997	b lymphoid
+0.0822965484	accumulation of
+0.0820179316	studies on
+0.0819599754	specific t cell
+0.0816853156	a patient with
+0.0816148671	generated by
+0.0815786062	a marked
+0.0813258197	not yet
+0.0812272813	stages of b
+0.0810589920	comparison with
+0.0809613737	1 beta
+0.0808993383	found between
+0.0806604239	mutation of
+0.0805224056	relative to
+0.0804856807	also examined
+0.0804715172	these receptors
+0.0804015490	patterns of
+0.0803921395	the retinoblastoma
+0.0801068603	a series
+0.0799296977	ap 1 enhancer
+0.0798838384	contribution of
+0.0797434252	correlation with
+0.0796986057	these results show
+0.0796519740	ap 1 transcription
+0.0796150721	result in
+0.0793709813	the binding of
+0.0791390516	mechanism for
+0.0788572260	considered to
+0.0787950343	component of
+0.0786932092	human t
+0.0786885819	numbers of
+0.0785220441	decrease in
+0.0784288521	the immediate early
+0.0783219028	binding activity in
+0.0783005788	the beta globin
+0.0781896131	a putative
+0.0778809751	a role for
+0.0778760525	blockade of
+0.0777726365	region between
+0.0777478610	to stimulate
+0.0777341778	observed in
+0.0777162711	the cell surface
+0.0776008284	a small
+0.0775782620	the molecular basis for
+0.0774672921	the number of glucocorticoid
+0.0774285622	factor nf kappa b
+0.0774062989	the proteasome
+0.0773212542	not observed
+0.0771883631	the activity of
+0.0771687330	blood t lymphocytes
+0.0771312975	kappa b activity in
+0.0771203419	the mechanism of
+0.0769625236	also increased
+0.0769412917	an early
+0.0769352120	receptor rna
+0.0768462878	2 h
+0.0768192525	a critical role in
+0.0765457483	transcriptional activity in
+0.0765014108	an anti
+0.0763064232	activation induced by
+0.0762821488	specific regulation of
+0.0762098341	a direct
+0.0761218262	the predominant
+0.0760582090	upstream of
+0.0760462403	kappa b activation
+0.0759846209	activation of nf kappa b in
+0.0758861370	resistance to
+0.0758102746	elements within
+0.0754227157	a crucial
+0.0753524014	depletion of
+0.0753391828	activity of
+0.0751568000	mutations in
+0.0750986010	t cell antigen
+0.0749841315	the notion
+0.0749105646	known as
+0.0748877036	directed by
+0.0748706237	erythroid differentiation of
+0.0747352951	activated by
+0.0747168359	upon activation
+0.0746855616	kappa b binding activity in
+0.0746682740	cell responses
+0.0746203419	the development of
+0.0744554350	a role in
+0.0742920458	purified from
+0.0742317747	affinity for
+0.0738749961	secondary to
+0.0738695799	function as
+0.0738296106	end of
+0.0732998870	stimulation with
+0.0732503309	activity in
+0.0731883631	the effects of
+0.0731202444	nf kappa b activation in
+0.0728765706	a similar
+0.0728348425	concentrations of
+0.0726748515	the mechanism of action of
+0.0725355105	an enhanced
+0.0721213341	a central
+0.0719107883	after treatment
+0.0718689403	the nature of
+0.0718407997	kappa b dependent
+0.0718326952	the induction of
+0.0717096304	triggering of
+0.0717057880	regions of
+0.0716256561	activated t cell
+0.0716023719	factor gene
+0.0714176994	the interleukin 2
+0.0712598625	decline in
+0.0711393568	as yet
+0.0710608419	c epsilon
+0.0710110874	reactivity to
+0.0709544581	as compared to
+0.0709386640	in normal human
+0.0708280368	a set of
+0.0707683049	for optimal
+0.0707633125	beta mrna
+0.0704854538	kappa b activation by
+0.0702183019	kinase 3
+0.0700188011	inability of
+0.0698450864	the majority of
+0.0696023304	results in
+0.0693407322	the long terminal
+0.0693387102	to suppress
+0.0692762842	combined with
+0.0690383235	phases of
+0.0689731037	measured by
+0.0689615184	remains to
+0.0689387656	for dexamethasone
+0.0687743927	homology to
+0.0686714711	a potential
+0.0685900706	region of
+0.0685223649	the murine
+0.0684176673	along with
+0.0683709813	the number of
+0.0683706705	determined by
+0.0683031062	hiv 1 replication in
+0.0679595156	mrna expression of
+0.0679576011	the control of
+0.0678342060	demonstration of
+0.0678245015	a ubiquitous
+0.0677292056	by inducing
+0.0674477758	mediator of
+0.0674464831	production by
+0.0673308060	expression during
+0.0672987792	a model
+0.0671515357	also detected
+0.0671108784	promoter region of
+0.0670823922	to correlate
+0.0669006105	maintenance of
+0.0668937776	variation in
+0.0667126571	expressed on
+0.0666927550	the human il 4
+0.0666772357	a distal
+0.0665294940	in conclusion
+0.0663416830	factor binding sites
+0.0661439189	the il 3
+0.0661072495	the percentage of
+0.0658604186	inducer of
+0.0658030967	like site
+0.0657455045	changes in
+0.0656661654	during differentiation of
+0.0653661079	the activation of
+0.0653227282	the first
+0.0651003133	factors such as
+0.0650999086	detection of
+0.0650888593	from patients with
+0.0650384709	constitutive activation
+0.0649316252	in parallel
+0.0647960910	modification of
+0.0647504068	affected by
+0.0645424771	a general
+0.0645245497	the cytoplasmic domain
+0.0644951814	the core
+0.0644516331	to inhibit
+0.0642352651	with dexamethasone
+0.0641218108	in part
+0.0639789969	homology with
+0.0638973577	the mitogen activated
+0.0637765551	transcription through
+0.0637038224	this sequence
+0.0636231946	tested for
+0.0635854749	upstream from
+0.0633745400	from healthy
+0.0633570196	a model for
+0.0631400014	the importance of
+0.0629671767	kappa b alpha
+0.0629574491	stimulated by
+0.0629306078	the influence of
+0.0625235189	a synthetic
+0.0624518184	a weak
+0.0622824612	signals from
+0.0620443613	family of
+0.0619728596	to mediate
+0.0619322612	corresponding to
+0.0619306078	the course of
+0.0618043635	initiation of
+0.0617989655	but did
+0.0617686124	data show
+0.0617067711	activation of transcription
+0.0616247192	fraction of
+0.0614512224	a new
+0.0614337552	the promoter region
+0.0613955161	the inhibitory effect
+0.0611011217	but only
+0.0610299779	but did not
+0.0609550710	immortalization of
+0.0609101109	the result of
+0.0606873492	set of
+0.0604403283	b dna binding
+0.0604389209	in freshly
+0.0604293245	exception of
+0.0603549289	doses of
+0.0603009640	the formation of
+0.0602853680	a rapid
+0.0602852251	expression by
+0.0601894210	the nuclear factor of activated
+0.0601303308	a selective
+0.0600181423	clones from
+0.0599686333	1 dna binding activity
+0.0599518918	activation by
+0.0599388106	obtained with
+0.0598273362	positive for
+0.0597219082	appearance of
+0.0596186144	sensitive to
+0.0596172843	the thymus
+0.0596060487	used as
+0.0595002181	receptors on
+0.0593922928	an increase
+0.0593574297	administration of
+0.0592530796	a repressor
+0.0591695744	the cytosol
+0.0590826011	in addition to
+0.0589533481	but also
+0.0588844651	cell response
+0.0588793957	change in
+0.0588581840	not required for
+0.0588203290	alterations in
+0.0586953973	specific regulation
+0.0585301383	monocytes from
+0.0585199203	alteration of
+0.0584384022	the kinetics of
+0.0584248275	the promoter region of
+0.0584047871	cells with
+0.0581447995	pattern of
+0.0581146557	also involved
+0.0580570893	not bind
+0.0579163105	mechanism of action of
+0.0578705495	suppressed by
+0.0577935126	the chimeric
+0.0577412132	two different
+0.0576685742	the current
+0.0576019740	defects in
+0.0575487144	binding proteins in
+0.0575325107	abnormalities in
+0.0574104042	and vav
+0.0572395531	translocation of
+0.0570570516	the production of
+0.0569942454	capacity to
+0.0569847974	the b2
+0.0567598702	in contrast to
+0.0567387475	confirmed by
+0.0566331749	also required
+0.0565811300	the generation of
+0.0565490731	activation through
+0.0562418692	likely to
+0.0561992960	not known
+0.0559622584	degree of
+0.0558318773	the dna binding activity of
+0.0558021384	the amount of
+0.0557989762	domains of
+0.0556105418	the nuclei of
+0.0555827659	the transcriptional
+0.0555301939	incubation of
+0.0553851639	the proximal
+0.0553669222	approach to
+0.0551659546	control of
+0.0551358178	and possibly
+0.0551042890	the stability of
+0.0550773853	an octamer
+0.0549174765	to form
+0.0548865324	increases in
+0.0548701551	cells from
+0.0547560651	phase of
+0.0546673024	the mechanism by
+0.0544952757	a group of
+0.0544542465	event in
+0.0542318304	subunit of
+0.0542056395	levels of c
+0.0540742825	1 gene
+0.0540446949	the precise
+0.0540117687	a cdna
+0.0539255615	content of
+0.0534655541	together with
+0.0534377929	also expressed
+0.0534185373	seen in
+0.0531872672	patient with
+0.0530455904	by dexamethasone
+0.0530435509	in primary human t
+0.0529556093	the function of
+0.0529461626	the detection of
+0.0528228499	analyzed by
+0.0527054691	cell stimulation
+0.0525811300	the release of
+0.0525676847	the appearance of
+0.0525535343	transcriptional activation in
+0.0524067654	contains two
+0.0522116031	onset of
+0.0520951292	nf kappa b in
+0.0520036646	mutagenesis of
+0.0519830371	naive t
+0.0519655345	model for
+0.0517735670	the combination of
+0.0517674204	dephosphorylation of
+0.0516766520	of activated t cells
+0.0515580384	cells stimulated by
+0.0515287432	purpose of
+0.0514963406	non t
+0.0513651030	in modulating
+0.0513506035	the inability
+0.0511742698	the transcriptional activity of
+0.0511672227	interaction of
+0.0511646040	production of
+0.0510552380	occur in
+0.0510309297	the initial
+0.0506774178	a second
+0.0504967848	a functional
+0.0503311300	the use of
+0.0501374190	by northern
+0.0500575308	individuals with
+0.0499883775	to enhance
+0.0499634216	independent of
+0.0499239716	resistant to
+0.0498833214	the absence
+0.0498334179	located in
+0.0496100729	critical to
+0.0494556093	the addition of
+0.0493963689	and fk506
+0.0493318304	level of
+0.0492611052	during differentiation
+0.0492406498	to regulate
+0.0491643574	the activation of nf kappa b
+0.0491271978	components of
+0.0491259964	failure of
+0.0490180883	function of
+0.0489653636	a monoclonal
+0.0489355079	specific for
+0.0486286621	transcription factor nf
+0.0486231386	little or
+0.0484298157	responsive to
+0.0482248193	the interaction of
+0.0481769187	transactivation of
+0.0481741165	the mechanisms by
+0.0481324571	the rate of
+0.0478881362	the degree of
+0.0475527631	better understanding of
+0.0474700749	frequency of
+0.0474008544	a r
+0.0473002324	to promote
+0.0471251780	interactions with
+0.0470570297	transfection of
+0.0470279551	the interleukin 2 receptor
+0.0470230400	overexpressed in
+0.0470176599	migration of
+0.0469072125	the process of
+0.0468971678	the involvement of
+0.0468587235	a distinct
+0.0466319436	t cells from
+0.0463966227	a mutant
+0.0463875332	as well
+0.0463823975	seen with
+0.0463249961	the presence
+0.0462711284	apoptosis in
+0.0462248193	the lack of
+0.0461470606	a minimal
+0.0459385483	characteristic of
+0.0459259277	receptor associated
+0.0459072125	the product of
+0.0454412410	induction by
+0.0454293207	in mediating
+0.0452839480	association of
+0.0451703733	mutants of
+0.0450703833	engagement of
+0.0450495802	the human t cell
+0.0449743605	found in
+0.0449023412	means of
+0.0448471408	infection with
+0.0448080329	the roles of
+0.0447083413	domain of
+0.0446393996	t cell development and
+0.0443321239	a cell type
+0.0443260652	case of
+0.0443220687	the present
+0.0443169740	to express
+0.0441813313	the vitamin d
+0.0440787592	roles of
+0.0439478591	action of
+0.0439334542	absent in
+0.0438930952	detected by
+0.0437892926	sensitivity of
+0.0437550545	to modulate
+0.0437084297	occurring in
+0.0435872785	active in
+0.0435343431	the transcription of
+0.0434139080	a b cell specific
+0.0433942476	different from
+0.0433810621	a member
+0.0432971793	as compared with
+0.0432318237	to occur
+0.0431319898	experiments with
+0.0431168602	cells contain
+0.0429868125	downstream of
+0.0429783709	properties of
+0.0429565836	the activities of
+0.0429436250	defect in
+0.0428787592	nuclei of
+0.0428120661	cloning of
+0.0426161041	in regulating
+0.0425847349	the action of
+0.0425102340	differentiation of
+0.0424759388	nature of
+0.0421625168	the transcriptional regulation of
+0.0421010555	distribution of
+0.0420963530	synthesis of
+0.0420782470	to respond to
+0.0419581903	kappa b dna
+0.0418704157	complex with
+0.0418375746	repression of
+0.0415944623	in pre b
+0.0415558439	occurs in
+0.0415437295	release of
+0.0415431176	a positive
+0.0415292862	the distal
+0.0415007909	lack of
+0.0414741895	differ in
+0.0414431790	studied by
+0.0413472749	status of
+0.0412122832	transformation of
+0.0411783871	to bind
+0.0411732309	accumulation in
+0.0411612088	a few
+0.0410067234	rate of
+0.0409930518	an inhibitor
+0.0405366310	the third
+0.0403772977	exposure of
+0.0402929321	ligation of
+0.0402088636	the latter
+0.0400652759	to block
+0.0399834820	two other
+0.0399228068	uptake of
+0.0399120390	reported to
+0.0398672473	inducibility of
+0.0398612843	a high
+0.0398480232	difference in
+0.0398048738	mechanism of
+0.0397867922	to act
+0.0397430163	specificity of
+0.0397288378	exclusively in
+0.0396898043	alone or
+0.0396814205	a family of
+0.0396370105	activated t
+0.0395813565	comparison of
+0.0395416982	generation of
+0.0394767784	mutation in
+0.0393731869	pathway for
+0.0393701849	step in
+0.0393605418	a decrease in
+0.0392400199	costimulation of
+0.0391144255	roles in
+0.0391125036	binding of
+0.0390776618	mobilization of
+0.0389782360	capacity of
+0.0387339130	processing of
+0.0387065836	the mechanisms of
+0.0386647657	transactivation by
+0.0386501658	stage of
+0.0386103285	the levels of
+0.0382986668	susceptibility of
+0.0382267595	not required
+0.0381166801	cells do
+0.0380307193	presence of
+0.0379734404	reduced by
+0.0378144422	concentration of
+0.0377705707	recruitment of
+0.0377433130	cotransfection of
+0.0377043287	inhibitors of
+0.0376572900	studies with
+0.0375576489	range of
+0.0373776011	development of
+0.0373167184	stability of
+0.0371756965	the differentiation of
+0.0370528508	the accumulation of
+0.0369977698	by using
+0.0369500295	the molecular
+0.0368704886	a possible
+0.0367562885	pretreatment of
+0.0366685548	the octamer
+0.0365354461	secretion of
+0.0364378784	characteristics of
+0.0362063685	of nf kappa b in
+0.0361463125	antibody to
+0.0360809165	significance of
+0.0359800553	but not in
+0.0359228068	families of
+0.0358679735	a dominant
+0.0356153210	by treatment with
+0.0354521076	subunits of
+0.0353283506	a dose
+0.0353163899	the concentration of
+0.0352033976	fragment of
+0.0351232304	activator of
+0.0350219859	the recruitment of
+0.0348048036	state of
+0.0347118274	recognition of
+0.0347051080	a role
+0.0346641014	the effect
+0.0346070103	ability of
+0.0345832971	analyses of
+0.0345313605	also found
+0.0345258313	the nuclear factor of
+0.0343904402	observed with
+0.0343088563	following t cell
+0.0343035424	the synthesis of
+0.0342978068	subsets of
+0.0342627703	this system
+0.0341368757	the identification of
+0.0341218230	infection of
+0.0338874296	subset of
+0.0338035424	the treatment of
+0.0337562777	the case
+0.0337351742	deficient in
+0.0335888957	a low
+0.0333283506	the nuclei
+0.0332561216	the second
+0.0331852169	terminus of
+0.0331705979	an enhancer
+0.0331479212	in chronically
+0.0331218230	inhibitor of
+0.0327769461	required to
+0.0326842366	secretion by
+0.0325255258	marker of
+0.0323320835	expressed by
+0.0323130594	localization of
+0.0322783095	progression of
+0.0320751845	defective in
+0.0318913662	the cytoplasm of
+0.0318439749	cultured in
+0.0318371143	formation of
+0.0316678392	but also in
+0.0315623392	structure of
+0.0315423370	an e
+0.0313544502	importance of
+0.0313163899	and characterization of
+0.0312456317	production in
+0.0311791219	the mechanisms
+0.0310720069	detectable in
+0.0309467426	features of
+0.0309311281	mechanism by
+0.0309138347	course of
+0.0308163899	the pattern of
+0.0308113660	b cells from
+0.0307300946	inducible by
+0.0306307757	group of
+0.0305112098	combination of
+0.0304277132	cytoplasm of
+0.0303554076	sites for
+0.0301587643	activities of
+0.0299519092	the cells with
+0.0298890187	t lymphocytes from
+0.0296355516	induced during
+0.0294837486	addition to
+0.0294224459	the changes in
+0.0292978739	used to
+0.0292824004	murine t
+0.0291731813	survival of
+0.0290307970	a fusion
+0.0287757680	series of
+0.0284614057	use of
+0.0284372033	the loss of
+0.0280963950	higher in
+0.0279884836	the ability to
+0.0279367320	repressor of
+0.0276965612	+ t cells
+0.0276946980	impaired in
+0.0276505038	complexes with
+0.0274559729	not expressed
+0.0274206553	a transient
+0.0274048930	identified in
+0.0273897136	of glucocorticoid receptors in
+0.0270490477	enhanced by
+0.0269516787	as determined
+0.0269333137	affinity to
+0.0268558801	replication in
+0.0267980526	a patient
+0.0267740829	demonstrated by
+0.0266732832	+ t lymphocytes
+0.0266684347	or more
+0.0265816985	to involve
+0.0265435095	receptors for
+0.0262980526	a component
+0.0261354438	non b
+0.0260172378	virus 1
+0.0259451593	and then
+0.0258012312	site for
+0.0257285411	+ t
+0.0254677225	the number
+0.0254199388	decreased by
+0.0253671083	peripheral t
+0.0253440697	useful in
+0.0253150058	identified by
+0.0246929888	product of
+0.0246335684	through activation of
+0.0245948462	an immediate
+0.0245560244	adhesion to
+0.0242980526	a decrease
+0.0237192240	the mechanism of action
+0.0232581688	activation in response to
+0.0231907114	a concentration
+0.0231098410	glucocorticoids in
+0.0229963245	latency in
+0.0229537060	to bind to
+0.0228434726	to interact with
+0.0224498112	the basis
+0.0224363686	mouse t
+0.0219874516	contrast to
+0.0218645790	measured in
+0.0217907783	conserved in
+0.0215842366	kinetics of
+0.0215345862	pathogenesis of
+0.0214532909	the corresponding
+0.0214065612	increased by
+0.0213664262	in t cells from
+0.0213281024	lower in
+0.0212914158	mechanisms by
+0.0212500100	at least in
+0.0212470683	examined in
+0.0210254850	gene expression in t
+0.0210221207	b activation by
+0.0209119647	nucleus of
+0.0204770334	phosphorylated in
+0.0204235972	activators of
+0.0203466042	a result
+0.0201760803	studied in
+0.0200734634	following t
+0.0200627690	resistance in
+0.0199789175	a reporter
+0.0198473424	possibility of
+0.0198044905	result of
+0.0196770334	release in
+0.0194994399	of action of
+0.0193873431	shown by
+0.0193172526	functions in
+0.0190963642	basis of
+0.0190816820	regulated in
+0.0190675701	the 70
+0.0187971606	b activation
+0.0183387917	to contain
+0.0183033321	act in
+0.0182646210	analyzed in
+0.0178473424	context of
+0.0175129662	a subset
+0.0171492479	process of
+0.0162788100	described in
+0.0152306048	influence of
+0.0116972431	the expression of il

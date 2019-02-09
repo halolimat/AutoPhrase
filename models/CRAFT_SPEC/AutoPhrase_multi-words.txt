@@ -1,0 +1,1438 @@
+0.9533908514	amino acid
+0.9433599285	amino acids
+0.9411120282	spinal cord
+0.9396737162	southern blot
+0.9395975694	stop codon
+0.9314117832	aortic arch
+0.9304453634	neural crest
+0.9302364317	small intestine
+0.9293546046	weight gain
+0.9285527838	northern blot
+0.9268451660	sex determination
+0.9246175168	bone marrow
+0.9228135299	dna damage
+0.9200805909	olfactory receptor
+0.9196387288	fatty acid
+0.9189265469	western blot
+0.9183112253	skeletal muscle
+0.9179077187	aortic sac
+0.9172762647	homologous recombination
+0.9156808780	transcription factor
+0.9155442276	beta catenin
+0.9138921874	basement membrane
+0.9127106043	santa cruz
+0.9125168987	beta galactosidase
+0.9124237262	insulin resistance
+0.9114172109	start codon
+0.9098900202	coding region
+0.9095447232	united states
+0.9091684502	cerebral cortex
+0.9065432517	outer segment
+0.9031066687	red blood cells
+0.8986782726	sertoli cell
+0.8972196088	c57bl 6j
+0.8967822547	electron microscopy
+0.8966923240	strial marginal cells
+0.8947726093	rt pcr
+0.8933789706	canonical wnt signaling
+0.8923634756	jackson laboratory
+0.8905359967	trip13gt gt
+0.8875898695	p53 delta pgfp
+0.8848951967	wnt signaling
+0.8848795556	cell line
+0.8840495538	hair follicle
+0.8836485377	stria vascularis
+0.8829149782	national institutes of health
+0.8828170154	blood pressure
+0.8822648604	hair buds
+0.8800581722	sex chromatin
+0.8796642447	germ cell
+0.8761504284	wild type
+0.8756913968	hp1 beta
+0.8751042184	competing interests
+0.8749132216	pachytene spermatocytes
+0.8719546663	oxygen consumption
+0.8715231279	muscle fiber
+0.8706605122	mitochondrial biogenesis
+0.8700857455	limb bud
+0.8693468491	cell cycle
+0.8691860665	knockout mice
+0.8679864828	rabbit anti
+0.8671780548	outflow tract
+0.8660314337	green fluorescent protein
+0.8655924758	red blood cell
+0.8652299723	cba caj
+0.8642794058	hepatic steatosis
+0.8635472455	olfactory epithelium
+0.8630320742	spatial learning
+0.8626948581	signaling pathways
+0.8620267265	olfactory receptors
+0.8615191522	ppar delta
+0.8575012663	f2 progeny
+0.8570530050	gamma h2ax
+0.8560521229	ets transcription factor
+0.8557092455	bmp signaling
+0.8554117260	hair cell
+0.8544600535	cell death
+0.8538248020	heart rate
+0.8536833834	cell culture
+0.8535561661	neurite outgrowth
+0.8526508942	rotating rod
+0.8525522295	embryonic development
+0.8511312504	targeting vector
+0.8508057809	black arrow
+0.8501343623	ews pea3
+0.8499497919	smooth muscle
+0.8479229919	additional file
+0.8477913829	gene expression
+0.8470082592	water maze
+0.8459592243	gastrocnemius muscle
+0.8457823581	schwann cells
+0.8453921415	gene targeting
+0.8451697078	drg neurons
+0.8449788275	er81ews pea3
+0.8445816092	mg kg
+0.8444925740	technical assistance
+0.8439765160	acridine orange
+0.8431316920	alpha catenin
+0.8421202702	dm domain
+0.8412031923	lick ratios
+0.8406191666	connecting cilia
+0.8405005044	pst domain
+0.8404877078	afferent projections
+0.8404757491	secondary antibodies
+0.8404232643	bone mass
+0.8403205768	sds page
+0.8391668649	speed congenic strains
+0.8385375612	recombinational repair
+0.8371933687	body fat
+0.8368911280	limb buds
+0.8366469029	hair follicle morphogenesis
+0.8360312978	peroxisome proliferator activated receptor
+0.8349391278	outer segments
+0.8349299459	ets signaling
+0.8348510107	annexin a7
+0.8347892814	santa cruz biotechnology
+0.8345466102	donor region
+0.8344318938	speed congenic
+0.8333087061	metanephric mesenchyme
+0.8327124606	toluidine blue
+0.8305052141	xx gonads
+0.8301485489	western blotting
+0.8281608166	delta pgfp
+0.8278918094	rmce ready
+0.8239442961	animal care
+0.8226639735	cell autonomous
+0.8221012268	fat pad
+0.8220798877	xy gonads
+0.8219753622	spiral prominence
+0.8218806802	sensory neurons
+0.8204557278	quantitative trait
+0.8198308595	lumbar drg
+0.8189403959	dark field
+0.8188803232	tgf beta
+0.8186013906	total rna
+0.8173843663	body weight
+0.8173828479	pygo1 pygo2
+0.8168816369	tg epidermis
+0.8159740861	delta tk
+0.8148845684	pachytene checkpoint
+0.8130391270	differentially expressed
+0.8130005243	ub h2a
+0.8128711906	xy body
+0.8121742311	bone marrow stromal cells
+0.8108445813	ap septum
+0.8108222352	growth factor
+0.8100022385	candidate genes
+0.8098556805	cell proliferation
+0.8082845447	northern blot analysis
+0.8079082507	yc5 eyfp
+0.8069114560	ureteric tree
+0.8063867380	alcian blue
+0.8063219315	osmotic resistance
+0.8062917027	targeting construct
+0.8062108553	germline transmission
+0.8060603625	genomic dna
+0.8055202089	fatty acid oxidation
+0.8054649222	proprioceptive afferents
+0.8039011423	dmrt7 mutant
+0.8038993567	chain acyl coa dehydrogenase
+0.8037200154	ck6 ecfp
+0.8036512996	muscle fibers
+0.8027232826	sensory epithelia
+0.8025856444	highly conserved
+0.8015140004	scale bar
+0.8013401122	acyl coa
+0.8006787160	rmce asap
+0.8002169692	crx photoreceptors
+0.7999963632	brn3c null
+0.7999581754	embryonic stem
+0.7995786748	loxp sites
+0.7985079890	cell types
+0.7984309665	transcription factors
+0.7979992323	immature hair cells
+0.7977026081	taste sensitivity
+0.7968613310	sertoli cells
+0.7963531850	western blot analysis
+0.7962558284	southern blotting
+0.7960233380	cell lines
+0.7950215045	signaling pathway
+0.7946327953	ureteric bud
+0.7942486082	agarose gel
+0.7929075022	additional data file
+0.7927702489	biliary sterol secretion
+0.7923560299	cre recombinase
+0.7914568516	bat gal reporter
+0.7901461516	es cell
+0.7894542871	dba 2j
+0.7881559585	bone formation
+0.7881255367	hair bud
+0.7869046412	goat anti
+0.7864371050	epithelial cells
+0.7862540287	germ cells
+0.7857505352	meiotic prophase
+0.7839535632	neuronal survival
+0.7831794217	author contributions
+0.7815704874	high fat diet
+0.7814964621	nuclear localization
+0.7814775594	pygo1 pygo2 null
+0.7807315049	xx gonad
+0.7806336322	osteoblast differentiation
+0.7805831709	scale bars
+0.7803021197	es cells
+0.7802050725	kda isoform
+0.7792041199	adipocyte differentiation
+0.7790260377	motor neurons
+0.7789428044	bitter taste
+0.7785836610	hidden platform
+0.7785785595	plant sterol levels
+0.7784548654	type ii
+0.7783311256	post mitotic
+0.7779595670	delta delta
+0.7769917498	hg modifier
+0.7768574153	chow diet
+0.7758249228	energy metabolism
+0.7757621667	mm qhcl
+0.7755421278	sex chromosomes
+0.7748028810	bile salt
+0.7738324028	mcad deficiency
+0.7732531807	brn3c null mutants
+0.7727346132	nested pcr
+0.7723727893	b6 background
+0.7713133231	lysis buffer
+0.7713121477	supporting information
+0.7707580049	bat gal transgene
+0.7706949966	subcellular localization
+0.7703373894	ri lines
+0.7703330971	developing kidney
+0.7701571257	control littermates
+0.7700094467	meiotic arrest
+0.7695279576	dark period
+0.7694419246	quinine taste
+0.7684683556	reverse transcribed
+0.7681665964	soleus muscle
+0.7677727744	genome wide
+0.7675687732	mg ml
+0.7669835922	spiral ganglia
+0.7665688288	alk5 mutants
+0.7662231210	dna fragments
+0.7661203160	dmrt7 mutant testes
+0.7658472677	endocochlear potential
+0.7658313288	leucine rich
+0.7653751267	transmission electron
+0.7653185268	pgk neo
+0.7647550726	littermate controls
+0.7635986984	interdigital mesenchyme
+0.7624722035	donor regions
+0.7619834935	body weights
+0.7619279459	secondary structure
+0.7613577585	genetic backgrounds
+0.7609757172	body mass
+0.7598090517	genetic background
+0.7593549551	mitochondrial respiratory
+0.7589071764	mm tris
+0.7587367789	acdp gene family
+0.7584237418	mutant kidneys
+0.7579626062	pax6 pst domain
+0.7569129368	dna fragment
+0.7567940649	neurotrophic support
+0.7565093500	anti mouse igg
+0.7544750093	age related bone loss
+0.7540466757	cdna library
+0.7535223027	mm nacl
+0.7534674184	dsb repair
+0.7533875421	class ii
+0.7522678611	mucus accumulation
+0.7518982280	biliary cholesterol
+0.7517211024	acdp genes
+0.7500491244	hair cells
+0.7500133199	18s rrna
+0.7500013985	kb bamhi
+0.7492610503	somatic cells
+0.7490243067	pcr products
+0.7478775361	mixed background
+0.7470994013	quantitative pcr
+0.7468689089	mu calpain
+0.7464173681	histological analysis
+0.7443618860	pgk neo cassette
+0.7443158374	outer hair cells
+0.7441498757	pyramidal neurons
+0.7433800243	wnt1 cre
+0.7429179411	negative selection
+0.7419507841	plasma membrane
+0.7418225721	homozygous mutants
+0.7417843147	coding sequence
+0.7415785075	beta actin
+0.7415187125	null mutants
+0.7414757033	follicle morphogenesis
+0.7392576366	dmrt7 mutant germ cells
+0.7375499265	forward primer
+0.7373240251	unpublished data
+0.7372366285	family members
+0.7371335228	goat serum
+0.7369471684	pcr product
+0.7368616120	secondary antibody
+0.7344402002	neuronal differentiation
+0.7337959767	alk5 wnt1 cre mutants
+0.7320867903	target derived
+0.7320422772	animal models
+0.7319372740	ng ml
+0.7317414085	anterior posterior
+0.7307918411	aged sam68
+0.7306469102	molecular probes
+0.7302500282	small effect qtl
+0.7296210350	enzymatic activity
+0.7282215408	low levels
+0.7276321763	proprioceptive afferent
+0.7261901636	average iop
+0.7252187403	plant sterol
+0.7241147331	c terminus
+0.7232354131	mcad deficient
+0.7226002055	bars represent
+0.7222090114	linkage analysis
+0.7218250328	acdp proteins
+0.7205869414	glucose tolerance
+0.7200541117	atp levels
+0.7191971888	interests exist
+0.7187683714	brn3c null mutant
+0.7187609411	adam11 gene
+0.7186529428	previously reported
+0.7174676591	primary antibodies
+0.7165999710	es cell clones
+0.7163944692	crx retinas
+0.7159972128	acyl coa dehydrogenase
+0.7153492906	qhcl taste
+0.7134566253	statistically significant
+0.7117329087	bmp4 deficient
+0.7115602149	figure 3a
+0.7114333382	cell barrier
+0.7109679253	sox9 expression
+0.7103843651	ets transcription
+0.7081383657	hg hg
+0.7079482591	previous studies
+0.7077429075	mutant gonads
+0.7075988077	expression level
+0.7069729117	age matched
+0.7067618498	bat gal
+0.7066808469	quantitative rt pcr
+0.7052325861	southern blot analysis
+0.7039640826	homozygous cbcln3 delta ex7 8
+0.7034914170	nuclear staining
+0.7021341734	hematoxylin and eosin
+0.7017259338	chain acyl coa
+0.7005984475	hg genotype
+0.7001456532	figure 6a
+0.6995570926	sex chromosome
+0.6960343850	homozygous mutant
+0.6959935751	untranslated region
+0.6949757577	dmrt7 mutants
+0.6921694354	olfactory receptor genes
+0.6921273145	p53 delta
+0.6918231255	specific differentially expressed
+0.6916976507	hmg coa
+0.6908129366	apoptotic cells
+0.6898457836	transcript levels
+0.6896594712	k14 snail
+0.6895613292	biliary sterol
+0.6895527638	outer hair
+0.6880433769	yeast two hybrid
+0.6863787112	increased iop
+0.6861133970	small effect
+0.6855235743	expression pattern
+0.6839669397	cln3 delta ex7 8
+0.6834528253	pre implantation embryos
+0.6827340898	immature hair
+0.6812891069	red arrow
+0.6812366533	intermediate cells
+0.6799855231	cell type
+0.6792164635	p value
+0.6789779625	calpain activity
+0.6788574249	sex specific
+0.6784762583	neo cassette
+0.6770830314	polyclonal antibody
+0.6769244369	figure 1a
+0.6757264605	pygo2 null
+0.6752173929	genomic sequence
+0.6750087582	deficient limbs
+0.6742468150	sterol secretion
+0.6730336919	cell differentiation
+0.6716752694	significantly higher
+0.6712092373	bone loss
+0.6690283667	wnt4 xx gonads
+0.6683574330	real time rt pcr
+0.6671966268	rna binding
+0.6670563177	tolerance test
+0.6669703960	platform task
+0.6662928591	terminal domain
+0.6656312140	pre implantation
+0.6654467641	testis sections
+0.6652486432	differentially expressed genes
+0.6650427332	appeared normal
+0.6645320582	mrna expression
+0.6640790100	fluorescent protein
+0.6630379418	high fat
+0.6630368946	fat diet
+0.6627643998	bud formation
+0.6621149495	figure 2a
+0.6616701827	gene family
+0.6603395536	bat gal expression
+0.6595193996	human acdp
+0.6585770633	red blood
+0.6573708361	p53 locus
+0.6573242008	candidate gene
+0.6557634086	target genes
+0.6510665790	sry expression
+0.6476665978	cbcln3 delta ex7 8
+0.6447526605	marrow stromal cells
+0.6438423675	adam11 deficient mice
+0.6424620247	lin et al
+0.6416640792	figure 4c
+0.6413196306	figure 4a
+0.6384827203	down regulation
+0.6375010316	wild type littermates
+0.6361445093	figure s2
+0.6350263430	figure 5b
+0.6331034252	protein extracts
+0.6322801199	anti rabbit
+0.6315672742	figure s1
+0.6298885347	chromosome synapsis
+0.6289195829	adam22 deficient mice
+0.6271458778	figure s3
+0.6265599297	precursor cells
+0.6264911160	stromal cells
+0.6251459283	fgf9 xy gonads
+0.6239749459	real time pcr
+0.6238606890	null mutation
+0.6237760238	homozygous cbcln3 delta ex7 8 cells
+0.6232239065	snail expression
+0.6210300224	xy fgf9
+0.6200404244	bxd strains
+0.6156782637	figure 2b
+0.6120128402	wnt4 xx
+0.6116867129	genomic region
+0.6099055591	adam11 protein
+0.6071290583	figure 5a
+0.6055746829	neural crest cells
+0.6026471596	binding domain
+0.6007219850	mab 203 217
+0.5961946669	wnt1 cre mutants
+0.5956291248	figure 4b
+0.5937779962	materials and methods
+0.5929207657	delta ex7 8
+0.5904880291	alk5 wnt1 cre
+0.5902982482	mu g ml
+0.5902843181	figure 1c
+0.5878898115	slc26a4 mice
+0.5859240686	click here for additional data file
+0.5849214686	scanning electron
+0.5847337679	expression patterns
+0.5845715924	figures and tables
+0.5831901955	expression levels
+0.5822194595	olfactory receptor gene
+0.5812964906	hki activity
+0.5806476647	targeted es
+0.5787002096	figure 1b
+0.5772693669	targeted allele
+0.5771292714	mcad mice
+0.5767101929	at room temperature
+0.5757298993	deficient mice
+0.5729920396	abcg8 sterolin 2
+0.5724927792	modifier qtl
+0.5709072473	abcg5 sterolin 1
+0.5696617852	read and approved
+0.5691945015	conceived and designed
+0.5688649944	grb 2
+0.5681634460	wild type and mutant
+0.5681288656	pygo1 and pygo2
+0.5661684237	bmp2 and bmp4
+0.5660730758	afferent and efferent
+0.5649818939	ecfp and eyfp
+0.5635410099	mutant testes
+0.5630335752	snail tg
+0.5629962835	distal chromosome 6
+0.5627841405	lower levels
+0.5625530633	mouse strains
+0.5620200306	homer3 and dncl1
+0.5616162545	pgc 1 alpha
+0.5613625392	short arm
+0.5596533293	lef 1 beta catenin
+0.5594145256	male and female
+0.5590658659	data not shown
+0.5576723150	dncl1 and trim11
+0.5575956312	down regulated
+0.5561789035	anti sam68
+0.5493461819	pygo1 + pygo2
+0.5491227571	adam22 gene
+0.5473412130	full length
+0.5463540747	central nervous system
+0.5462224088	ex vivo
+0.5457122953	bmp2 and bmp7
+0.5445998557	weeks of age
+0.5443486341	fgf9 gonads
+0.5435028120	whole mount
+0.5434589199	e cadherin
+0.5430524821	phases of cia
+0.5414112593	embedded in paraffin
+0.5404634893	inner segment
+0.5393931875	dna binding
+0.5364203073	growth and obesity
+0.5363984588	mutant spermatocytes
+0.5358180374	pax6 protein
+0.5351738387	b6 and d2
+0.5350162926	age related
+0.5340508953	new york
+0.5325703267	scale bar =
+0.5305755085	significantly reduced
+0.5305188004	abcg8 mice
+0.5291171684	mo old
+0.5275832647	fgf9 and wnt4
+0.5259372191	snail mrna
+0.5197808025	snail protein
+0.5167791699	genes encoding
+0.5151443411	fvb n
+0.5139851432	wk of age
+0.5138211578	x gal staining
+0.5129489461	positive cells
+0.5118679941	pygo1 pygo2 mutant
+0.5117002534	all authors read and approved
+0.5111282816	c terminal peptide
+0.5111107676	sumo 1
+0.5100782612	tgf beta 2 null
+0.5066453473	pgc 1 alpha mice
+0.5063965429	transgenic mice
+0.5058445738	wild type and heterozygous
+0.5017427771	sterol levels
+0.5006310004	primary antibody
+0.5005019822	dmrt7 protein
+0.4992935481	capan 1
+0.4991255009	tauews pea3 + isl1cre + embryos
+0.4973977685	x ssc
+0.4935791264	et al
+0.4931551739	anti abcg5 sterolin 1
+0.4922321064	shown in figure
+0.4919292928	inner segments
+0.4912920005	week old
+0.4897779197	mo of age
+0.4894109842	green fluorescent
+0.4893640640	rich domain
+0.4888523098	figure 2c
+0.4879651007	35 cycles
+0.4864407319	whole mount in situ hybridization
+0.4855311435	months old
+0.4851202730	wk old
+0.4845547849	click here for file
+0.4839677618	sam68 mice
+0.4824072023	taken together
+0.4819730631	chimeric mice
+0.4819393606	month old sam68
+0.4812768957	figure 3b
+0.4810336088	double homozygous
+0.4798380203	m calpain
+0.4785468694	levels of expression
+0.4746761307	75 kda
+0.4738460586	female pgc 1 alpha mice
+0.4714397373	cathepsin d
+0.4698044455	knock out
+0.4690863278	lef 1
+0.4677074915	important role
+0.4673381026	in situ hybridization
+0.4665245205	n terminal
+0.4660641399	mouse genomic dna
+0.4659862205	more pronounced
+0.4654931818	ca2 + dependent
+0.4650102606	nervous system
+0.4641792866	month old
+0.4633474244	distribution of annexin a7
+0.4626493557	ph 7
+0.4625277335	reduced levels
+0.4617943832	brain tissue
+0.4600506568	dmrt7 mutant cells
+0.4570744131	129p3 j
+0.4568985293	3 wks
+0.4566875389	rather than
+0.4556308479	threshold value
+0.4553357013	c57bl 6
+0.4552161759	mouse model
+0.4548010362	cln3 delta ex7 8 knock in
+0.4525537719	mouse brain
+0.4520844923	null mutant
+0.4509139840	tgf beta 2
+0.4483922891	nt 3
+0.4474312017	carried out
+0.4464120047	tauews pea3 + isl1cre +
+0.4401708108	mutant allele
+0.4399460952	no competing interests
+0.4395798994	+ sem
+0.4380995233	cbcln3 delta ex7 8 cells
+0.4373501236	cytochrome c
+0.4371032140	f actin
+0.4370098138	diplotene cells
+0.4342700380	tauews pea3 +
+0.4326214626	see below
+0.4307926204	tgf beta 2 signaling
+0.4303788841	image taken
+0.4285965977	expression of ews pea3
+0.4276230008	these findings suggest
+0.4250620515	no significant difference
+0.4243776296	mutant mice
+0.4239473317	null mice
+0.4200754320	pvcre +
+0.4151301937	female mice
+0.4148371959	wild type and homozygous
+0.4120443820	pcr analysis
+0.4117465528	analysis revealed
+0.4077265060	no significant differences
+0.4056921846	binding protein
+0.4054919318	adam11 deficient
+0.4034803251	cell cell
+0.4026296882	data suggest
+0.4002394141	94 degrees c
+0.4002209455	month old sam68 mice
+0.3996007576	reporter expression
+0.3989624040	72 degrees c
+0.3981429108	triton x
+0.3973248204	the present study
+0.3962539540	very few
+0.3946650457	ranbp2 + mice
+0.3935161429	bmp4c c
+0.3931823112	stained with hematoxylin
+0.3913393464	time point
+0.3861472869	taumgfp +
+0.3854285898	bmp2c c
+0.3840243679	cf mice on
+0.3799881158	postnatal day
+0.3750780325	critical p 0
+0.3746037642	mu and m calpain
+0.3744125658	t test
+0.3726519729	neuronal cells
+0.3724743039	injected into
+0.3721255275	cf mouse
+0.3692573208	cf mice
+0.3688306457	these results suggest
+0.3686923989	94 degrees
+0.3678647466	* p 0
+0.3668528098	both sexes
+0.3667658065	up regulation of sox9
+0.3659808606	ld of ranbp2
+0.3657769651	b6 mice
+0.3644271012	additional file 2
+0.3633803644	results suggest
+0.3628836975	mutant alleles
+0.3626783544	and tauews pea3
+0.3618408365	c terminal
+0.3613540661	antibodies against
+0.3611274837	compared to wild type
+0.3597646359	gonads at 11
+0.3572712291	these data suggest
+0.3563095567	72 degrees
+0.3549048278	p values
+0.3509544538	200 mu
+0.3505273063	ca2 +
+0.3502480785	an important role
+0.3477911823	mutant embryos
+0.3434581573	a small number
+0.3433691874	acdp gene
+0.3419206438	into bile
+0.3409964311	old sam68 mice
+0.3396573629	wild type mice
+0.3372945341	implantation embryos
+0.3365046831	congenic strains
+0.3329400100	three times
+0.3280738371	flanked by
+0.3280148282	dba 1
+0.3279607327	100 mm
+0.3262534192	x magnification
+0.3246748524	12 month old sam68 + +
+0.3243944770	p = 0
+0.3239043750	significant difference
+0.3231933832	sam68 + + and sam68
+0.3228261803	type i
+0.3225574800	15 min
+0.3209644621	beta 2 signaling
+0.3197720991	up regulation
+0.3194866465	mu l
+0.3191303979	under conditions
+0.3190106673	described above
+0.3181574372	mice lacking
+0.3170673126	heterozygous mice
+0.3158524611	wild type cells
+0.3154994783	loss of function
+0.3147497107	vestibular sensory
+0.3144148766	mu m
+0.3113714703	figure 1d
+0.3085424256	greater than
+0.3073973256	degrees c
+0.3065399474	subunit c
+0.3064655443	snail gene
+0.3062570420	solution containing
+0.3049861337	5 dpc
+0.3046289255	51 kda
+0.3041209243	mcad + + and mcad mice
+0.3041046596	mouse genome
+0.3035021125	12 month old sam68 mice
+0.3010725938	significant differences
+0.3008310171	gal expression
+0.2972410238	mutant cells
+0.2969132267	gene structure
+0.2954231082	48 h
+0.2914685237	mouse anti
+0.2914244337	slc26a4 + + and slc26a4
+0.2906961667	in vitro
+0.2903259763	mcad + + and mcad
+0.2884475462	of 18s rrna
+0.2882882621	relationship between
+0.2879860097	higher magnification of
+0.2874260923	table 1
+0.2861410938	additional file 1
+0.2856364626	relative to wild type
+0.2847807723	47 kda
+0.2845800469	higher magnification
+0.2844345775	each genotype
+0.2839005494	pgc 1 alpha + + controls
+0.2837979875	account for
+0.2827402586	supplemented with
+0.2823693991	11 and 17
+0.2818297555	the other hand
+0.2812315490	delta ex7 8 cells
+0.2800531393	no detectable
+0.2799473100	focused on
+0.2798645028	purchased from
+0.2789485062	pygo1 pygo2 +
+0.2787421218	followed by
+0.2782632180	table 2
+0.2771682511	slc26a4 + + and slc26a4 mice
+0.2763637398	cbcln3 + +
+0.2752801241	male pathway
+0.2750141223	explained by
+0.2748145308	does not
+0.2743825105	during cia
+0.2740653352	anti abcg5
+0.2733104268	bar =
+0.2712407938	12 month old
+0.2691342083	1 and 2
+0.2687773380	interacts with
+0.2667069417	d old
+0.2648227140	adult mouse
+0.2648084497	2 and 3
+0.2629169105	d2 mice
+0.2626076137	adam22 deficient
+0.2617614871	absence of bmp2 and bmp4
+0.2612348835	pgc 1 alpha gene
+0.2604272698	sam68 + + and sam68 mice
+0.2587704279	corresponding pgc 1 alpha + +
+0.2586112313	p 0
+0.2568445672	marginal cells
+0.2568043202	leads to
+0.2567064275	10 mm
+0.2560640314	did not
+0.2554029240	x gal
+0.2543196456	supported by
+0.2528105121	determine whether
+0.2520567171	mouse embryos
+0.2500403183	55 degrees c
+0.2492092891	mu g
+0.2491284825	in situ
+0.2483537639	mice homozygous for
+0.2477836760	n =
+0.2460626462	eyfp +
+0.2459482528	the endocochlear potential
+0.2455032043	additional data
+0.2452881428	accompanied by
+0.2443450189	20 mm
+0.2441775997	consistent with
+0.2432805049	previously described
+0.2432183465	mu and m
+0.2419227215	these observations
+0.2418435580	at least
+0.2396284384	ecfp +
+0.2393859141	by southern blotting
+0.2390621228	at p21
+0.2389026814	deficient mouse
+0.2375900081	sterolin 2
+0.2375794147	of corti
+0.2343841327	based on
+0.2339344704	mouse genomic
+0.2336477934	whole mount in situ
+0.2336101257	24 h
+0.2331475233	overnight at 4 degrees c
+0.2330649716	fail to
+0.2329445070	after birth
+0.2320137553	the short arm
+0.2316719581	c and d
+0.2314180222	capn2 +
+0.2307103175	unable to
+0.2294947001	do not
+0.2282376264	less than
+0.2269539829	according to
+0.2265073510	the wild type allele
+0.2265063647	e and f
+0.2264436456	real time
+0.2259210143	chromosome 6
+0.2245118790	isl1cre +
+0.2242602625	in alk5 wnt1 cre mutants
+0.2240520929	interact with
+0.2237961645	to generate
+0.2231289554	8 weeks
+0.2227185571	degrees c for 30
+0.2224966883	adult mice
+0.2222370984	6 months
+0.2221859100	between wild type and
+0.2218828058	as judged by
+0.2217776369	the mixed background
+0.2216719581	a and b
+0.2204920361	n = 11
+0.2197810238	slc26a4 + +
+0.2194273225	na +
+0.2176591889	days after
+0.2172653319	pgc 1
+0.2169902451	small number of
+0.2169111010	cre mice
+0.2163209945	month old mice
+0.2159662015	at 37 degrees c
+0.2154738929	5 co2
+0.2151146654	sterolin 1
+0.2148869370	12 month old sam68
+0.2133009485	due to
+0.2124434317	table 3
+0.2112693748	as described previously
+0.2107214078	consisted of
+0.2098400798	as follows
+0.2096742724	as well as
+0.2095875761	30 min
+0.2094555413	exon 4
+0.2092809316	aspects of
+0.2090915112	5 mm
+0.2087000906	blot analysis
+0.2083054027	able to
+0.2074504949	male mice
+0.2073499046	to determine
+0.2069984174	interaction between
+0.2043478732	subjected to
+0.2036392738	abcg8 +
+0.2036193852	n = 8
+0.2029769160	month old sam68 + +
+0.2028865426	k +
+0.2023325189	nature of
+0.2014579211	+ 0
+0.2009902095	old sam68 + + mice
+0.2005652453	capable of
+0.2002909753	pgc 1 alpha + +
+0.2002513528	variety of
+0.2001530772	the effects of
+0.1995360064	figure 2
+0.1979194114	participated in
+0.1970688951	exon 7
+0.1956888362	antibody against
+0.1951807577	these findings
+0.1945951638	responsible for
+0.1939578509	compared to
+0.1936170642	contribute to
+0.1922206331	such as
+0.1920276574	a member of
+0.1915304115	correlated with
+0.1915304115	accordance with
+0.1914069444	4 month old
+0.1904258718	mutant mouse
+0.1901325410	anti mouse
+0.1896693517	the differentiation of
+0.1896508091	in agreement with
+0.1888653923	figure 3
+0.1880356653	the same
+0.1879106782	12 month
+0.1877303127	the ld of
+0.1876614537	consequence of
+0.1876560891	does not appear to
+0.1871595354	95 degrees c
+0.1860517588	thought to
+0.1858323895	the function of
+0.1856343331	isolated from
+0.1855564685	n = 6
+0.1851343767	this study
+0.1848343898	equipped with
+0.1844578492	pygo1 + pygo2 +
+0.1839500366	the development of
+0.1839500366	the effect of
+0.1834453311	genes involved in
+0.1834014318	mcad + + mice
+0.1833460250	abcg8 + +
+0.1830431964	data indicate
+0.1823986565	mcad + +
+0.1818408191	caused by
+0.1816764205	60 s
+0.1810469300	the aortic sac
+0.1808095380	+ +
+0.1805767187	month old sam68 + + mice
+0.1805197846	the ability of
+0.1804752466	the basis of
+0.1797751813	exon 3
+0.1797275137	ranbp2 + +
+0.1793419133	the pattern of
+0.1777216386	figure 4
+0.1766916063	for 30 minutes
+0.1766837176	an essential
+0.1765080102	the surface of
+0.1764000145	the mutant allele
+0.1759647506	performed as previously described
+0.1758853800	n = 4
+0.1756693517	the interaction of
+0.1749500366	the activity of
+0.1747602608	the iops of
+0.1741857316	confirmed by
+0.1730327942	derived from
+0.1728882146	protein expression
+0.1726777093	required for
+0.1726658871	a total of
+0.1726229919	not significantly different
+0.1712406563	basal cell
+0.1712340873	over time
+0.1709189848	mice deficient
+0.1707164354	figure 1
+0.1684905005	6 wk
+0.1672612661	lead to
+0.1670213870	in fgf9 xy gonads
+0.1659307083	for helpful
+0.1655760063	involved in
+0.1652077931	figure 6
+0.1647043109	subset of
+0.1645963127	in order to
+0.1645667222	a high fat diet
+0.1644086640	receptor genes
+0.1638526981	exon 10
+0.1638457073	each group
+0.1635861428	the ureteric bud
+0.1631199746	to obtain
+0.1622260930	of annexin a7
+0.1613473789	obtained from
+0.1608358433	the xy body
+0.1606645553	figure 7
+0.1604643884	of stria vascularis
+0.1602159142	the plasma membrane
+0.1589068323	for 10 min
+0.1582597525	mice showed
+0.1577673680	associate with
+0.1575963364	difference between
+0.1564457839	xy gonads at
+0.1552961742	associated with
+0.1552550834	1 beta catenin
+0.1545822040	g ml
+0.1533073698	southern blot analysis of
+0.1528667203	exon 5
+0.1526921399	described previously
+0.1521210292	the male pathway
+0.1520986276	stained with
+0.1512451855	100 mu m
+0.1506840848	requirement for
+0.1499700675	mice exhibit
+0.1494146745	for example
+0.1493080259	by rt pcr
+0.1489688395	these results indicate
+0.1488099867	no evidence
+0.1481661915	for 30 min
+0.1471825125	two hybrid
+0.1464363919	05 compared to
+0.1460831646	ranbp2 +
+0.1454216068	performed as described
+0.1452542181	as previously described
+0.1447848230	to determine whether
+0.1444518955	to identify
+0.1441412362	a mouse model
+0.1440637139	homologous recombination in
+0.1429310742	annexin a7 in
+0.1428621142	30 minutes
+0.1427171318	at 95 degrees c
+0.1420234626	blood cells
+0.1419665511	antibodies used
+0.1417722215	mice displayed
+0.1411416539	the pygo1 pygo2
+0.1403481468	1 mm
+0.1400087785	e h
+0.1396172355	the wild type mice
+0.1390170662	placed on
+0.1389697087	4 paraformaldehyde
+0.1383381505	wild type allele
+0.1376041206	in brn3c null mutants
+0.1375277746	figure 8
+0.1374925133	the spinal cord
+0.1372914924	in stria vascularis
+0.1372054784	in contrast
+0.1363744042	50 mu m
+0.1363316061	sox9 expression in
+0.1361852993	n = 5
+0.1357970185	the olfactory epithelium
+0.1357877907	pgc 1 alpha + + mice
+0.1355680205	mcad +
+0.1355306239	expression patterns of
+0.1350627285	more than
+0.1348041719	g i
+0.1346144769	alpha mice
+0.1344127485	pygo2 + +
+0.1330590722	dependent on
+0.1326862890	to determine if
+0.1325955152	incubated with
+0.1323779300	crx + +
+0.1316838431	this work
+0.1315808304	removal of
+0.1311915967	more than one
+0.1311175785	in adam11 deficient mice
+0.1307052272	the metanephric mesenchyme
+0.1306349396	of adam11 deficient mice
+0.1306010086	significant differences in
+0.1305889808	of ews pea3
+0.1304718157	control mice
+0.1297142681	compared with
+0.1296705524	d f
+0.1287430309	expression of
+0.1278093216	in alk5 wnt1 cre
+0.1266017573	gift from
+0.1265943676	the presence of
+0.1254106561	figure 9
+0.1251057885	essential for
+0.1242430132	to investigate
+0.1230872997	figure 5
+0.1230847939	prior to
+0.1220189470	p53 +
+0.1217579735	in slc26a4 mice
+0.1215935902	appears to
+0.1212888213	the bat gal
+0.1212218011	to assess
+0.1209627876	sam68 + +
+0.1207207673	3 mmhg
+0.1201714012	n = 3
+0.1184332507	as described
+0.1181805330	the mouse genome
+0.1177498660	10 mu l
+0.1168324452	at 4 degrees c
+0.1164395967	primers used
+0.1160263003	a subset of
+0.1150239008	absence of
+0.1139163804	carried out using
+0.1130748590	+ and abcg8
+0.1126113386	difficult to
+0.1121903543	led to
+0.1121207048	identification of
+0.1109941167	amount of
+0.1108542685	leading to
+0.1106448854	to wild type mice
+0.1104743672	probed with
+0.1104123219	interactions between
+0.1102551396	localizes to
+0.1101356192	failed to
+0.1094388713	at least one
+0.1087851755	maintenance of
+0.1073014089	absence of bmp2
+0.1067960541	genes involved
+0.1067635147	at 1 wk
+0.1066716487	no differences
+0.1064412168	the hair bud
+0.1063373971	results indicate
+0.1060775547	expressed in
+0.1052484940	these data
+0.1051469514	loss of
+0.1048007230	assistance with
+0.1047509958	degree of
+0.1045998352	each strain
+0.1037536438	in es cells
+0.1036998890	encoded by
+0.1030845122	differences between
+0.1030766839	2 mm
+0.1029769982	effect on
+0.1024046245	at postnatal day
+0.1019315885	sam68 + + mice
+0.1016271942	but not
+0.1015728642	resulted in
+0.1012940497	to secrete
+0.1006215444	10 mu m
+0.0999228131	in addition
+0.0995204011	transferred to
+0.0994629220	a single
+0.0987558723	bind to
+0.0977063415	normalized to
+0.0976074164	as shown in figure
+0.0975304812	overlap with
+0.0963817249	performed using
+0.0960945666	10 mu g
+0.0959442214	analysis of
+0.0957276234	sufficient to
+0.0954937916	characterized by
+0.0945263897	of bmp signaling
+0.0939736999	old male
+0.0936344022	maintained on
+0.0936303259	the transgenic mice
+0.0935533727	cre mutants
+0.0934789275	8 cell
+0.0931076258	x g
+0.0928446535	these results
+0.0924126111	cbcln3 +
+0.0922667828	pgc 1 alpha + + and
+0.0920417894	+ pygo2 +
+0.0917419775	ability to
+0.0914338115	reviewed in
+0.0912882101	the ld of ranbp2
+0.0912369806	necessary for
+0.0909403706	10 min
+0.0905965031	generated by
+0.0899526396	4 month
+0.0897712399	hybridized with
+0.0895570380	resuspended in
+0.0890593667	pygo1 +
+0.0881353524	act as
+0.0880692304	~ 1
+0.0876472796	in drosophila
+0.0873242676	the absence of
+0.0871724980	the cytosol
+0.0869811259	no difference in
+0.0868067146	at e13
+0.0856576980	down regulation of
+0.0854421794	two strains
+0.0850268258	the basal cell
+0.0843262450	significantly different
+0.0838070359	during development
+0.0837010841	= 0
+0.0827818704	2 min
+0.0825552071	related to
+0.0819109400	defined as
+0.0809014343	at e11
+0.0803811344	effects on
+0.0798199225	old sam68
+0.0790457016	a consequence of
+0.0788148484	only one
+0.0782306679	rise to
+0.0777929641	receptor gene
+0.0777299269	to confirm
+0.0767046168	two genes
+0.0764529708	determined by
+0.0761587151	no significant
+0.0760588240	the cochlea
+0.0757844231	to create
+0.0756070704	fragment from
+0.0752804609	provided by
+0.0751761030	on chromosome
+0.0751127530	anesthetized with
+0.0747825686	these differences
+0.0747314113	characterization of
+0.0742659762	establishment of
+0.0738176619	37 degrees c
+0.0736673475	of ranbp2
+0.0731543411	mean +
+0.0729707752	and tauews pea3 +
+0.0728071769	shown to
+0.0725760775	visualized by
+0.0722982843	used to
+0.0719529111	appeared to
+0.0708420797	seen in
+0.0707796421	by southern
+0.0704848263	transfected with
+0.0703453178	treated with
+0.0700292681	these studies
+0.0689086484	+ and pgc 1 alpha
+0.0685859111	similar to
+0.0681112132	this process
+0.0678700615	3 kb
+0.0675982329	the nucleus
+0.0675814970	3 mm
+0.0675228200	other than
+0.0671261446	prepared from
+0.0665866935	these experiments
+0.0664010267	in 4 paraformaldehyde
+0.0659061565	expression in
+0.0653810943	degrees c for
+0.0653481932	used for
+0.0653252201	also observed
+0.0650644416	the entire
+0.0649829549	these genes
+0.0648211106	up regulation of
+0.0645084142	the central nervous system
+0.0640879184	appear to
+0.0637703652	at chr
+0.0634853771	approximately 1
+0.0622445506	5 min
+0.0617719694	all three
+0.0617651215	mu l of
+0.0614294334	overnight at
+0.0612606270	both wild type
+0.0609448186	role in
+0.0605887580	increase in
+0.0604623122	as determined by
+0.0603865195	5 kb
+0.0601325026	decreases in
+0.0588114250	an important
+0.0586514576	as expected
+0.0584413846	slc26a4 + + and
+0.0582383690	the manuscript
+0.0582364782	beta 1
+0.0578578348	majority of
+0.0573904327	number of
+0.0571983706	restricted to
+0.0570935490	generation of
+0.0570005712	mu g of
+0.0569548933	in pbs
+0.0567632610	the manufacturer
+0.0564414121	min at
+0.0563911345	digested with
+0.0549289375	pcr using
+0.0545394898	observed in
+0.0545300124	pygo2 +
+0.0544437660	present in
+0.0540955224	contributed to
+0.0540547757	4 degrees c
+0.0534894720	known to
+0.0534021846	in addition to
+0.0533688513	the loss of
+0.0524413068	disruption of
+0.0521785132	on mmu2
+0.0521429946	also showed
+0.0516276012	the expression of
+0.0513226001	= 11
+0.0510643747	sam68 +
+0.0509783861	each mouse
+0.0508206284	2 mu g
+0.0507730529	induction of
+0.0506425858	a variety of
+0.0506291231	reduction in
+0.0502299755	minutes at
+0.0500823679	other genes
+0.0494129315	not significantly
+0.0493436304	an increase in
+0.0491608595	regulation of
+0.0490572330	+ animals
+0.0488791231	activation of
+0.0488198717	the number of
+0.0487985042	the formation of
+0.0487851000	enriched in
+0.0486754273	a number of
+0.0483202995	each gene
+0.0482383690	the possibility
+0.0481675915	+ + mice
+0.0479590724	these proteins
+0.0479138073	5 kidneys
+0.0477699760	linked to
+0.0476913782	pgc 1 alpha +
+0.0476619418	decrease in
+0.0476511155	the majority of
+0.0476352636	interaction with
+0.0475540602	this result
+0.0474640787	the absence of bmp2 and bmp4
+0.0471957802	result in
+0.0468434885	1 wk
+0.0467383690	in vivo
+0.0467161607	implicated in
+0.0464563654	to characterize
+0.0463832898	detected in
+0.0463439495	5 mu g
+0.0459706530	= 4
+0.0458389513	as shown in
+0.0453376132	5 mu m
+0.0451553164	these two
+0.0451331937	at birth
+0.0449321134	on iop
+0.0447647692	the importance of
+0.0442813394	comparable to
+0.0439966600	basis for
+0.0434751526	amplified from
+0.0433590207	relative to
+0.0432901931	in xx
+0.0431975535	understanding of
+0.0431509254	a gift from
+0.0429758349	fused to
+0.0429702906	the first
+0.0427871503	identified by
+0.0427373613	+ mice
+0.0426052831	onset of
+0.0423649702	sensitive to
+0.0422129849	the last
+0.0421466741	expressed at
+0.0421264714	except for
+0.0418891172	assessed by
+0.0416065636	analyzed by
+0.0415153046	the role of
+0.0413575300	response to
+0.0413366309	not required
+0.0409102729	to test
+0.0406782313	of interest
+0.0405046963	examination of
+0.0403112363	produced by
+0.0402143617	beta 2
+0.0401297419	expressed as
+0.0400821075	taken from
+0.0399255610	the level of
+0.0396241567	of annexin a7 in
+0.0395929351	measured by
+0.0395748439	performed on
+0.0394416923	by pcr with
+0.0393157026	an additional
+0.0392145220	an increase
+0.0389079288	to examine
+0.0385456218	both bmp2 and bmp4
+0.0385198136	presence of
+0.0383448873	not detect
+0.0383011622	located in
+0.0377638577	+ and
+0.0377122328	role for
+0.0375605798	used as
+0.0370892665	expansion of
+0.0370477401	found in
+0.0367773295	from bmp2c c
+0.0364731049	adjacent to
+0.0364424189	identified as
+0.0364333756	the idea
+0.0362264952	range of
+0.0361712649	to date
+0.0361604658	the establishment of
+0.0361585560	to evaluate
+0.0360504799	incubated for
+0.0360349222	to develop
+0.0358356860	absent in
+0.0356533394	to maintain
+0.0355285866	a reduction in
+0.0354347628	+ + and
+0.0353352080	fgf9 +
+0.0349719291	knock in
+0.0348911379	result from
+0.0345535407	5 h
+0.0345122012	a failure
+0.0344257080	a role in
+0.0344056427	as described in
+0.0342918709	abundant in
+0.0341785432	level of
+0.0340449604	to detect
+0.0340242544	obtained by
+0.0340218620	but also
+0.0340107380	percent of
+0.0334745955	a series
+0.0334678289	change in
+0.0334462106	to measure
+0.0333958896	but not in
+0.0331991347	in crx + +
+0.0330315762	as compared to
+0.0328673594	1 kb
+0.0328356860	defect in
+0.0327816597	the basis for
+0.0321981963	necessary to
+0.0319632798	localized to
+0.0318277594	to amplify
+0.0315590964	in contrast to
+0.0315224376	the apex of
+0.0314632215	an early
+0.0313549580	all other
+0.0312298348	seems to
+0.0311557549	to induce
+0.0310969994	reported to
+0.0310926384	the apex
+0.0310136017	difference in
+0.0309291465	a key
+0.0308160546	the lack of
+0.0307494766	to establish
+0.0306788479	the cause of
+0.0306388905	part of
+0.0305437572	p =
+0.0303213042	1 alpha
+0.0303179248	not only
+0.0301411075	+ embryos
+0.0301088851	to produce
+0.0299636783	mediated by
+0.0299585828	a decrease in
+0.0299289654	gonads at
+0.0299156025	for genotyping
+0.0298660164	homozygous for
+0.0297687241	5 embryos
+0.0295405779	a role for
+0.0293257375	importance of
+0.0292631570	critical for
+0.0290446876	likely to
+0.0289329205	the absence of bmp2
+0.0287418829	weight at
+0.0286885496	dose of
+0.0285224376	the distribution of
+0.0285224376	the onset of
+0.0284810909	a positive
+0.0284504543	limited to
+0.0282774234	in response to
+0.0282577799	along with
+0.0282090634	version of
+0.0281559616	induced by
+0.0281458681	of bmp2 and
+0.0280000871	and embedded in
+0.0276086843	prepared as
+0.0273386972	localization of
+0.0271975209	detected by
+0.0267863380	sections from
+0.0265862971	2 h
+0.0264975000	known as
+0.0264160546	the generation of
+0.0262103328	lack of
+0.0261827742	+ es
+0.0259692361	of function
+0.0259311319	one or
+0.0257004543	designed to
+0.0256120240	important for
+0.0256046360	found to
+0.0254721440	indicated by
+0.0254551426	of annexin
+0.0254399847	formation of
+0.0253829586	not shown
+0.0252353176	reduced by
+0.0252245565	= 8
+0.0247624223	all authors
+0.0246802683	role of
+0.0246024223	no difference
+0.0243207445	distribution of
+0.0237679552	together with
+0.0232901931	with anti
+0.0230164115	as indicated
+0.0229154520	arm of
+0.0227744720	a common
+0.0226822293	by pcr
+0.0226811939	a representative
+0.0223364708	downstream of
+0.0220822988	embedded in
+0.0215213693	the absence
+0.0210764473	as well
+0.0210445439	old mice
+0.0203824984	series of
+0.0203669692	of age
+0.0203471035	corresponding to
+0.0200077820	a critical
+0.0196600469	= 3
+0.0196156676	to regulate
+0.0194857293	a large
+0.0191751049	proteins in
+0.0188077479	= 2
+0.0187551426	2 mu
+0.0185412848	a small
+0.0184551426	and bmp7
+0.0179700873	a role
+0.0178700279	the hidden
+0.0178473006	= 6
+0.0170213693	to form
+0.0166218093	1 beta
+0.0158279847	cause of
+0.0157424005	a high
+0.0156927121	at 11
+0.0154467662	the presence
+0.0153610644	a decrease
+0.0147571060	to play
+0.0134423963	as previously
+0.0123615914	sections of
+0.0123294435	= 5
+0.0123092640	5 x
+0.0118132633	in most
